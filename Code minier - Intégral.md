@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1998-12-31
+Version Consolidée au 1999-03-31
 
 # Livre Ier : Régime général
 
@@ -292,7 +292,7 @@ Ce permis confère à son titulaire l'exclusivité du droit d'effectuer tous tra
 permis et de disposer librement des produits extraits à l'occasion des recherches et des essais qu'elles peuvent comporter.
 
 Nul ne peut obtenir un permis exclusif de recherches s'il ne possède les capacités techniques et financières nécessaires pour
-mener à bien les travaux de recherches et pour répondre aux obligations mentionnées aux articles 79 et 84. Un décret en
+mener à bien les travaux de recherches et pour répondre aux obligations mentionnées aux articles 79 et 91. Un décret en
 Conseil d'Etat définit les critères d'appréciation de ces capacités, les critères d'attribution des titres ainsi que la
 procédure d'instruction des demandes de permis.
 
@@ -304,7 +304,7 @@ procédure d'instruction des demandes de permis.
 
 	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 2 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
 
 	**Cité par**:
 
@@ -312,7 +312,7 @@ procédure d'instruction des demandes de permis.
 
 	**Cite**:
 
-	  - Code minier 79, 84
+	  - Code minier 79, 91
 
 
 ###### Article 10
@@ -590,7 +590,7 @@ générales et spécifiques sont définies par décret en Conseil d'Etat et pré
 pétitionnaires.
 
 Nul ne peut obtenir une concession de mines s'il ne possède les capacités techniques et financières nécessaires pour mener à
-bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 79, 79-1 et 84. Un décret en
+bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 79, 79-1 et 91. Un décret en
 Conseil d'Etat définit les critères d'appréciation de ces capacités, les critères d'attribution des titres ainsi que la
 procédure d'instruction des demandes de concessions.
 
@@ -605,7 +605,7 @@ concessionnaire. Dans ce cas, l'inventeur est préalablement appelé à présent
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 5 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
 
 	**Cité par**:
 
@@ -615,7 +615,7 @@ concessionnaire. Dans ce cas, l'inventeur est préalablement appelé à présent
 
 	**Cite**:
 
-	  - Code minier 26, 79, 79-1, 84
+	  - Code minier 26, 79, 79-1, 91
 
 
 ###### Article 26
@@ -690,22 +690,23 @@ Une concession peut être accordée conjointement à plusieurs sociétés commer
 L'étendue d'une concession est déterminée par l'acte de concession. Elle est limitée par la surface engendrée par les
 verticales indéfiniment prolongées en profondeur et s'appuyant sur un périmètre défini en surface.
 
-Toutefois, la responsabilité de l'exploitant à raison de ses travaux miniers n'est pas limitée aux seuls dégâts causés à
-l'intérieur du périmètre définissant la concession.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 11 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L132-10 (V)
 
 
 ###### Article 29
@@ -1188,12 +1189,12 @@ antérieurement à cette date.
 ###### Article 51
 
 Les permis d'exploitation de mines sont accordés par arrêté du ministre chargé des mines, après enquête publique, sur avis
-conforme du conseil général des mines et, s'il s'agit de substances utiles à l'énergie atomique, sur avis du comité de
+conforme du Conseil général des mines et, s'il s'agit de substances utiles à l'énergie atomique, sur avis du Comité de
 l'énergie atomique.
 
 A l'arrêté institutif peuvent être annexées des conditions particulières comprenant notamment :
 
-Des obligations relatives à la protection des intérêts mentionnés à l'article 84 ;
+Des obligations relatives à la protection des intérêts mentionnés à l'article 91 ;
 
 Des obligations concernant éventuellement les relations entre titulaires conjoints et solidaires ;
 
@@ -1207,17 +1208,13 @@ Des obligations concernant la disposition des produits.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 13 () JORF 18 juin 1977
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
 
 	**Cite**:
 
-	  - Code minier 84
+	  - Code minier 91
 
 
 ###### Article 52
@@ -1758,7 +1755,7 @@ La décision de retrait est prononcée par l'autorité administrative selon des 
 
 ###### Article 68-7
 
-Les dispositions des titres IV (sauf ses articles 71 à 74, 78, 83 et 84), VI bis (sauf son article 119-4), VIII, IX et X du
+Les dispositions des titres IV (sauf ses articles 71 à 74, 78, 83 et 91), VI bis (sauf son article 119-4), VIII, IX et X du
 présent livre sont applicables à l'autorisation d'exploitation.
 
 **Liens relatifs à cet article**
@@ -1767,13 +1764,21 @@ présent livre sont applicables à l'autorisation d'exploitation.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-16 (V)
 
 	**Cite**:
 
-	  - Code minier 71 à 74, 78, 83, 84
+	  - Code minier
 
 
 ###### Article 68-8
@@ -1900,17 +1905,25 @@ L'étendue d'un permis d'exploitation est déterminée par l'acte accordant le p
 par les verticales indéfiniment prolongées en profondeur et s'appuyant sur un périmètre défini en surface.
 
 Toutefois, la responsabilité de l'exploitant à raison de ses travaux miniers n'est pas limitée aux seuls dégâts causés à
-l'intérieur du périmètre définissant la concession.
+l'intérieur du périmètre définissant le permis d'exploitation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 7 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-23 (V)
 
 
 ###### Article 68-12
@@ -1992,22 +2005,26 @@ en cas de non-respect des dispositions de l'article 68-20.
 
 ###### Article 68-15
 
-Les dispositions des articles 28 et 43, ainsi que celles des titres IV (sous réserve des adaptations prévues par l'article
-68-16), VI bis, VI ter, VIII, IX et X du présent livre, sont applicables au permis d'exploitation.
+Les dispositions des titres IV (sous réserve des adaptations prévues par l'article 68-16), VI bis, VI ter, VIII, IX et X du
+présent livre sont applicables au permis d'exploitation.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 7 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 	**Cite**:
 
-	  - Code minier 28, 43, 68-16
+	  - Code minier
 
 
 ###### Article 68-16
@@ -2678,23 +2695,36 @@ y aura lieu à l'indemnité d'une mine en faveur de l'autre ; le règlement s'en
 
 ###### Article 75-1
 
-L'exploitant ou le titulaire d'un permis exclusif de recherches est responsable des dommages causés par son activité. Il peut
-toutefois s'exonérer de sa responsabilité en apportant la preuve d'une cause étrangère.
+L'explorateur ou l'exploitant, ou à défaut le titulaire du titre minier, est responsable des dommages causés par son
+activité. Il peut toutefois s'exonérer de sa responsabilité en apportant la preuve d'une cause étrangère.
+
+Cette responsabilité n'est pas limitée au périmètre du titre minier ni à la durée de validité du titre.
+
+En cas de disparition ou de défaillance du responsable, l'Etat est garant de la réparation des dommages mentionnés au premier
+alinéa ; il est subrogé dans les droits de la victime à l'encontre du responsable.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 15 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 1 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L155-3 (V)
 
 
 ###### Article 75-2
 
-Le vendeur d'un terrain sur le tréfonds duquel une mine a été exploitée est tenu d'en informer par écrit l'acheteur ; il
+I. - Le vendeur d'un terrain sur le tréfonds duquel une mine a été exploitée est tenu d'en informer par écrit l'acheteur ; il
 l'informe également, pour autant qu'il les connaisse, des dangers ou inconvénients importants qui résultent de
 l'exploitation.
 
@@ -2703,7 +2733,60 @@ partie du prix ; il peut aussi demander, aux frais du vendeur, la suppression de
 compromettent un usage normal du terrain lorsque le coût de cette suppression ne paraît pas disproportionné par rapport au
 prix de la vente.
 
-Cet article s'applique à toute forme de mutation immobilière autre que la vente.
+Les dispositions précédentes s'appliquent également à toute forme de mutation immobilière autre que la vente.
+
+II. - Dans un contrat de mutation immobilière conclu avec une collectivité locale ou avec une personne physique non
+professionnelle après l'entrée en vigueur de la loi n° 94-588 du 15 juillet 1994 modifiant certaines dispositions du code
+minier et l'article L. 711-12 du code du travail, toute clause exonérant l'exploitant de la responsabilité des dommages liés
+à son activité minière est frappée de nullité d'ordre public.
+
+Lorsqu'une telle clause a été valablement insérée dans un contrat de mutation immobilière conclu avec une collectivité locale
+ou une personne physique non professionnelle, l'Etat assure dans les meilleurs délais l'indemnisation des dommages matériels
+directs et substantiels qui n'auraient pas été couverts par une autre contribution et qui ont pour cause déterminante un
+sinistre minier. Il est subrogé dans les droits des victimes nés de ce sinistre à concurrence des sommes qu'il serait amené à
+verser en application du présent alinéa.
+
+Un sinistre minier se définit, au sens du présent article, comme un affaissement ou un accident miniers soudains, ne trouvant
+pas son origine dans des causes naturelles et provoquant la ruine d'un ou plusieurs immeubles bâtis ou y occasionnant des
+dommages dont la réparation équivaut à une reconstruction totale ou partielle. Cet affaissement ou cet accident est constaté
+par le représentant de l'Etat, qui prononce à cet effet l'état de sinistre minier.
+
+III. - Un décret en Conseil d'Etat précise en tant que de besoin les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Cite**:
+
+	  - Loi n°94-588 du 15 juillet 1994
+	  - Code du travail - art. L711-12
+
+	**Modifié par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 2 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L154-2 (V)
+	  - Code minier (nouveau) - art. L155-4 (V)
+	  - Code minier (nouveau) - art. L155-5 (V)
+
+
+###### Article 75-3
+
+L'indemnisation des dommages immobiliers liés à l'activité minière présente ou passée consiste en la remise en l'état de
+l'immeuble sinistré. Lorsque l'ampleur des dégâts subis par l'immeuble rend impossible la réparation de ces désordres dans
+des conditions normales, l'indemnisation doit permettre au propriétaire de l'immeuble sinistré de recouvrer dans les
+meilleurs délais la propriété d'un immeuble de consistance et de confort équivalents.
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -2713,7 +2796,16 @@ Cet article s'applique à toute forme de mutation immobilière autre que la vent
 
 	**Créé par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 16 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 3 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L155-6 (V)
+	  - Code minier (nouveau) - art. L155-7 (V)
 
 
 ###### Article 76
@@ -3005,84 +3097,31 @@ recherches et d'exploitation sont réalisés, dans le respect des intérêts men
 	  - Code minier 79, 79-1
 
 
-###### Article 84
+###### Article 84-1
 
-Le cas échéant, lors de la fin de chaque tranche de travaux et, en dernier ressort, lors de la fin de l'exploitation et
-l'arrêt des travaux, l'explorateur ou l'exploitant fait connaître les mesures qu'il envisage de mettre en oeuvre pour
-préserver les intérêts mentionnés à l'article 79, pour faire cesser de façon générale les séquelles, désordres et nuisances
-de toute nature générés par ses activités et pour ménager, le cas échéant, les possibilités de reprise de l'exploitation.
-
-Dans tous les cas, l'explorateur ou l'exploitant dresse le bilan des effets des travaux sur la présence, l'accumulation,
-l'émergence, le volume, l'écoulement et la qualité des eaux de toute nature, évalue les conséquences de l'arrêt des travaux
-ou de l'exploitation sur la situation ainsi créée et sur les usages de l'eau et indique les mesures compensatoires
-envisagées.
-
-La déclaration doit être faite au plus tard au terme de la validité du titre minier. A défaut, l'autorité administrative
-reste habilitée au-delà de ce terme à prescrire les mesures nécessaires.
-
-Au vu de cette déclaration, et après avoir consulté les conseils municipaux des communes intéressées et entendu l'explorateur
-ou l'exploitant, l'autorité administrative prescrit, en tant que de besoin, les mesures à exécuter et les modalités de
-réalisation qui n'auraient pas été suffisamment précisées ou qui auraient été omises par le déclarant.
-
-Elle prescrit également, en tant que de besoin et dans les mêmes formes, les travaux à exécuter pour préserver les paysages
-et pour répondre aux objectifs mentionnés aux articles 1er et 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau et ce à due
-proportion des conséquences de l'exploitation minière.
-
-Elle prescrit les mesures nécessaires pour préserver les intérêts agricoles des sites et des lieux affectés par les travaux
-et par les installations de toute nature réalisés en vue de l'exploitation et de la recherche.
-
-L'autorité administrative peut accorder à l'explorateur ou à l'exploitant le bénéfice des dispositions des articles 71 à 73
-du présent code pour réaliser les mesures prescrites par le présent article jusqu'à leur complète réalisation.
-
-Le défaut de réalisation des mesures prévues au présent article entraîne leur exécution d'office par les soins de
-l'administration, aux frais de l'explorateur ou de l'exploitant.
-
-La consignation entre les mains d'un comptable public des sommes nécessaires à leur réalisation peut être exigée et, le cas
-échéant, recouvrée comme en matière de créance étrangère à l'impôt et au domaine.
-
-Lorsque les mesures prévues par le présent article ou prescrites par l'autorité administrative en application du présent
-article ont été réalisées, l'autorité administrative en donne acte à l'explorateur ou à l'exploitant. Cette formalité met fin
-à la surveillance des mines telle qu'elle est prévue à l'article 77. Toutefois, s'agissant des activités régies par le
-présent code, l'autorité administrative peut intervenir dans le cadre des dispositions de l'article 79 jusqu'à l'expiration
-de la validité du titre minier.
+L'absence de titre minier ne fait pas obstacle à l'application de l'intégralité des dispositions de l'article 91.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-838 1956-08-16
-
-	**Cite**:
-
-	  - Loi n°92-3 1992-01-03 art. 1, art. 2
-	  - Code minier 79, 71 à 73, 77
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 22 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
 
 	**Abrogé par**:
 
-	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
+	**Nouveaux textes**:
 
-###### Article 84-1
-
-L'absence de titre minier ne fait pas obstacle à l'application de l'intégralité des dispositions de l'article 84.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Loi n°94-588 du 15 juillet 1994 - art. 23 () JORF 16 juillet 1994
+	  - Code minier (nouveau) - art. L163-10 (V)
 
 	**Cite**:
 
-	  - Code minier 84
+	  - Code minier
 
 
 ###### Article 85
@@ -3158,36 +3197,49 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 
 Sans que puissent être invoquées les dispositions de l'article 26 du présent code, et sans préjudice des dispositions de
 l'article 119-1, tout explorateur ou exploitant de mines qui aura fait l'objet d'une condamnation à une peine correctionnelle
-pour inexécution des obligations lui incombant en application des articles 79 à 87 pourra, pendant une période de cinq ans à
-compter du jour où sa peine sera devenue définitive, se voir refuser tout nouveau titre ou toute nouvelle autorisation de
-recherches ou d'exploitation.
+pour inexécution des obligations lui incombant en application des articles 79 à 87 et 91 pourra, pendant une période de cinq
+ans à compter du jour où sa peine sera devenue définitive, se voir refuser tout nouveau titre ou toute nouvelle autorisation
+de recherches ou d'exploitation.
 
 Il en est de même pour l'explorateur ou l'exploitant qui n'a pas satisfait, dans les délais prescrits, aux obligations de
 remise en état fixées dans la décision lui accordant son titre ou son autorisation ou celles imposées en application de
-l'article 84 ci-dessus.
+l'article 91 ci-dessus.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 26 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-8 (V)
 
 	**Cite**:
 
-	  - Code minier 26, 119-1, 79 à 87, 84
+	  - Code minier
 
 
 ###### Article 87
 
-En cas d'accident arrivé dans une mine, les maires et autres officiers de police prennent, conjointement avec l'ingénieur des
-mines, toutes les mesures convenables pour faire cesser le danger et en prévenir la suite ; ils peuvent, comme dans le cas de
-péril imminent, faire des réquisitions de matériels, hommes et faire exécuter des travaux sous la direction de l'ingénieur
-des mines ou des ingénieurs placés sous ses ordres et, en cas d'absence, sous la direction des experts délégués à cet effet
-par l'autorité locale.
+En cas d'accident survenu dans une mine en cours d'exploitation, l'autorité administrative prend toutes les mesures
+nécessaires convenables pour faire cesser le danger et en prévenir la suite ; elle peut, comme dans le cas de péril imminent,
+faire des réquisitions de matériels, hommes et faire exécuter des travaux sous la direction de l'ingénieur des mines ou des
+ingénieurs placés sous ses ordres et, en cas d'absence, sous la direction des experts délégués, à cet effet, par l'autorité
+locale.
+
+Par ailleurs, la mesure par laquelle est prononcé l'état de sinistre minier, au sens de l'article 75-2 du présent code, opère
+transfert au profit de l'Etat des compétences découlant, au titre de ce sinistre, du 5° de l'article L. 2212-2 du code
+général des collectivités territoriales. Ce transfert se poursuit jusqu'à ce que l'autorité administrative ait constaté la
+fin de l'état de sinistre minier.
 
 **Liens relatifs à cet article**
 
@@ -3201,7 +3253,21 @@ par l'autorité locale.
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 12 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 6 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L175-3 (V)
+	  - Code minier (nouveau) - art. L175-4 (V)
 
 
 ###### Article 90
@@ -3227,6 +3293,323 @@ contre qui de droit.
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L152-1 (V)
+
+
+### Chapitre III : De l'arrêt des travaux miniers et de la prévention des risques
+
+#### Section 1 : De l'arrêt des travaux miniers.
+
+###### Article 91
+
+La procédure d'arrêt des travaux miniers s'applique à une installation particulière lorsqu'elle cesse d'être utilisée pour
+l'exploitation à l'ensemble des installations et des travaux concernés, lors de la fin d'une tranche de travaux et en tout
+état de cause à l'ensemble des installations et des travaux n'ayant pas fait l'objet de la procédure d'arrêt lors de la fin
+de l'exploitation. Les déclarations prévues par cette procédure doivent être faites au plus tard au terme de la validité du
+titre minier. A défaut, l'autorité administrative reste habilitée au-delà de ce terme à prescrire les mesures nécessaires. 
+
+Lors de la cessation d'utilisation d'installations mentionnées à l'article 77, ou lors de la fin de chaque tranche de travaux
+ou, au plus tard, lors de la fin de l'exploitation et de l'arrêt des travaux, l'explorateur ou l'exploitant fait connaître
+les mesures qu'il envisage de mettre en oeuvre pour préserver les intérêts mentionnés à l'article 79, pour faire cesser de
+façon générale les désordres et nuisances de toute nature engendrés par ses activités, pour prévenir les risques de
+survenance de tels désordres, et pour ménager le cas échéant les possibilités de reprise de l'exploitation. 
+
+Dans le cas où il n'existe pas de mesures techniques raisonnablement envisageables permettant de prévenir ou faire cesser
+tout désordre, il incombe à l'explorateur ou à l'exploitant de rechercher si des risques importants susceptibles de mettre en
+cause la sécurité des biens ou des personnes subsisteront après l'arrêt des travaux. Si de tels risques subsistent, il étudie
+et présente les mesures, en particulier de surveillance, qu'il estime devoir être poursuivies après la formalité mentionnée
+au neuvième alinéa du présent article. 
+
+Dans tous les cas, l'explorateur ou l'exploitant dresse le bilan des effets des travaux sur la présence, l'accumulation,
+l'émergence, le volume, l'écoulement et la qualité des eaux de toute nature, évalue les conséquences de l'arrêt des travaux
+ou de l'exploitation sur la situation ainsi créée et sur les usages de l'eau et indique les mesures envisagées pour y
+remédier en tant que de besoin. 
+
+Au vu de la déclaration d'arrêt des travaux, après avoir consulté les conseils municipaux des communes intéressées et après
+avoir entendu l'explorateur ou l'exploitant, l'autorité administrative prescrit, en tant que de besoin, les mesures à
+exécuter et les modalités de réalisation qui n'auraient pas été suffisamment précisées ou qui auraient été omises par le
+déclarant. L'autorité administrative indique le délai dans lequel les mesures devront être exécutées. 
+
+Le défaut d'exécution des mesures prescrites entraîne leur exécution d'office par les soins de l'administration, aux frais de
+l'explorateur ou de l'exploitant. 
+
+La consignation entre les mains d'un comptable public des sommes nécessaires à leur réalisation peut être exigée et, le cas
+échéant, ces sommes peuvent être recouvrées comme en matière de créance étrangère à l'impôt et au domaine. 
+
+L'autorité administrative peut accorder à l'explorateur ou l'exploitant le bénéfice des dispositions des articles 71 à 73
+pour réaliser les mesures prescrites jusqu'à leur complète réalisation. 
+
+Lorsque les mesures envisagées par l'explorateur ou l'exploitant, ou prescrites par l'autorité administrative en application
+du présent article, ont été exécutées, cette dernière en donne acte à l'explorateur ou à l'exploitant. 
+
+Cette formalité met fin à l'exercice de la police des mines telle qu'elle est prévue à l'article 77. Toutefois, s'agissant
+des activités régies par le présent code, et lorsque des risques importants susceptibles de mettre en cause la sécurité des
+biens ou des personnes apparaissent après la formalité prévue à l'alinéa précédent, l'autorité administrative peut intervenir
+dans le cadre des dispositions de l'article 79 jusqu'à l'expiration du titre minier et, dans les cas prévus au premier alinéa
+de l'article 93, jusqu'au transfert à l'Etat de la surveillance et de la prévention des risques miniers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Cité par**:
+
+	  - Décret n°59-1205 du 23 octobre 1959 - art. 1 (V)
+	  - Décret n°2007-1806 du 21 décembre 2007 - art. 1 (V)
+	  - Décret n°2007-1806 du 21 décembre 2007 - art. 3 (V)
+	  - Code de l'environnement - art. R414-19 (V)
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L163-1 (V)
+	  - Code minier (nouveau) - art. L163-2 (V)
+	  - Code minier (nouveau) - art. L163-3 (V)
+	  - Code minier (nouveau) - art. L163-4 (V)
+	  - Code minier (nouveau) - art. L163-5 (V)
+	  - Code minier (nouveau) - art. L163-6 (V)
+	  - Code minier (nouveau) - art. L163-7 (V)
+	  - Code minier (nouveau) - art. L163-8 (V)
+	  - Code minier (nouveau) - art. L163-9 (V)
+
+	**Cite**:
+
+	  - Code minier - art. 77
+	  - Code minier - art. 79
+
+
+###### Article 92
+
+L'explorateur ou l'exploitant est tenu de remettre aux collectivités intéressées ou aux établissements publics de coopération
+intercommunale compétents les installations hydrauliques que ces personnes publiques estiment nécessaires ou utiles à
+l'assainissement, à la distribution de l'eau ou à la maîtrise des eaux pluviales, de ruissellement et souterraines. Les
+droits et obligations afférents à ces installations sont transférés avec elles.
+
+Les installations hydrauliques nécessaires à la sécurité sont transférées à leur demande dans les mêmes conditions. Ce
+transfert est approuvé par le représentant de l'Etat ; il est assorti du versement par l'exploitant d'une somme correspondant
+au coût estimé des dix premières années de fonctionnement de ces installations, et dont le montant est arrêté par le
+représentant de l'Etat.
+
+Les litiges auxquels donne lieu l'application du présent article sont réglés comme en matière de travaux publics.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+92 les mots " par le représentant de l'Etat " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Cité par**:
+
+	  - Décret n°59-1205 du 23 octobre 1959 - art. 1 (V)
+	  - Arrêté du 21 juin 2010 (V)
+	  - Décret n°2016-933 du 7 juillet 2016 - art. 4
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L163-11 (V)
+
+
+#### Section 2 : De la prévention et de la surveillance des risques miniers.
+
+###### Article 93
+
+Lorsque des risques importants d'affaissement de terrain ou d'accumulation de gaz dangereux, susceptibles de mettre en cause
+la sécurité des biens ou des personnes, ont été identifiés lors de l'arrêt des travaux, l'exploitant met en place les
+équipements nécessaires à leur surveillance et à leur prévention et les exploite.
+
+La fin de la validité du titre minier emporte transfert à l'Etat de la surveillance et de la prévention de ces risques, sous
+réserve que les déclarations prévues à l'article 91 aient été faites et qu'il ait été donné acte des mesures réalisées.
+
+Ce transfert n'intervient toutefois qu'après que l'explorateur ou l'exploitant a transmis à l'Etat les équipements, les
+études et toutes les données nécessaires à l'accomplissement des missions de surveillance et de prévention et qu'après le
+versement par l'exploitant d'une somme correspondant au coût estimé des dix premières années de la surveillance et de la
+prévention des risques et du fonctionnement des équipements.
+
+L'autorité administrative peut recourir aux dispositions des articles 71 et 72 pour permettre l'accomplissement par ses
+services des mesures de surveillance et de prévention des risques miniers, ou pour exécuter des travaux en vue d'assurer la
+sécurité des personnes et des biens.
+
+L'autorité administrative informe annuellement les élus locaux réunis au sein d'un comité départemental ou interdépartemental
+de suivi des risques miniers du déroulement et des résultats de la surveillance de ces risques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Cité par**:
+
+	  - Arrêté du 21 décembre 2007 (Ab)
+	  - Décret n°2016-933 du 7 juillet 2016 - art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cite**:
+
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L174-1 (V)
+	  - Code minier (nouveau) - art. L174-2 (V)
+	  - Code minier (nouveau) - art. L174-3 (V)
+	  - Code minier (nouveau) - art. L174-4 (V)
+
+
+###### Article 94
+
+L'Etat élabore et met en oeuvre des plans de prévention des risques miniers, dans les conditions prévues aux articles 40-1 à
+40-7 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt
+contre l'incendie et à la prévention des risques majeurs, relatifs aux plans de prévention des risques naturels prévisibles.
+Ces plans emportent les mêmes effets que les plans de prévention des risques naturels prévisibles. Toutefois, les
+dispositions de l'article 13 de la loi n° 95-101 du 2 février 1995 relative au renforcement de la protection de
+l'environnement ne leur sont pas applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Cite**:
+
+	  - Loi n°87-565 1987-07-22 art. 40-1 à 40-7
+	  - Loi n°95-101 du 2 février 1995 - art. 13 (M)
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R125-10 (V)
+	  - Code de l'urbanisme - art. R*123-14 (VT)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
+	  - Code de la construction et de l'habitation. - art. R126-1 (V)
+
+
+###### Article 95
+
+Sans préjudice des dispositions prévues au 5° de l'article L. 2212-2 et à l'article L. 2212-4 du code général des
+collectivités territoriales, en cas de risque minier menaçant gravement la sécurité des personnes, les biens exposés à ce
+risque peuvent être expropriés par l'Etat, dans les conditions prévues par le code de l'expropriation pour cause d'utilité
+publique, lorsque les moyens de sauvegarde et de protection des populations s'avèrent plus coûteux que l'expropriation.
+
+La procédure prévue par les articles L. 15-6 à L. 15-8 du code de l'expropriation pour cause d'utilité publique est
+applicable lorsque l'extrême urgence rend nécessaire l'exécution immédiate de mesures de sauvegarde.
+
+Pour la détermination du montant des indemnités, il n'est pas tenu compte du risque.
+
+Sans préjudice des dispositions de l'article L. 13-14 du code de l'expropriation pour cause d'utilité publique, les
+acquisitions d'immeubles peuvent ne donner lieu à aucune indemnité ou seulement à une indemnité réduite si, en raison de
+l'époque à laquelle elles ont eu lieu, il apparaît qu'elles ont été faites pour obtenir une indemnisation supérieure au prix
+d'achat.
+
+Sont présumées faites à cette fin, sauf preuve contraire, les acquisitions postérieures à l'ouverture de l'enquête publique
+préalable à l'approbation d'un plan de prévention des risques miniers rendant inconstructible la zone concernée ou, en
+l'absence d'un tel plan, postérieures à l'ouverture de l'enquête publique préalable à l'expropriation.
+
+A compter de la publication de l'arrêté d'ouverture de l'enquête publique préalable à l'expropriation réalisée en application
+des deux premiers alinéas du présent article, aucun permis de construire ni aucune autorisation administrative susceptible
+d'augmenter la valeur des biens à exproprier ne peut être délivré jusqu'à la conclusion de la procédure.
+
+La personne morale de droit public au nom de laquelle un permis de construire ou une autorisation administrative a été
+délivré en méconnaissance des dispositions du précédent alinéa, ou en contradiction avec les dispositions d'un plan de
+prévention des risques miniers rendues opposables, est tenue de rembourser à l'Etat le coût de l'expropriation des biens
+ayant fait l'objet de ce permis.
+
+Les dispositions du présent article sont applicables aux biens immobiliers ayant subi des affaissements lorsque le coût de
+leur sauvegarde, maintien en l'état ou réparation excède la valeur du bien telle qu'évaluée sans tenir compte du risque.
+
+L'expropriation prononcée en application du présent article entraîne subrogation de l'Etat dans les droits des propriétaires
+liés aux biens expropriés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Cité par**:
+
+	  - Décret n°2000-547 du 16 juin 2000 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L174-10 (V)
+	  - Code minier (nouveau) - art. L174-11 (V)
+	  - Code minier (nouveau) - art. L174-6 (V)
+	  - Code minier (nouveau) - art. L174-7 (V)
+	  - Code minier (nouveau) - art. L174-8 (V)
+	  - Code minier (nouveau) - art. L174-9 (V)
+
+	**Cite**:
+
+	  - Code général des collectivités territoriales - art. L2212-2
+	  - Code général des collectivités territoriales - art. L2212-4
+	  - Code de l'expropriation pour cause d'utilité publique
+	  - Code de l'expropriation pour cause d'utilité publique - art. L13-14
+
+
+###### Article 96
+
+Un décret en Conseil d'Etat précise les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L163-12 (V)
+	  - Code minier (nouveau) - art. L174-12 (V)
 
 
 ## Titre V : Des gîtes géothermiques à basse température.
@@ -4095,24 +4478,47 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 ###### Article 119-5
 
 La mutation d'un permis exclusif de recherches de mines, la mutation ou l'amodiation d'une concession de mines font l'objet
-d'une autorisation accordée dans les mêmes conditions que celles prévues pour l'octroi du titre, à l'exception de la mise en
-concurrence et, pour ce qui concerne la concession, de l'enquête publique.
+d'une autorisation accordée par le ministre chargé des mines dans les mêmes conditions que celles prévues pour l'octroi du
+titre, à l'exception de la mise en concurrence et, pour ce qui concerne la concession, de l'enquête publique et de la
+consultation du Conseil d'Etat.
 
-Le décret portant autorisation de mutation d'une concession de durée illimitée fixe un terme à ce titre. Toutefois, à la date
+L'arrêté portant autorisation de mutation d'une concession de durée illimitée fixe un terme à ce titre. Toutefois, à la date
 d'expiration ainsi fixée, ce titre peut être renouvelé si le gisement est exploité.
 
 La résiliation anticipée de l'amodiation est autorisée par arrêté du ministre chargé des mines.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+119-5 :
+
+a) Au premier alinéa, les mots " par le ministre chargé des mines " ;
+
+b) Au deuxième alinéa, les mots " l'arrêté " ;
+
+c) Au troisième alinéa, les mots " par arrêté du ministre chargé des mines " . (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 32 () JORF 16 juillet 1994
-	  - Loi n°94-588 du 15 juillet 1994 - art. 8 () JORF 16 juillet 1994
+	  - Loi n°99-245 du 30 mars 1999 - art. 9 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L143-1 (V)
+	  - Code minier (nouveau) - art. L143-13 (V)
+	  - Code minier (nouveau) - art. L143-3 (V)
+	  - Code minier (nouveau) - art. L143-9 (V)
 
 
 ###### Article 119-6
@@ -4920,7 +5326,7 @@ conditions prévues par l'article 81 ;
 l'article 83 ;
 
 6° De ne pas avoir régulièrement déclaré, au terme de la validité du titre minier, l'arrêt définitif de tous les travaux ou
-de toutes les installations, dans les conditions prévues par le premier et le troisième alinéas de l'article 84 ;
+de toutes les installations, dans les conditions prévues par l'article 91 ;
 
 7° D'enfreindre celles des obligations prévues par les décrets pris en exécution de l'article 85, qui ont pour objet de
 protéger la sécurité ou l'hygiène du personnel occupé dans les mines, la sécurité et la salubrité publiques ou le milieu
@@ -4948,8 +5354,7 @@ l'autorisation d'exploitation ;
 
 	**Modifié par**:
 
-	  - Loi n°98-297 1998-04-21 art. 6 I, II JORF 22 avril 1998
-	  - Loi n°98-297 du 21 avril 1998 - art. 6 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
 
 	**Cité par**:
 
@@ -4961,12 +5366,12 @@ l'autorisation d'exploitation ;
 
 	**Cite**:
 
-	  - Code minier 21, 22, 68, 68-9, 79, 79-1, 81, 83, 84, 85, 86, 87, 90, 107
+	  - Code minier 21, 22, 68, 68-9, 79, 79-1, 81, 83, 85, 86, 87, 90, 91, 107
 
 
 ###### Article 142
 
-Est puni d'une peine d'emprisonnement d'un an et d'une amende de 100 000 F le fait :
+Est puni d'une peine d'emprisonnement d'un an et d'une amende de 15 000 euros le fait :
 
 1° D'effectuer les travaux de recherches de mines :
 
@@ -4997,8 +5402,8 @@ coordonnés dans un intérêt commun, ou de ne pas désigner la personne représ
 prévues par l'article 78 ;
 
 7° De ne pas déclarer, pendant la validité du titre minier, l'arrêt définitif de travaux ou d'installations, ainsi que les
-mesures envisagées pour protéger les intérêts mentionnés aux articles 79 et 79-1, dans les conditions prévues par le premier
-alinéa de l'article 84 ;
+mesures envisagées pour protéger les intérêts mentionnés aux articles 79 et 79-1, dans les conditions prévues par l'article
+91 ;
 
 8° D'effectuer un sondage, un ouvrage souterrain ou un travail de fouille, quel qu'en soit l'objet et dont la profondeur
 dépasse 10 mètres, sans justifier de la déclaration prévue à l'article 131 ;
@@ -5012,19 +5417,35 @@ de la police des mines et des carrières ;
 11° De refuser de céder des renseignements d'ordre géologique et géophysique portant sur la surface d'un titre de recherche
 minière dont la validité a expiré, dans les conditions fixées par l'article 136.
 
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne au deuxième
+alinéa de l'article 142 les mots " au préfet " et les mots " du ministre chargé des mines " . (Fin de vigueur : date
+indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 7 () JORF 22 avril 1998
+	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-5 (VT)
+	  - Code minier (nouveau) - art. L615-3 (V)
 
 	**Cite**:
 
-	  - Code minier 8, 9, 69, 70, 78, 79, 79-1, 84, 131, 77, 132, 133, 136
+	  - Code minier
 
 
 ###### Article 143
