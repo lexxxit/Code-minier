@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2000-12-14
+Version Consolidée au 2002-01-01
 
 # Livre Ier : Régime général
 
@@ -5507,7 +5507,7 @@ préfet.
 
 ###### Article 141
 
-Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 200 000 F le fait :
+Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
 
 1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation
 tels qu'ils sont respectivement prévus aux articles 21, 22, 68 et 68-9 ;
@@ -5554,7 +5554,7 @@ l'autorisation d'exploitation ;
 
 	**Modifié par**:
 
-	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cité par**:
 
@@ -5715,7 +5715,7 @@ prononcé de la peine et enjoindre la personne physique ou morale déclarée cou
 auxquelles il a été contrevenu.
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut assortir l'injonction d'une astreinte dont il
-fixe le taux et la durée maximum. Son montant est de 100 F à 20 000 F par jour de retard dans l'exécution des mesures
+fixe le taux et la durée maximum. Son montant est de 15 à 3 000 euros par jour de retard dans l'exécution des mesures
 imposées.
 
 L'ajournement ne peut intervenir qu'une fois. Il peut être ordonné même si la personne physique coupable ou le représentant
@@ -5743,9 +5743,9 @@ tenant compte, s'il y a lieu, de la survenance d'événements qui ne sont pas im
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 43 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 	**Cite**:
 
@@ -6178,7 +6178,7 @@ A défaut d'accord, il est procédé à un arbitrage dans des conditions fixées
 
 ###### Article 168
 
-Sont punis de cinq ans de prison et d'une amende de 150 000 F ou de l'une de ces deux peines seulement, sans préjudice de
+Sont punis de cinq ans de prison et d'une amende de 22 500 euros ou de l'une de ces deux peines seulement, sans préjudice de
 dommages-intérêts éventuels :
 
 1° Ceux qui, en contravention des dispositions du présent titre, cèdent, détériorent, altèrent, endommagent, détournent ou
@@ -6195,8 +6195,8 @@ des installations ou services transférés aux Charbonnages de France et aux hou
 
 	**Cite**:
 
-	  - Loi n°46-1072 1946-05-17
-	  - Code minier 153, 154
+	  - Loi n°46-1072 du 17 mai 1946
+	  - Code minier
 
 	**Codifié par**:
 
@@ -6204,7 +6204,11 @@ des installations ou services transférés aux Charbonnages de France et aux hou
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ###### Article 169
