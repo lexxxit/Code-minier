@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1992-07-14
+Version Consolidée au 1993-07-05
 
 # Livre Ier : Régime général
 
@@ -2199,8 +2199,8 @@ tout aux frais et risques de l'auteur des travaux.
 ###### Article 86 bis
 
 Sans que puissent être invoquées les dispositions des articles 26 et 54 du présent code, et sans préjudice des dispositions
-de l'article 119-1, tout explorateur ou exploitant de mines ou de carrières qui aura fait l'objet d'une condamnation à une
-peine correctionnelle pour inexécution des obligations lui incombant en application des articles 83 à 87 pourra, pendant une
+de l'article 119-1, tout explorateur ou exploitant de mines qui aura fait l'objet d'une condamnation à une peine
+correctionnelle pour inexécution des obligations lui incombant en application des articles 83 à 87 pourra, pendant une
 période de cinq ans à compter du jour où sa peine sera devenue définitive, se voir refuser tout nouveau titre ou toute
 nouvelle autorisation de recherches ou d'exploitation.
 
@@ -2208,18 +2208,16 @@ Il en est de même pour l'explorateur ou l'exploitant qui n'a pas satisfait, dan
 remise en état fixées dans la décision lui accordant son titre ou son autorisation ou celles imposées en application de
 l'article 83 ci-dessus.
 
-Dans ce cas, les préfets peuvent en outre surseoir à statuer, pendant une période de deux ans, sur toute demande
-d'autorisation d'exploitation de carrières.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 21 () JORF 18 juin 1977
+	  - Loi n°93-3 du 4 janvier 1993 - art. 10 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cite**:
 
@@ -2485,57 +2483,24 @@ Les carrières sont laissées à la disposition du propriétaire du sol sous ré
 	  - Code minier (nouveau) - art. L332-1 (V)
 
 
-###### Article 106
-
-Sous réserve des cas fixés par décret en Conseil d'Etat, la mise en exploitation de toute carrière par le propriétaire ou ses
-ayants droit est subordonnée à une autorisation délivrée par le préfet, après consultation des services ministériels
-compétents et des collectivités locales. Il en est de même pour l'extension de l'exploitation à des terrains non visés dans
-l'autorisation initiale.
-
-Le défaut de réponse de l'administration à l'expiration d'un délai de quatre mois emporte autorisation de plein droit.
-
-L'exploitation des carrières dont l'importance dépasse un seuil fixé par le décret prévu au premier alinéa ne peut être
-autorisée qu'après une enquête publique : le délai de quatre mois visé au deuxième alinéa est, dans ce cas, prolongé de deux
-mois.
-
-L'autorisation ne peut être refusée que si l'exploitation est susceptible de faire obstacle à l'application d'une disposition
-d'intérêt général. Le refus intervient par arrêté motivé. Le décret prévu au premier alinéa détermine les modalités
-d'application du présent alinéa.
-
-Dans les conditions fixées par le décret précité, l'arrêté préfectoral fixe les conditions de l'autorisation et notamment sa
-durée et la surface et, éventuellement, la profondeur auxquelles elle s'applique. Cette autorisation est renouvelable. Elle
-est périmée quand elle n'a pas été utilisée dans les trois ans suivant sa notification ou si l'exploitation a été interrompue
-pendant plus de trois ans. L'exploitation ne peut alors être reprise qu'après nouvelle autorisation.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-	  - Loi n°77-620 du 16 juin 1977 - art. 24 () JORF 18 juin 1977
-
-	**Abrogé par**:
-
-	  - Loi n°93-3 du 4 janvier 1993 - art. 11 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
-	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
-
-	**Cité par**:
-
-	  - Code de l'environnement - art. L515-6 (VD)
-
-
 ###### Article 107
 
-L'exploitation des carrières, à ciel ouvert ou souterraines, est soumise à la surveillance de l'administration dans les
-conditions prévues pour les mines par le chapitre II du titre IV du présent code, à l'exception de l'article 81.
+L'exploitation des carrières qui ont fait l'objet d'une autorisation en vertu des articles 3 et 5 de la loi n° 76-663 du 19
+juillet 1976 relative aux installations classées pour la protection de l'environnement est soumise aux dispositions du
+dernier alinéa de l'article 83, des articles 87 et 90, ainsi qu'aux dispositions suivantes :
+
+Si les travaux de recherche ou d'exploitation d'une carrière sont de nature à compromettre sa conservation ou celle d'un
+autre établissement d'extraction de minerais, ou la sécurité et l'hygiène du personnel, il y est pourvu par le représentant
+de l'Etat dans le département, au besoin d'office et aux frais de l'explorateur ou de l'exploitant.
+
+Sans préjudice de l'application du titre X du livre Ier du présent code, le représentant de l'Etat dans le département peut,
+lors de l'exécution d'une suspension, d'une interdiction ou d'une action d'office, prononcer, en application des dispositions
+de l'alinéa précédent, la nécessité de recourir à la force publique.
+
+Des décrets déterminent en outre les mesures de tout ordre, visant tant le personnel que les installations ou travaux,
+destinées à sauvegarder ou améliorer les conditions de sécurité ou d'hygiène du personnel, à permettre l'exécution des
+recherches techniques nécessaires à ces améliorations et à assurer la bonne utilisation du gisement et la conservation des
+carrières.
 
 **Liens relatifs à cet article**
 
@@ -2543,22 +2508,21 @@ conditions prévues pour les mines par le chapitre II du titre IV du présent co
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
+	  - Code minier 83, 87, 90
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°93-3 du 4 janvier 1993 - art. 12 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cité par**:
 
 	  - Décret n°99-116 du 12 février 1999 - art. 5 (V)
 	  - Code de l'environnement - art. R515-8 (Ab)
-
-	**Cite**:
-
-	  - Code minier 81
 
 
 ###### Article 107 bis
@@ -2589,20 +2553,51 @@ Conseil d'Etat.
 	  - Code minier (nouveau) - art. L332-6 (V)
 
 
+###### Article 108
+
+L'exploitation des carrières souterraines de toute nature est interdite dans la ville de Paris et les départements des Hauts-
+de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, à l'exception, dans le département de la Seine-Saint-Denis, des
+gisements de gypse situés à l'intérieur du territoire des communes de Gagny, Livry-Gargan, Vaujours, Coubron, Clichy-sous-
+Bois, Montfermeil et Neuilly-Plaisance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°67-1083 du 14 décembre 1967, v. init. art. unique
+	  - Loi n°70-1 du 2 janvier 1970 - art. 25 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°93-3 du 4 janvier 1993 - art. 13 en vigueur le 5 juillet 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+
 ###### Article 109
 
 Lorsque la mise en valeur des gîtes d'une substance appartenant à la classe des carrières ne peut, en raison de
-l'insuffisance des ressources connues de cette substance ou pour toute autre cause, prendre ou garder le développement
-nécessaire pour satisfaire les besoins des consommateurs, l'économie générale du pays ou celle de la région, des décrets en
-Conseil d'Etat peuvent, après enquête publique de deux mois, définir les zones dans lesquelles le ministre chargé des mines
-peut accorder :
+l'insuffisance des ressources connues de cette substance, prendre ou garder le développement nécessaire pour satisfaire les
+besoins des consommateurs, l'intérêt économique national et celui de la région, des décrets en Conseil d'Etat peuvent, au vu
+d'une évaluation de l'impact sur l'environnement des activités envisagées et après consultation de la ou des commissions
+départementales des carrières concernées et enquête publique de deux mois, définir les zones où sont accordés :
 
-1° Des autorisations de recherches à défaut du consentement du propriétaire du sol, le titulaire d'une telle autorisation
+1° Des autorisations de recherche à défaut du consentement du propriétaire du sol, le titulaire d'une telle autorisation
 bénéficiant des dispositions des articles 71 à 71-6 du présent code ;
 
-2° Des permis d'exploitation de carrières, conférant à leurs titulaires le droit d'exploiter les gîtes de cette substance, à
-l'exclusion de toute autre personne, y compris les propriétaires du sol, et d'invoquer le bénéfice des articles 71 à 73 du
-présent code. Ces permis d'exploitation tiennent lieu de l'autorisation prévue à l'article 106.
+2° Des permis d'occupation temporaire, conférant à leurs titulaires la possibilité d'obtenir l'autorisation d'exploiter,
+délivrée au titre de la législation des installations classées, au sein d'une aire déterminée, les gîtes de cette substance,
+à l'exclusion de toute personne, y compris les propriétaires du sol, et d'invoquer le bénéfice des articles 71 à 73 du
+présent code.
+
+Les modalités de délivrance et de retrait de ces autorisations et permis sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2610,13 +2605,10 @@ présent code. Ces permis d'exploitation tiennent lieu de l'autorisation prévue
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°93-3 du 4 janvier 1993 - art. 14 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cité par**:
 
@@ -2629,7 +2621,7 @@ présent code. Ces permis d'exploitation tiennent lieu de l'autorisation prévue
 
 	**Cite**:
 
-	  - Code minier 71 à 71-6, 71 à 73, 106
+	  - Code minier 71 à 71-6, 71 à 73
 
 
 ###### Article 109-1
@@ -2692,9 +2684,8 @@ L352-1 du code rural.
 
 ###### Article 110
 
-Les autorisations ministérielles de recherches et les permis d'exploitation prévus à l'article précédent sont accordés pour
-des durées maximales respectives de trois ans et dix ans, mais peuvent faire l'objet de prolongations successives d'une même
-durée.
+Les autorisations de recherche et les permis d'occupation temporaire prévus à l'article 109 sont accordés pour des durées
+maximales respectives de trois ans et dix ans, mais peuvent faire l'objet de prolongations successives d'une même durée.
 
 **Liens relatifs à cet article**
 
@@ -2702,24 +2693,26 @@ durée.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°93-3 du 4 janvier 1993 - art. 15 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cité par**:
 
 	  - Code minier - art. 109-1 (V)
+
+	**Cite**:
+
+	  - Code minier 109
 
 
 ###### Article 111
 
 Dans les zones définies par les décrets prévus par l'article 109, l'exploitation, par les propriétaires du sol ou leurs
 ayants droit, de substances pour lesquelles ces zones ont été définies reste possible sous le régime de l'autorisation prévue
-par l'article 106 dans les conditions et limites fixées par les articles 112 et 113.
+par les articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée dans les conditions et limites fixées par les
+articles 112 et 113.
 
 **Liens relatifs à cet article**
 
@@ -2727,26 +2720,25 @@ par l'article 106 dans les conditions et limites fixées par les articles 112 et
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
+	  - Code minier 109, 112, 113
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 26 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-
-	**Cite**:
-
-	  - Code minier 109, 106, 112, 113
+	  - Loi n°93-3 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 112
 
 A l'intérieur des zones définies en application de l'article 109, il ne peut être accordé ni autorisation de recherches ni
-permis d'exploitation de carrières sur des terrains qui, à la date de la demande d'autorisation ou de la demande de permis,
-sont régulièrement exploités par le propriétaire ou ses ayants droit ou qui, s'ils ne sont pas exploités à la même date, ont
-fait l'objet d'une demande encore en cours d'instruction présentée en application de l'article 106 ou d'une autorisation
-d'exploiter datant de moins de deux ans.
+permis d'occupation temporaire sur des terrains qui, à la date de la demande d'autorisation ou de la demande de permis, sont
+régulièrement exploités par le propriétaire ou ses ayants droit ou qui, s'ils ne sont pas exploités à la même date, ont fait
+l'objet d'une demande encore en cours d'instruction présentée en application des articles 3 et 5 de la loi n° 76-663 du 19
+février 1976 précitée ou d'une autorisation d'exploiter datant de moins de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -2754,29 +2746,28 @@ d'exploiter datant de moins de deux ans.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°76-663 1976-02-19 art. 3, art. 5
+	  - Code minier 109
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-
-	**Cite**:
-
-	  - Code minier 109, 106
+	  - Loi n°93-3 du 4 janvier 1993 - art. 17 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 113
 
 Les propriétaires du sol ou leurs ayants droit peuvent, à tout moment, déposer une demande d'autorisation d'exploiter, dans
-les conditions prévues par l'article 106, les terrains couverts par une autorisation ministérielle de recherche. Cette
-autorisation d'exploiter ne peut leur être accordée qu'à compte r de l'expiration de l'autorisation de recherches, et sous
-réserve que le titulaire de l'autorisation de recherches ne demande pas lui-même un permis d'exploitation.
+les conditions prévues par les articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée, les terrains couverts par une
+autorisation ministérielle de recherche. Cette autorisation d'exploiter ne peut leur être accordée qu'à compter de
+l'expiration de l'autorisation de recherches, et sous réserve que le titulaire de l'autorisation de recherches ne demande pas
+lui-même un permis d'occupation temporaire.
 
-Sur les terrains couverts par une demande de permis d'exploitation de carrières n'émanant pas du titulaire de l'autorisation
-de recherches, les propriétaires ou leurs ayants droit peuvent déposer une demande d'autorisation d'exploiter dans les
-conditions prévues à l'article 106.
+Sur les terrains couverts par une demande de permis d'occupation temporaire n'émanant pas du titulaire de l'autorisation de
+recherches, les propriétaires ou leurs ayants droit peuvent déposer une demande d'autorisation d'exploiter dans les
+conditions prévues aux articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée.
 
 **Liens relatifs à cet article**
 
@@ -2784,22 +2775,20 @@ conditions prévues à l'article 106.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
+	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-
-	**Cite**:
-
-	  - Code minier 106
+	  - Loi n°93-3 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 114
 
-Les dispositions des articles 55, 69, 70 et 74 du présent code sont applicables au permis d'exploitation de carrières.
+Les dispositions des articles 55, 69, 70 et 74 du présent code sont applicables au permis d'occupation temporaire.
 
 **Liens relatifs à cet article**
 
@@ -2807,14 +2796,10 @@ Les dispositions des articles 55, 69, 70 et 74 du présent code sont applicables
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-	  - Loi n°77-620 du 16 juin 1977 - art. 27 () JORF 18 juin 1977
+	  - Loi n°93-3 du 4 janvier 1993 - art. 19 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cite**:
 
@@ -2823,7 +2808,7 @@ Les dispositions des articles 55, 69, 70 et 74 du présent code sont applicables
 
 ###### Article 115
 
-Le titulaire d'un permis d'exploitation de carrière est tenu de verser au propriétaire de la surface, indépendamment de
+Le titulaire d'un permis d'occupation temporaire est tenu de verser au propriétaire de la surface, indépendamment de
 l'indemnité d'occupation visée à l'article 72 ci-dessus, une redevance ayant pour assiette le tonnage extrait. A défaut
 d'accord amiable, son montant est fixé par le tribunal de grande instance, à la requête de la partie la plus diligente, en
 tenant compte notamment des contrats passés pour la cession du droit d'exploitation des carrières similaires, de la
@@ -2839,9 +2824,10 @@ et sera affectée avec elle aux hypothèques prises par les créanciers de ce pr
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°93-3 du 4 janvier 1993 - art. 20 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cite**:
 
@@ -2850,7 +2836,7 @@ et sera affectée avec elle aux hypothèques prises par les créanciers de ce pr
 
 ###### Article 116
 
-Le titulaire d'un permis d'exploitation de carrière a la faculté d'utiliser moyennant indemnité les puits, galeries et tous
+Le titulaire d'un permis d'occupation temporaire a la faculté d'utiliser moyennant indemnité les puits, galeries et tous
 ouvrages antérieurement établis à demeure pour l'exploitation ; à défaut d'accord amiable, l'indemnité est fixée à dire
 d'experts. Il peut aussi retenir contre paiement de leur valeur fixée, faute d'accord amiable, à dire d'experts, les machines
 et agrès antérieurement attachés à l'exploitation.
@@ -2861,9 +2847,10 @@ et agrès antérieurement attachés à l'exploitation.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°93-3 du 4 janvier 1993 - art. 21 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 118
@@ -2916,10 +2903,10 @@ présent titre.
 
 ###### Article 119-1
 
-Tout titulaire d'un permis exclusif de recherches, d'une concession de mines, d'un permis d'exploitation de mines ou d'une
-des autorisations ou permis prévus aux articles 98, 99, 106 et 109, tout titulaire d'une autorisation d'amodiation de titre
-minier peut, après mise en demeure, se voir retirer son titre ou autorisation dans l'un des cas suivants, sans préjudice de
-l'application des dispositions du dernier alinéa de l'article 106 :
+Tout titulaire d'un permis exclusif de recherches, d'une concession de mines, d'un permis d'exploitation de mines ou d'un
+permis prévu à l'article 109, ou d'une des autorisations prévues aux articles 98, 99 et 109, tout titulaire d'une
+autorisation d'amodiation de titre minier peut, après mise en demeure, se voir retirer son titre ou autorisation dans l'un
+des cas suivants :
 
 a) Défaut de paiement, pendant plus de deux ans, des redevances minières dues à l'Etat, aux départements et aux communes ;
 
@@ -2938,13 +2925,13 @@ et l'utilisation ultérieure des gisements ;
 
 f) Inobservation des dispositions des deuxième et troisième alinéas de l'article 81 ;
 
-g) Inobservation des conditions fixées dans l'acte institutif ; non respect du cahier des charges ; méconnaissance des règles
+g) Inobservation des conditions fixées dans l'acte institutif ; non-respect du cahier des charges ; méconnaissance des règles
 imposées en ce qui concerne les personnes détenant le contrôle de l'entreprise ;
 
 h) Pour les concessions de mines : inexploitation depuis plus de dix ans.
 
 La décision de retrait est prononcée par arrêté préfectoral en ce qui concerne les autorisations ou permis prévus aux
-articles 98, 99, et 106, par arrêté ministériel dans les autres cas, selon les modalités fixées par décret en Conseil d'Etat.
+articles 98 et 99, par arrêté ministériel dans les autres cas, selon les modalités fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -2952,13 +2939,10 @@ articles 98, 99, et 106, par arrêté ministériel dans les autres cas, selon le
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 31 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
-
 	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 29 () JORF 18 juin 1977
+	  - Loi n°93-3 du 4 janvier 1993 - art. 22 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cité par**:
 
@@ -2966,7 +2950,7 @@ articles 98, 99, et 106, par arrêté ministériel dans les autres cas, selon le
 
 	**Cite**:
 
-	  - Code minier 98, 99, 106, 109, 84, 81
+	  - Code minier 109, 98, 99, 84, 81
 
 
 ###### Article 119-2
@@ -3051,9 +3035,10 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 ###### Article 119-5
 
 Les mutations de permis exclusifs de recherches de mines, de concessions de mines, de permis d'exploitation de mines ou de
-carrières, les amodiations de concessions de mines, de permis d'exploitation de mines ou de carrières ne prennent effet que
-si elles sont autorisées, par décret dans le cas de permis exclusifs de recherches de mines, par décret en Conseil d'Etat
-dans le cas des concessions de mines, par arrêté ministériel dans le cas des permis d'exploitation de mines ou de carrières.
+carrières, les amodiations de concessions de mines, de permis d'exploitation de mines ou de permis d'occupation temporaire de
+carrières ne prennent effet que si elles sont autorisées, par décret dans le cas de permis exclusifs de recherches de mines,
+par décret en Conseil d'Etat dans le cas des concessions de mines, par arrêté ministériel dans le cas des permis
+d'exploitation de mines ou de carrières.
 
 **Liens relatifs à cet article**
 
@@ -3061,9 +3046,10 @@ dans le cas des concessions de mines, par arrêté ministériel dans le cas des 
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+	  - Loi n°93-3 du 4 janvier 1993 - art. 23 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 119-6
@@ -3144,8 +3130,8 @@ Les actes entre vifs passés en violation des articles qui précèdent sont nuls
 
 ###### Article 119-9
 
-Nul ne peut être admis à devenir par mutation titulaire d'un titre minier ou d'un permis d'exploitation de carrières ou à
-devenir amodiataire, s'il ne satisfait pas aux conditions exigées pour obtenir un titre de même nature.
+Nul ne peut être admis à devenir par mutation titulaire d'un titre minier ou d'un permis d'occupation temporaire de carrières
+ou à devenir amodiataire, s'il ne satisfait pas aux conditions exigées pour obtenir un titre de même nature.
 
 **Liens relatifs à cet article**
 
@@ -3153,9 +3139,10 @@ devenir amodiataire, s'il ne satisfait pas aux conditions exigées pour obtenir 
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+	  - Loi n°93-3 du 4 janvier 1993 - art. 24 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ###### Article 119-10
@@ -3446,12 +3433,13 @@ régime légal des carrières.
 ###### Article 130
 
 Sous réserve des cas fixés par décret en Conseil d'Etat, l'exploitation, en vue de leur utilisation, des masses constituées
-par des haldes et terrils de mines et par les déchets d'exploitation de carrières est soumise aux dispositions des articles
-105, 106, 107, 109 et 109-1.
+par des haldes et terrils de mines et par les déchets d'exploitation de carrières est soumise aux dispositions de la loi n°
+76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement pour ce qui concerne les
+carrières.
 
-Les exploitations en activité à la date de promulgation de la loi n° 77-620 du 16 juin 1977 pourront être poursuivies sous
-réserve de la présentation de la demande de l'autorisation prévue à l'article 106. Un décret en Conseil d'Etat fixera les
-délais dans lesquels cette demande devra être présentée et l'administration y répondre.
+Il en est de même pour les opérations de dragage des cours d'eau et les affouillements du sol portant sur une superficie ou
+une quantité de matériaux au moins égales à des seuils fixés par décret en Conseil d'Etat, lorsque les matériaux extraits
+sont commercialisés ou utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits.
 
 **Liens relatifs à cet article**
 
@@ -3459,19 +3447,14 @@ délais dans lesquels cette demande devra être présentée et l'administration 
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-	  - Loi n°77-620 du 16 juin 1977 - art. 31 () JORF 18 juin 1977
-
-	**Abrogé par**:
-
-	  - Décret n°70-987 1970-10-29 art. 1 JORF 30 octobre 1970 en vigueur le 1er novembre 1970
-
 	**Cite**:
 
-	  - Loi n°77-620 1977-06-16
-	  - Code minier 105, 106, 107, 109, 109-1
+	  - Loi n°76-663 1976-07-19
+
+	**Modifié par**:
+
+	  - Loi n°93-3 du 4 janvier 1993 - art. 25 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 
 ## Titre VIII : Des déclarations de fouilles et de levés géophysiques.
@@ -3831,11 +3814,10 @@ outre être prononcé.
 
 ###### Article 142
 
-Sera punie d'une amende de 5 000 à 10 000 F toute infraction aux dispositions des articles 7 (dernier alinéa), 9, 12, 22
-(premier alinéa), 69, 70, 106, 109 (2°), 131, 133 et 136 du présent code.
+Sera punie d'une amende de 5 000 à 20 000 F toute infraction aux dispositions des articles 7 (dernier alinéa), 9, 12, 22
+(premier alinéa), 69, 70, 109 (2°), 131, 133 et 136 du présent code.
 
-En cas de récidive, l'amende sera portée au double et un emprisonnement n'excédant pas deux ans pourra en outre être
-prononcé.
+En cas de récidive, l'amende sera portée au double et un emprisonnement de six mois à deux ans pourra en outre être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -3843,17 +3825,14 @@ prononcé.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 33 () JORF 4 janvier 1970
+	  - Loi n°93-3 du 4 janvier 1993 - art. 26 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
 
 	**Cite**:
 
-	  - Code minier 7, 9, 12, 22, 69, 70, 106, 109, 131, 133, 136
+	  - Code minier 7, 9, 12, 22, 69, 70, 109, 131, 133, 136
 
 
 ###### Article 144
