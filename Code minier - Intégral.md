@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1976-08-29
+Version Consolidée au 1977-06-18
 
 # Livre Ier : Régime général
 
@@ -93,6 +93,67 @@ d'utilisation dans l'économie.
 	  - Ordonnance n°2011-91 du 20 janvier 2011 (V)
 	  - Code de l'environnement - art. R414-19 (V)
 	  - Code de l'urbanisme - art. *R111-14 (VT)
+
+
+###### Article 3
+
+Sont également considérés comme mines, les gîtes renfermés dans le sein de la terre, dits gîtes géothermiques, dont on peut
+extraire de l'énergie sous forme thermique, notamment par l'intermédiaire des eaux chaudes et vapeurs souterraines qu'ils
+contiennent.
+
+Les gîtes géothermiques sont classés en gîtes à haute température et gîtes à basse température, selon les modalités définies
+par un décret en Conseil d'Etat.
+
+Les titres IV, VI bis, VI ter, VIII, IX et X du livre Ier du présent code s'appliquent à tous les gîtes géothermiques, quelle
+que soit leur température. En outre, les titres II et III s'appliquent aux gîtes à haute température, les articles 23, 24, 30
+bis, 55, 56, 57 et le titre V aux gîtes à basse température.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 2 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°77-620 du 16 juin 1977 - art. 1 () JORF 18 juin 1977
+
+	**Cité par**:
+
+	  - Code général des impôts, annexe 4, CGIAN4. - art. 23 L ter (Ab)
+
+	**Cite**:
+
+	  - Code minier 23, 24, 30 bis, 55, 56, 57
+
+
+###### Article 4
+
+Sont considérés comme carrières, les gîtes non mentionnés aux articles 2 et 3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 3 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°77-620 du 16 juin 1977 - art. 2 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 2, 3
 
 
 ###### Article 5
@@ -342,6 +403,44 @@ englober tous les gîtes reconnus.
 	  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
 
 
+###### Article 14
+
+Les décrets institutifs prévus aux deuxièmes alinéas des articles 9 et 12 ci-dessus peuvent comporter, en annexe, des
+conditions particulières comprenant notamment :
+
+Des obligations relatives à la protection des intérêts mentionnés à l'article 84 ;
+
+Des obligations concernant éventuellement les relations entre titulaires conjoints et solidaires ;
+
+Des obligations concernant le contrôle de la société ou des sociétés titulaires du permis ;
+
+L'obligation de demander un titre d'exploitation dès qu'un gisement aura été reconnu exploitable. En cas de contestation sur
+le caractère exploitable du gisement, il est statué sur avis conforme du conseil général des mines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°70-987 1970-10-29 art. 1 JORF 30 octobre 1970 en vigueur le 1er novembre 1970
+	  - Loi n°77-620 du 16 juin 1977 - art. 3 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
+
+	**Cite**:
+
+	  - Code minier 9, 12, 84
+
+
 ###### Article 16
 
 Si un permis exclusif de recherches vient normalement à expiration définitive avant qu'il soit statué sur une demande de
@@ -367,29 +466,6 @@ périmètre du permis d'exploitation.
 	**Abrogé par**:
 
 	  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
-
-
-###### Article 17
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 7 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 4 () JORF 18 juin 1977
 
 
 ###### Article 18-1
@@ -558,6 +634,43 @@ Sont meubles aussi les matières extraites, les approvisionnements et autres obj
 
 #### Section 1 : Octroi de la concession.
 
+###### Article 25
+
+Nul ne peut obtenir une concession s'il ne possède les capacités techniques et financières nécessaires pour mener à bien les
+travaux d'exploitation.
+
+Le Gouvernement juge des motifs ou considérations d'après lesquels la préférence doit être accordée aux divers demandeurs en
+concession, qu'ils soient propriétaires de la surface, inventeurs ou autres.
+
+Les concessions de mines sont accordées par décret en Conseil d'Etat, après enquête publique, aux conditions d'un cahier des
+charges annexé à l'acte institutif.
+
+S'il s'agit de substances utiles à l'énergie atomique, ce décret est pris sur l'avis du comité de l'énergie atomique.
+
+Dans le cas où l'inventeur n'obtient pas la concession d'une mine, il a droit, de la part du concessionnaire, à une indemnité
+réglée par l'acte de concession. L'inventeur est, en ce cas, préalablement appelé à présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 5 () JORF 18 juin 1977
+
+	**Cité par**:
+
+	  - Décret n°2006-648 du 2 juin 2006 - art. 24 (V)
+	  - Décret n°2006-798 du 6 juillet 2006 - art. 3 (V)
+	  - Code de l'environnement - art. L229-44 (V)
+
+
 ###### Article 26
 
 Pendant la durée de validité d'un permis exclusif de recherches, son titulaire peut seul obtenir une concession portant, à
@@ -624,6 +737,35 @@ l'intérieur du périmètre définissant la concession.
 	  - Loi n°70-1 du 2 janvier 1970 - art. 11 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
 
 
+###### Article 29
+
+I. - La durée des concessions de mines est fixée par l'action de concession. Elle ne peut excéder cinquante ans.
+
+II. - Une concession de mines peut faire l'objet de prolongations successives, chacune de durée inférieure ou égale à vingt-
+cinq ans.
+
+III. - Le gisement concédé fait retour gratuitement à l'Etat en fin de concession dans l'état où il se trouve, sous réserve
+des travaux éventuellement prescrits en vertu de l'article 83 ci-dessous.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 6 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 83
+
+
 ###### Article 30 bis
 
 Les concessionnaires de mines, les titulaires de permis d'exploitation de mines sont tenus, à compter du 1er janvier 1957, de
@@ -654,67 +796,6 @@ tarif de la redevance fixe des mines et préciseront les conditions de l'exonér
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 18 (V)
 
 
-###### Article 32
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 9 () JORF 18 juin 1977
-
-
-###### Article 33
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 12 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 9 () JORF 18 juin 1977
-
-
-###### Article 34
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 9 () JORF 18 juin 1977
-
-
 ###### Article 35
 
 Les concessions de produits hydrocarburés existant au 16 décembre 1922 ne s'étendent aux hydrocarbures liquides ou gazeux que
@@ -737,9 +818,40 @@ si ces produits sont nommément désignés dans l'acte de concession.
 
 #### Section 2 : Rapports avec les propriétaires de la surface et les tiers.
 
-###### Article 38
+###### Article 36
 
-(texte abrogé).
+L'institution d'une concession, même au profit du propriétaire de la surface, crée un droit immobilier distinct de la
+propriété de la surface.
+
+Ce droit n'est pas susceptible d'hypothèques.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 10 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L229-45 (V)
+
+
+###### Article 37
+
+Le décret instituant une concession fixe le montant de la redevance tréfoncière due par le titulaire aux propriétaires de la
+surface.
 
 **Liens relatifs à cet article**
 
@@ -751,66 +863,17 @@ si ces produits sont nommément désignés dans l'acte de concession.
 
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 12 () JORF 18 juin 1977
-
-
-###### Article 39
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°77-620 du 16 juin 1977 - art. 11 () JORF 18 juin 1977
 
 	**Abrogé par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 12 () JORF 18 juin 1977
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
+	**Nouveaux textes**:
 
-###### Article 40
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 12 () JORF 18 juin 1977
-
-
-###### Article 41
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 12 () JORF 18 juin 1977
+	  - Code minier (nouveau) - art. L132-15 (V)
 
 
 ###### Article 42
@@ -865,29 +928,6 @@ correspondant aux frais normaux qu'aurait entraînés l'extraction directe.
 	  - Code minier (nouveau) - art. L132-9 (V)
 
 
-###### Article 44
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 13 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 12 () JORF 18 juin 1977
-
-
 #### Section 3 : Retrait et fin de la concession.
 
 ###### Article 45
@@ -915,6 +955,41 @@ partiellement à celle-ci.
 
 
 ### Chapitre II : Des permis d'exploitation de mines.
+
+###### Article 51
+
+Les permis d'exploitation de mines sont accordés par arrêté du ministre chargé des mines, après enquête publique, sur avis
+conforme du conseil général des mines et, s'il s'agit de substances utiles à l'énergie atomique, sur avis du comité de
+l'énergie atomique.
+
+A l'arrêté institutif peuvent être annexées des conditions particulières comprenant notamment :
+
+Des obligations relatives à la protection des intérêts mentionnés à l'article 84 ;
+
+Des obligations concernant éventuellement les relations entre titulaires conjoints et solidaires ;
+
+Des obligations concernant le contrôle de la société ou des sociétés titulaires du permis ;
+
+Des obligations concernant la disposition des produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 13 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 84
+
 
 ###### Article 52
 
@@ -951,6 +1026,32 @@ avis du Comité de l'énergie atomique.
 	**Créé par**:
 
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+
+###### Article 54
+
+Le titulaire d'un permis exclusif de recherches peut seul obtenir, pendant la durée de validité de son permis, un permis
+d'exploitation portant, à l'intérieur du périmètre de ce permis exclusif, sur des substances visées par celui-ci.
+
+De plus, le titulaire d'un permis M a droit, s'il en fait la demande avant l'expiration de son permis, à l'octroi d'un permis
+d'exploitation sur les gisements exploitables des substances visées par celui-ci et découverts à l'intérieur de son
+périmètre. En cas de contestation sur l'étendue ou le caractère exploitable du gisement, il est statué sur avis conforme du
+Conseil général des mines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 1977-06-16 art. 14 I, II JORF 18 juin 1977
+	  - Loi n°77-620 du 16 juin 1977 - art. 14 () JORF 18 juin 1977
 
 
 ###### Article 55
@@ -1003,25 +1104,6 @@ Les dispositions de l'article 43 ci-dessus s'appliquent au titulaire de permis d
 	  - Code minier 43
 
 
-###### Article 58
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 15 () JORF 18 juin 1977
-
-
 ###### Article 59
 
 Si un permis d'exploitation vient à expiration définitive avant qu'il soit statué sur une demande de concession introduite
@@ -1041,6 +1123,33 @@ du permis pour la partie dudit permis concernée par la demande de concession.
 	**Modifié par**:
 
 	  - Loi n°70-1 du 2 janvier 1970 - art. 16 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+
+
+###### Article 62
+
+En ce qui concerne les hydrocarbures liquides, lorsque la production cumulée d'un gisement ayant fait l'objet d'un permis
+d'exploitation a dépassé 300 000 tonnes, l'exploitation ne peut être poursuivie que sous le régime de la concession. Le
+titulaire doit présenter une demande à cet effet et la validité du permis d'exploitation est maintenue jusqu'à ce qu'il ait
+été statué sur cette demande. Dans ce cas, les clauses et conditions du cahier des charges de la concession jouent
+rétroactivement à compter du jour où elle a été demandée.
+
+Les dispositions qui précèdent sont applicables aux gisements d'hydrocarbures gazeux et aux gisements d'hydrocarbures à la
+fois liquides et gazeux exploités en vertu d'un permis d'exploitation, la production de 1 000 mètres cubes d'hydrocarbures
+gazeux équivalant, pour l'application du présent article, à la production d'une tonne d'hydrocarbures liquides.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 16 () JORF 18 juin 1977
 
 
 ###### Article 63
@@ -1326,6 +1435,79 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 	  - Code minier
 
 
+###### Article 71-2
+
+A l'intérieur de leur périmètre minier et, sous réserve, à l'extérieur de celui-ci, de déclaration d'utilité publique dans
+les formes prévues à l'article L. 11-2 du code de l'expropriation pour cause d'utilité publique, les bénéficiaires de titres
+miniers pourront également dans les limites énoncées à l'article 71, être autorisés à :
+
+Etablir à demeure, à une hauteur minimale de 4,75 mètres au-dessus du sol, des câbles, canalisations ou engins transporteurs
+ainsi que les pylônes et mâts nécessaires à leur soutien ;
+
+Enterrer des câbles ou canalisations à une profondeur minimale de 0,50 mètre et établir les ouvrages de moins de 4 mètres
+carrés de surface, nécessaires au fonctionnement desdits câbles ou canalisations, ainsi que les bornes de délimitation ;
+
+Dégager le sol de tous arbres, arbustes ou autres obstacles.
+
+La largeur de la bande de terrain sujette aux servitudes ci-dessus énoncées est fixée dans la limite de cinq mètres par
+l'arrêté préfectoral ou l'acte déclaratif d'utilité publique.
+
+En outre, sur une bande de terrain dite bande large, comprenant la bande prévue à l'alinéa précédent, et dont la largeur sera
+fixée comme ci-dessus dans la limite de quinze mètres, sera autorisé le passage des personnes chargées de mettre en place,
+surveiller, entretenir, réparer ou enlever les matériels susénumérés ainsi que le passage des engins utilisés à cet effet.
+
+En terrain forestier, l'essartage peut, en cas de nécessité, être autorisé jusqu'aux limites de la bande large.
+
+Après exécution des travaux, l'exploitant est tenu de remettre dans leur état antérieur les terrains de cultures, en
+rétablissant la couche arable, et la voirie.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+71-2 :
+
+a) Au deuxième alinéa, les mots " de 4,75 mètres au-dessus du sol " ;
+
+b) Au troisième alinéa, les mots " à une profondeur minimale de 0,50 mètre " et les mots " de moins de 4 mètres carrés de
+surface "; ;
+
+c) Au cinquième alinéa, les mots " dans la limite de cinq mètres par l'arrêté préfectoral " ;
+
+d) Au sixième alinéa, les mots " comme ci-dessus dans la limite de quinze mètres " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 18 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 17 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L555-2 (Ab)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-2
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L153-8 (V)
+
+
 ###### Article 71-3
 
 La suppression des obstacles existants est effectuée par le bénéficiaire de l'autorisation et à ses frais. Toutefois, le
@@ -1476,6 +1658,63 @@ réparation de ces dommages reste soumise au droit commun.
 
 	  - Code minier (nouveau) - art. L153-12 (V)
 	  - Code minier (nouveau) - art. L153-13 (V)
+
+
+###### Article 73
+
+Nonobstant les dispositions des articles 69 et 70 ci-dessus, et si l'intérêt général l'exige, l'expropriation des immeubles
+nécessaires aux travaux et installations visés à l'article 71 peut être poursuivie tant à l'intérieur qu'à l'extérieur du
+périmètre d'un titre minier, moyennant déclaration d'utilité publique dans les formes prévues à l'article L. 11-2 du code de
+l'expropriation pour cause d'utilité publique, à la demande du détenteur de ce titre, pour son compte ou celui d'une personne
+ou société désignée à cet effet.
+
+Une déclaration d'utilité publique peut également être prononcée dans les mêmes formes pour les canalisations et
+installations destinées au transport et au stockage des produits de l'exploitation jusqu'aux points de traitement, de grosse
+consommation ou d'exportation, pour les aménagements et installations nécessaires au plein développement de la mine et,
+notamment, pour les cités d'habitation du personnel et les usines d'agglomération, de carbonisation et de gazéification,
+ainsi que les centrales, postes et lignes électriques, y compris les installations destinées au transport, au stockage ou à
+la mise en dépôt des produits ou déchets qui résultent de l'activité de ces usines. Les voies de communication, canalisations
+et installations de transport ainsi déclarées d'utilité publique pourront être soumises à des obligations de service public
+dans les conditions établies par le cahier des charges.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne au dernier
+alinéa de l'article 73 les mots " par le cahier des charges " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 19 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°77-620 du 16 juin 1977 - art. 18 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L555-2 (Ab)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'expropriation pour cause d'utilité publique - art. L11-2
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L153-14 (V)
+	  - Code minier (nouveau) - art. L153-15 (V)
 
 
 ###### Article 74
@@ -1644,6 +1883,201 @@ application pourront être interdits par arrêté du préfet.
 	  - Code minier (nouveau) - art. L173-4 (V)
 
 
+###### Article 81
+
+Si l'exploitation est restreinte ou suspendue de manière à inquiéter la sûreté publique ou les besoins des consommateurs,
+l'économie générale de la région ou du pays, les préfets, après avoir entendu les concessionnaires, en rendent compte au
+ministre chargé des mines pour y être pourvu ainsi qu'il appartiendra.
+
+Tout exploitant de mines est tenu d'appliquer à l'exploitation des gisements les méthodes confirmées les plus propres à
+porter au maximum compatible avec les conditions économiques le rendement final de ces gisements.
+
+Tout concessionnaire ou titulaire d'un permis d'exploitation, tout titulaire de permis exclusif de recherches ou tout
+bénéficiaire des autorisations visées aux articles 8 et 22 ci-dessus doit, sous peine des sanctions prévues à l'article 141
+ci-dessous, mettre à la disposition du commissariat à l'énergie atomique, sur sa demande et moyennant juste rémunération, les
+substances utiles à l'énergie atomique telles que définies par un des décrets prévus à l'article 6 ci-dessus, sur lesquelles
+porte sa concession, son permis ou son autorisation ou qui sont, dans un même gisement, connexes de celles sur lesquelles
+porte ce titre minier. Toutefois, il n'est pas tenu de le faire si la séparation des substances utiles à l'énergie atomique
+entraîne la destruction des produits principaux en vue desquels le gisement est exploité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 20 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°77-620 du 16 juin 1977 - art. 19 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 8, 22, 141, 6
+
+
+###### Article 83
+
+Lors de l'abandon des travaux au terme de validité d'un titre ou d'une autorisation de recherches ou d'exploitation, ou bien,
+dans le cas d'une exploitation par tranches, à la fin de l'exploitation de chaque tranche, le titulaire du titre ou de
+l'autorisation doit exécuter les travaux ayant pour objet la protection des intérêts mentionnés à l'article 84, qui lui sont
+prescrits par le préfet sur proposition du service des mines après consultation du conseil municipal de la commune
+intéressée. La remise en état, notamment à des fins agricoles, des sites et lieux affectés par les travaux et par les
+installations de toute nature réalisés en vue de l'exploitation et de la recherche, peut être prescrite : elle est
+obligatoire dans le cas des carrières. Ces dispositions sont applicables aux travaux visés à l'article 80.
+
+A défaut d'exécution, les opérations prescrites sont effectuées d'office et aux frais du titulaire ou du contrevenant par les
+soins de l'administration.
+
+Les communes et les départements ont un droit de préemption en cas de vente des carrières laissées à l'abandon qui ont été
+exploitées sur leur territoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 20 () JORF 18 juin 1977
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L229-30 (V)
+	  - Code de l'environnement - art. R515-41 (V)
+	  - Code de la santé publique - art. L1333-4 (V)
+	  - Code de la santé publique - art. R1333-45 (M)
+
+	**Cite**:
+
+	  - Code minier 84, 80
+
+
+###### Article 84
+
+Si les travaux de recherches ou d'exploitation d'une mine sont de nature à compromettre la sécurité et la salubrité
+publiques, les caractéristiques essentielles du milieu environnant, terrestre ou maritime, la conservation de la mine ou
+d'une autre mine, la sûreté, la sécurité et l'hygiène des ouvriers mineurs, la conservation des voies de communication, la
+solidité des édifices publics ou privés, l'usage, le débit ou la qualité des eaux de toute nature, l'effet des mesures
+générales arrêtées par décret à l'intérieur d'une zone spéciale d'aménagement des eaux, il y est pourvu par le préfet, au
+besoin d'office et aux frais de l'explorateur ou de l'exploitant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°64-1245 1964-12-16 art. 42 JORF 18 décembre 1964
+	  - Loi n°70-1 du 2 janvier 1970 - art. 21 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°77-620 du 16 juin 1977 - art. 20 () JORF 18 juin 1977
+
+
+###### Article 85
+
+Des décrets déterminent en outre les mesures de tout ordre, visant tant le personnel que les installations ou travaux,
+destinés à sauvegarder ou améliorer les conditions de sécurité ou d'hygiène du personnel occupé dans les mines, la sécurité
+et la salubrité publiques, la protection du milieu environnant, terrestre ou maritime, à permettre l'exécution des recherches
+techniques nécessaires à ces améliorations et à assurer la bonne utilisation du gisement et la conservation de la mine.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 21 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°77-620 du 16 juin 1977 - art. 20 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L161-1 (V)
+
+
+###### Article 86
+
+Sans préjudice de l'application des titres VI bis et X du livre Ier du présent code, le préfet peut, lorsque l'exécution
+d'une suspension, d'une interdiction ou d'une action d'office prononcée en application de l'article 84 du présent code le
+nécessite, recourir à la force publique.
+
+En outre, le préfet peut prendre toutes mesures utiles, notamment immobiliser le matériel et empêcher l'accès du chantier, le
+tout aux frais et risques de l'auteur des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Cite**:
+
+	  - Code minier 84
+
+	**Modifié par**:
+
+	  - Décret n°72-645 1972-07-04 art. 27 I JORF 12 juillet 1972
+	  - Loi n°77-620 du 16 juin 1977 - art. 21 () JORF 18 juin 1977
+
+
+###### Article 86 bis
+
+Sans que puissent être invoquées les dispositions des articles 26 et 54 du présent code, et sans préjudice des dispositions
+de l'article 119-1, tout explorateur ou exploitant de mines ou de carrières qui aura fait l'objet d'une condamnation à une
+peine correctionnelle pour inexécution des obligations lui incombant en application des articles 83 à 87 pourra, pendant une
+période de cinq ans à compter du jour où sa peine sera devenue définitive, se voir refuser tout nouveau titre ou toute
+nouvelle autorisation de recherches ou d'exploitation.
+
+Il en est de même pour l'explorateur ou l'exploitant qui n'a pas satisfait, dans les délais prescrits, aux obligations de
+remise en état fixées dans la décision lui accordant son titre ou son autorisation ou celles imposées en application de
+l'article 83 ci-dessus.
+
+Dans ce cas, les préfets peuvent en outre surseoir à statuer, pendant une période de deux ans, sur toute demande
+d'autorisation d'exploitation de carrières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 21 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 26, 54, 119-1, 83 à 87, 83
+
+
 ###### Article 87
 
 En cas d'accident arrivé dans une mine, les maires et autres officiers de police prennent, conjointement avec l'ingénieur des
@@ -1692,33 +2126,17 @@ contre qui de droit.
 	  - Code minier (nouveau) - art. L152-1 (V)
 
 
-###### Article 93
+## Titre V : Des gîtes géothermiques à basse température.
 
-(texte abrogé).
+###### Article 98
 
-**Liens relatifs à cet article**
+Nul ne peut entreprendre un forage en vue de la recherche de gîtes géothermiques à basse température sans une autorisation de
+recherches accordée par arrêté préfectoral après enquête publique.
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 22 () JORF 18 juin 1977
-
-	**Cité par**:
-
-	  - Arrêté du 21 décembre 2007 (Ab)
-	  - Décret n°2016-933 du 7 juillet 2016 - art. 4
-
-
-###### Article 94
-
-(texte abrogé).
+L'autorisation détermine soit l'emplacement du ou des forages à entreprendre, soit le tracé d'un périmètre à l'intérieur
+duquel ces forages peuvent être exécutés. Le titulaire de l'autorisation de recherches est seul habilité, dans le périmètre
+ainsi défini, à réaliser des forages pour la recherche de gîtes géothermiques. La validité de l'autorisation de recherches ne
+peut excéder trois ans.
 
 **Liens relatifs à cet article**
 
@@ -1728,23 +2146,62 @@ contre qui de droit.
 
 	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
+
+
+###### Article 99
+
+Les gîtes géothermiques à basse température ne peuvent être exploités qu'en vertu d'un permis d'exploitation accordé par le
+préfet.
+
+Le titulaire d'une autorisation de recherches peut seul obtenir, pendant la durée de cette autorisation, un permis
+d'exploitation qui englobe les emplacements des forages autorisés ou qui est situé en tout ou en partie à l'intérieur du
+périmètre de ladite autorisation.
+
+De plus, si ses travaux ont fourni la preuve qu'un gîte est exploitable et s'il en fait la demande avant l'expiration de
+l'autorisation, le titulaire a droit à l'octroi d'un permis d'exploitation.
+
+Un décret en Conseil d'Etat précise les cas dans lesquels l'enquête publique à laquelle a été soumise la demande
+d'autorisation de recherches peut dispenser d'enquête la délivrance d'un permis d'exploitation.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+99 les mots " accordé par le préfet " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
 
 	**Abrogé par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 22 () JORF 18 juin 1977
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
-	**Cité par**:
+	**Nouveaux textes**:
 
-	  - Code de l'environnement - art. R125-10 (V)
-	  - Code de l'urbanisme - art. R*123-14 (VT)
-	  - Code de l'urbanisme - art. R*126-1, Annexe (V)
-	  - Code de la construction et de l'habitation. - art. R126-1 (V)
+	  - Code minier (nouveau) - art. L134-4 (V)
+	  - Code minier (nouveau) - art. L134-5 (V)
 
 
-###### Article 95
+###### Article 100
 
-(texte abrogé).
+L'arrêté portant permis d'exploitation confère un droit exclusif d'exploitation dans un volume déterminé, dit volume
+d'exploitation défini par un périmètre et deux profondeurs. L'arrêté institutif peut limiter le débit calorifique qui sera
+prélevé.
+
+La validité du permis ne peut excéder trente ans. Il peut être prolongé par périodes ne pouvant chacune excéder quinze ans.
+
+L'arrêté peut également imposer toutes dispositions concernant notamment l'extraction, l'utilisation et la réinjection des
+fluides calorifères et des produits qui y seraient contenus et, plus généralement, les obligations relatives aux intérêts
+visés par l'article 84. Il peut abroger l'autorisation de recherches dont dérive le permis d'exploitation, ou réduire les
+droits qui y sont attachés.
 
 **Liens relatifs à cet article**
 
@@ -1754,20 +2211,26 @@ contre qui de droit.
 
 	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
 
-	**Abrogé par**:
+	**Cite**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 22 () JORF 18 juin 1977
-
-	**Cité par**:
-
-	  - Décret n°2000-547 du 16 juin 2000 - art. 7 (V)
+	  - Code minier 84
 
 
-###### Article 96
+###### Article 101
 
-(texte abrogé).
+L'arrêté portant autorisation de recherches ou permis d'exploitation, ou un arrêté ultérieur pris après enquête publique,
+peut fixer un périmètre de protection à l'intérieur duquel peuvent être interdits ou réglementés tous travaux souterrains
+susceptibles de porter préjudice à l'exploitation géothermique.
+
+Le périmètre de protection peut être modifié ou supprimé dans les mêmes formes.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+101 les mots " l'arrêté " et les mots " ou l'arrêté ultérieur "  (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
@@ -1777,11 +2240,72 @@ contre qui de droit.
 
 	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
 
 	**Abrogé par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 22 () JORF 18 juin 1977
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L124-5 (V)
+	  - Code minier (nouveau) - art. L134-9 (V)
+
+
+###### Article 102
+
+Des décrets en Conseil d'Etat fixent, en tant que de besoin, les conditions et modalités d'application du présent titre, et
+les cas où il peut y être dérogé en totalité ou partiellement pour des exploitations de minime importance, compte tenu de
+leur profondeur et de leur débit calorifique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L124-3 (V)
+	  - Code minier (nouveau) - art. L124-9 (V)
+	  - Code minier (nouveau) - art. L134-12 (V)
+	  - Code minier (nouveau) - art. L164-2 (V)
+
+
+###### Article 103
+
+Les dispositions des articles 98 à 102 ne sont pas applicables lorsque les eaux sont utilisées à des fins thérapeutiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L124-3 (V)
+	  - Code minier (nouveau) - art. L134-3 (V)
+
+	**Cite**:
+
+	  - Code minier
 
 
 ## Titre VI : Des carrières.
@@ -1811,6 +2335,53 @@ Les carrières sont laissées à la disposition du propriétaire du sol sous ré
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L332-1 (V)
+
+
+###### Article 106
+
+Sous réserve des cas fixés par décret en Conseil d'Etat, la mise en exploitation de toute carrière par le propriétaire ou ses
+ayants droit est subordonnée à une autorisation délivrée par le préfet, après consultation des services ministériels
+compétents et des collectivités locales. Il en est de même pour l'extension de l'exploitation à des terrains non visés dans
+l'autorisation initiale.
+
+Le défaut de réponse de l'administration à l'expiration d'un délai de quatre mois emporte autorisation de plein droit.
+
+L'exploitation des carrières dont l'importance dépasse un seuil fixé par le décret prévu au premier alinéa ne peut être
+autorisée qu'après une enquête publique : le délai de quatre mois visé au deuxième alinéa est, dans ce cas, prolongé de deux
+mois.
+
+L'autorisation ne peut être refusée que si l'exploitation est susceptible de faire obstacle à l'application d'une disposition
+d'intérêt général. Le refus intervient par arrêté motivé. Le décret prévu au premier alinéa détermine les modalités
+d'application du présent alinéa.
+
+Dans les conditions fixées par le décret précité, l'arrêté préfectoral fixe les conditions de l'autorisation et notamment sa
+durée et la surface et, éventuellement, la profondeur auxquelles elle s'applique. Cette autorisation est renouvelable. Elle
+est périmée quand elle n'a pas été utilisée dans les trois ans suivant sa notification ou si l'exploitation a été interrompue
+pendant plus de trois ans. L'exploitation ne peut alors être reprise qu'après nouvelle autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 24 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°77-620 du 16 juin 1977 - art. 24 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Loi n°93-3 du 4 janvier 1993 - art. 11 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. L515-6 (VD)
 
 
 ###### Article 107
@@ -1911,6 +2482,64 @@ présent code. Ces permis d'exploitation tiennent lieu de l'autorisation prévue
 	**Cite**:
 
 	  - Code minier 71 à 71-6, 71 à 73, 106
+
+
+###### Article 109-1
+
+L'article 109 est applicable, sous réserve des dispositions du présent article, lorsque, dans une zone déterminée, une
+coordination d'ensemble de l'exploitation des carrières et de la remise en état du sol est nécessaire pour éviter la
+dégradation du milieu environnant et permettre le réaménagement des terrains après exploitation sans pour autant compromettre
+la satisfaction des besoins des consommateurs, de l'économie générale du pays ou de celle de la région.
+
+Préalablement à l'intervention du décret en Conseil d'Etat délimitant une zone en application des dispositions de l'alinéa
+ci-dessus et de l'article 109 et notamment lorsque, dans les vallées alluvionnaires éventuellement comprises dans cette zone,
+une nappe d'eau souterraine a été reconnue apte à satisfaire les besoins de collectivités publiques, il est établi, dans la
+zone considérée, un schéma d'exploitation coordonnée des carrières. Ce schéma et les documents d'urbanisme opposables aux
+tiers doivent être compatibles entre eux. Ce schéma a pour objet de définir les conditions d'implantation et d'exploitation
+des carrières et de remise en état des sols après exploitation, notamment à des fins agricoles. Il détermine l'organisme
+chargé de la conduite des opérations nécessaires à sa réalisation. Il est élaboré conjointement par les services de l'Etat et
+les collectivités publiques ou les groupements des collectivités intéressées.
+
+Ce décret en Conseil d'Etat, délimitant une zone d'exploitation coordonnée des carrières, rend opposable à toute personne
+publique ou privée tout ou partie des dispositions du schéma d'exploitation mentionné à l'alinéa 2 du présent article, et
+notamment interdit l'ouverture ou l'extension de carrières dans une partie de la zone et réserve des terrains à
+l'exploitation des carrières.
+
+Il peut, en vue de faciliter l'exploitation coordonnée de la zone et son réaménagement, conférer à l'une des personnes
+énumérées à l'article L. 212-2 du code de l'urbanisme ou à une société d'aménagement foncier et d'établissement rural la
+possibilité d'exercer le droit de préemption à l'occasion de l'aliénation, à titre onéreux, d'un immeuble dans les formes et
+délais régissant l'exercice de ce droit à l'intérieur d'une zone d'aménagement différé.
+
+Lorsque, à l'intérieur des terrains réservés à l'exploitation des carrières, il est causé à la structure d'une exploitation
+agricole un grave déséquilibre, au sens de l'article L. 352-1 du code rural, l'exploitant de carrière est tenu d'indemniser
+l'exploitant agricole concerné suivant les modalités prévues par l'article précité et les textes pris pour son application.
+Cette indemnisation se substitue à celle due à l'exploitant agricole au titre des articles 71 à 73 du présent code.
+
+Les dispositions des articles 110 à 119 sont applicables au présent article.
+
+**Nota:**
+
+Loi n° 93-934 du 22 juillet 1993 art. 2 : La référence à l'article 10 de la loi n° 62-933 du 8 août 1962 complémentaire à la
+loi d'orientation agricole est abrogée par l'article 4 de la loi précitée et est remplacée par la référence à l'article
+L352-1 du code rural.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural L352-1
+	  - Loi n°62-933 du 8 août 1962 - art. 4 (V)
+	  - Loi n°93-934 1993-07-22
+	  - Code minier 109, 71 à 73, 110 à 119, 2
+	  - Code de l'urbanisme - art. L212-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 25 () JORF 18 juin 1977
 
 
 ###### Article 110
@@ -2020,6 +2649,30 @@ conditions prévues à l'article 106.
 	  - Code minier 106
 
 
+###### Article 114
+
+Les dispositions des articles 55, 69, 70 et 74 du présent code sont applicables au permis d'exploitation de carrières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 27 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°77-620 du 16 juin 1977 - art. 27 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 55, 69, 70, 74
+
+
 ###### Article 115
 
 Le titulaire d'un permis d'exploitation de carrière est tenu de verser au propriétaire de la surface, indépendamment de
@@ -2113,6 +2766,61 @@ présent titre.
 
 ## Titre VI bis : Du retrait des titres de recherches et d'exploitation et de la renonciation à ces droits.
 
+###### Article 119-1
+
+Tout titulaire d'un permis exclusif de recherches, d'une concession de mines, d'un permis d'exploitation de mines ou d'une
+des autorisations ou permis prévus aux articles 98, 99, 106 et 109, tout titulaire d'une autorisation d'amodiation de titre
+minier peut, après mise en demeure, se voir retirer son titre ou autorisation dans l'un des cas suivants, sans préjudice de
+l'application des dispositions du dernier alinéa de l'article 106 :
+
+a) Défaut de paiement, pendant plus de deux ans, des redevances minières dues à l'Etat, aux départements et aux communes ;
+
+b) Cession ou amodiation non conforme aux règles du code ;
+
+c) Infractions graves aux prescriptions de police, de sécurité ou d'hygiène ; inobservation des mesures imposées en
+application de l'article 84 ;
+
+d) Pour les permis ou les autorisations de recherches : inactivité persistante ou activité manifestement sans rapport avec
+l'effort financier souscrit et, plus généralement, inobservation des engagements souscrits visés dans l'acte institutif ;
+
+e) Pour les titres ou les autorisations d'exploitation : absence ou insuffisance prolongée d'exploitation manifestement
+contraire aux possibilités du gisement ou à l'intérêt des consommateurs et non justifiée par l'état du marché, exploitation
+effectuée dans des conditions telles qu'elle est de nature à compromettre sérieusement l'intérêt économique, la conservation
+et l'utilisation ultérieure des gisements ;
+
+f) Inobservation des dispositions des deuxième et troisième alinéas de l'article 81 ;
+
+g) Inobservation des conditions fixées dans l'acte institutif ; non respect du cahier des charges ; méconnaissance des règles
+imposées en ce qui concerne les personnes détenant le contrôle de l'entreprise ;
+
+h) Pour les concessions de mines : inexploitation depuis plus de dix ans.
+
+La décision de retrait est prononcée par arrêté préfectoral en ce qui concerne les autorisations ou permis prévus aux
+articles 98, 99, et 106, par arrêté ministériel dans les autres cas, selon les modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 31 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 29 () JORF 18 juin 1977
+
+	**Cité par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 31 (MMN)
+
+	**Cite**:
+
+	  - Code minier 98, 99, 106, 109, 84, 81
+
+
 ###### Article 119-2
 
 Le titulaire déchu peut être autorisé à retirer le matériel qui serait encore en place s'il s'est au préalable libéré des
@@ -2188,6 +2896,142 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 	  - Code minier (nouveau) - art. L144-1 (V)
 	  - Code minier (nouveau) - art. L322-7 (V)
 	  - Code minier (nouveau) - art. L333-10 (V)
+
+
+## Titre VI ter : Des mutations et amodiations des titres de recherches et d'exploitation.
+
+###### Article 119-5
+
+Les mutations de permis exclusifs de recherches de mines, de concessions de mines, de permis d'exploitation de mines ou de
+carrières, les amodiations de concessions de mines, de permis d'exploitation de mines ou de carrières ne prennent effet que
+si elles sont autorisées, par décret dans le cas de permis exclusifs de recherches de mines, par décret en Conseil d'Etat
+dans le cas des concessions de mines, par arrêté ministériel dans le cas des permis d'exploitation de mines ou de carrières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+
+###### Article 119-6
+
+Lorsque la mutation résulte d'un acte entre vifs, et dans le cas des amodiations de titres d'exploitation, l'autorisation
+doit être demandée soit par le cédant et le cessionnaire, soit par le titulaire du titre et l'amodiataire, dans les six mois
+qui suivent la signature de l'acte ; lequel doit avoir été passé sous la condition suspensive de cette autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L143-10 (V)
+	  - Code minier (nouveau) - art. L143-4 (V)
+
+
+###### Article 119-7
+
+Lorsque la mutation résulte du décès du titulaire, l'autorisation doit être demandée dans les douze mois qui suivent
+l'ouverture de la succession, soit par les ayants droit, soit par la personne physique ou morale qu'ils se seront substituée
+dans l'intervalle en vertu d'un acte qui aura été passé sous la condition suspensive de cette autorisation.
+
+L'absence de dépôt de la demande en autorisation dans les délais prescrits peut donner lieu au retrait du titre. Le rejet de
+la demande entraîne le retrait du titre. S'il s'agit d'une concession de mines, les dispositions de l'article 119-3 sont
+applicables à la diligence des ayants droit du concessionnaire décédé ou, le cas échéant, des autres titulaires de la
+concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+	**Cite**:
+
+	  - Code minier 119-3
+
+
+###### Article 119-8
+
+Les actes entre vifs passés en violation des articles qui précèdent sont nuls et de nul effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L143-12 (V)
+	  - Code minier (nouveau) - art. L143-6 (V)
+
+
+###### Article 119-9
+
+Nul ne peut être admis à devenir par mutation titulaire d'un titre minier ou d'un permis d'exploitation de carrières ou à
+devenir amodiataire, s'il ne satisfait pas aux conditions exigées pour obtenir un titre de même nature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+
+###### Article 119-10
+
+En cas de mutation partielle d'un permis exclusif de recherches de mines ou d'une concession de mines, chacune des parties du
+titre minier est réputée avoir pour date d'origine la date d'institution du titre minier initial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L143-7 (V)
 
 
 ## Titre VII : Du passage dans la classe des mines de substances antérieurement soumises au régime légal des minières ou à celui des carrières.
@@ -2449,6 +3293,39 @@ régime légal des carrières.
 	  - Code minier 5, 126, 127, 128
 
 
+## Titre VII bis : De l'exploitation des haldes et terrils et des déchets des exploitations de carrières.
+
+###### Article 130
+
+Sous réserve des cas fixés par décret en Conseil d'Etat, l'exploitation, en vue de leur utilisation, des masses constituées
+par des haldes et terrils de mines et par les déchets d'exploitation de carrières est soumise aux dispositions des articles
+105, 106, 107, 109 et 109-1.
+
+Les exploitations en activité à la date de promulgation de la loi n° 77-620 du 16 juin 1977 pourront être poursuivies sous
+réserve de la présentation de la demande de l'autorisation prévue à l'article 106. Un décret en Conseil d'Etat fixera les
+délais dans lesquels cette demande devra être présentée et l'administration y répondre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°77-620 du 16 juin 1977 - art. 31 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Décret n°70-987 1970-10-29 art. 1 JORF 30 octobre 1970 en vigueur le 1er novembre 1970
+
+	**Cite**:
+
+	  - Loi n°77-620 1977-06-16
+	  - Code minier 105, 106, 107, 109, 109-1
+
+
 ## Titre VIII : Des déclarations de fouilles et de levés géophysiques.
 
 ###### Article 131
@@ -2497,6 +3374,135 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 	**Liens**:
 
 	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-5 (V)
+
+
+###### Article 132
+
+Les ingénieurs et techniciens du service des mines, les ingénieurs du service de conservation des gisements d'hydrocarbures,
+les ingénieurs du service géologique national ainsi que les collaborateurs de ce dernier qui sont munis d'un ordre de mission
+émanant du ministre chargé des mines ont accès à tous sondages, ouvrages souterrains ou travaux de fouilles soit pendant,
+soit après leur exécution, et quelle que soit leur profondeur.
+
+Ils peuvent se faire remettre tous échantillons et se faire communiquer tous les documents et renseignements d'ordre
+géologique, géotechnique, hydrologique, hydrographique, topographique, chimique ou minier.
+
+Les maires dont le territoire est concerné par les fouilles seront informés des conclusions des recherches.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 32 () JORF 18 juin 1977
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-6 (V)
+
+
+###### Article 133
+
+Tout levé de mesures géophysiques, toute campagne de prospection géochimique ou d'études de minéraux lourds doivent faire
+l'objet d'une déclaration préalable à l'ingénieur en chef des mines ; les résultats de ces levés et campagnes lui sont
+communiqués.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 32 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L411-3 (V)
+	  - Code minier (nouveau) - art. L412-2 (V)
+
+
+###### Article 134
+
+Les documents ou renseignements recueillis en application des articles 132 et 133 ne peuvent, sauf autorisation de l'auteur
+des travaux, être rendus publics ou communiqués à des tiers par l'administration avant l'expiration d'un délai de dix ans à
+compter de la date à laquelle ils ont été obtenus.
+
+Le délai de dix ans peut être réduit ou annulé pour certains documents et renseignements dans les conditions déterminées par
+décrets en Conseil d'Etat. Il peut être porté au maximum à vingt ans dans les mêmes formes pour les documents et
+renseignements sismiques intéressant la recherche des hydrocarbures à terre et pour tous les renseignements et documents
+intéressant la recherche des hydrocarbures en mer.
+
+Les dispositions prévues aux premier et deuxième alinéas ci-dessus ne font pas obstacle aux pouvoirs de contrôle du Parlement
+tels qu'ils sont définis au dernier alinéa du IV de l'article 164 de l'ordonnance n° 58-1374 du 30 décembre 1958 portant loi
+de finances pour 1959 et à l'article 6 de l'ordonnance n° 58-1100 du 17 novembre 1958 relative au fonctionnement des
+assemblées parlementaires.
+
+Pour les travaux exécutés à terre, en ce qui concerne ceux intéressant la recherche d'hydrocarbures liquides ou gazeux, les
+échantillons, documents et renseignements autres que les documents et renseignements sismiques tombent immédiatement dans le
+domaine public. Il en est de même, quel que soit l'objet des travaux à l'occasion desquels ils sont recueillis, des
+échantillons, documents et renseignements mentionnés à l'article L. 211-10 du code de l'environnement.
+
+Pour les travaux exécutés en mer et par exception aux dispositions des deux premiers alinéas ci-dessus, les renseignements
+intéressant la sécurité de la navigation de surface, ainsi que ceux qui concernent les propriétés physico-chimiques et les
+mouvements des eaux susjacentes, tombent immédiatement dans le domaine public. Ces renseignements doivent être communiqués,
+dès leur obtention, pour ce qui concerne leurs missions respectives, à la direction de la météorologie nationale et au
+service hydrographique et océanographique de la marine, lequel peut, en outre, se faire remettre sans délai les
+renseignements et documents intéressant la sécurité de la navigation sous-marine ainsi que la morphologie et la nature
+superficielle du sol marin.
+
+Les dispositions du présent article sont applicables aux travaux intéressant la recherche des hydrocarbures en mer exécutés
+depuis le 1er juillet 1975.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Cite**:
+
+	  - Ordonnance n°58-1100 du 17 novembre 1958 - art. 6
+	  - Ordonnance n°58-1374 du 30 décembre 1958 - art. 164
+	  - Code minier
+	  - Code de l'environnement - art. L211-10
+
+	**Modifié par**:
+
+	  - Décret n°58-1158 1958-11-28 art. 1 JORF 4 décembre 1958
+	  - Loi n°77-620 du 16 juin 1977 - art. 32 () JORF 18 juin 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L412-3 (V)
+	  - Code minier (nouveau) - art. L413-1 (V)
+
+	**Liens**:
+
+	  - PILOTE_SUIVEUR: Code de la construction et de l'habitation. - art. L112-6 (V)
 
 
 ###### Article 135
@@ -2624,6 +3630,55 @@ Tout procès-verbal constatant une de ces infractions est adressé en original a
 	**Créé par**:
 
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+
+###### Article 141
+
+Sera punie d'une amende de 10 000 à 60 000 F et d'un emprisonnement de onze jours à trois mois ou de l'une de ces deux peines
+seulement : 
+
+- toute infraction aux dispositions des articles 8, 21, 62, 78, 81 (troisième alinéa), 90 et 108 du présent code ainsi qu'aux
+décrets ou arrêtés pris pour leur application ;
+
+- toute opposition ou obstacle à l'application de l'article 132 ainsi que tout refus d'obtempérer aux réquisitions prévues
+par l'article 87 du présent code ;
+
+- toute infraction aux décrets et arrêtés pris en exécution des articles 83, 84, 85, 86 et 107 du présent code, lorsque cette
+infraction intéresse la sécurité et la salubrité publiques ou celles des personnes occupées dans les travaux de recherches et
+d'exploitation ;
+
+- toute infraction aux dispositions de ces mêmes décrets et arrêtés concernant la pénétration sur les carreaux clôturés des
+exploitations.
+
+En cas de récidive, l'amende sera portée au double et un emprisonnement de 11 jours et n'excédant pas cinq ans pourra en
+outre être prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°70-1 du 2 janvier 1970 - art. 33 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
+	  - Loi n°77-620 du 16 juin 1977 - art. 33 () JORF 18 juin 1977
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1337-1-1 (VD)
+	  - Code minier - art. 141-1 (VT)
+	  - Code minier - art. 143 (VT)
+	  - Code minier - art. 144-1 (VT)
+	  - Code minier - art. 251-18 (VD)
+
+	**Cite**:
+
+	  - Code minier 8, 21, 62, 78, 81, 90, 108, 87, 132, 83, 84, 85, 86, 107
 
 
 ###### Article 142
@@ -3278,104 +4333,5 @@ premières d'origine française seront hors contingentement.
 	**Abrogé par**:
 
 	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
-
-
-## Titre III : De certains organismes ou régimes spéciaux concernant la recherche et l'exploitation des hydrocarbures
-
-### Chapitre III : Recherche et exploitation des hydrocarbures en Aquitaine.
-
-###### Article 197
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 199
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 200
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 201
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 202
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
 
 
