@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1971-10-01
+Version Consolidée au 1972-07-12
 
 # Livre Ier : Régime général
 
@@ -1620,34 +1620,6 @@ dispositions de l'article 141 ci-après.
 	  - Code minier 141
 
 
-###### Article 79
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°72-645 1972-07-04 art. 27 I JORF 12 juillet 1972
-
-	**Cité par**:
-
-	  - Décret n°2006-798 du 6 juillet 2006 - art. 41 (V)
-	  - Décret n°2010-1389 du 12 novembre 2010 - art. 3 (V)
-	  - Décret n°2010-1394 du 12 novembre 2010 - art. 7 (V)
-	  - Code de l'environnement - art. L229-35 (V)
-	  - Code de l'environnement - art. R515-41 (V)
-	  - Code minier - art. 91 (VT)
-
-
 ###### Article 80
 
 Tout puits, galerie ou travail d'exploitation de mine ouverts en contravention du présent code et des textes pris pour son
@@ -1693,25 +1665,6 @@ cet effet par l'autorité locale.
 	**Cité par**:
 
 	  - Décret n°59-1205 du 23 octobre 1959 - art. 1 (V)
-
-
-###### Article 88
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°72-645 1972-07-04 art. 27 I JORF 12 juillet 1972
 
 
 ###### Article 90
