@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1972-07-12
+Version Consolidée au 1976-08-29
 
 # Livre Ier : Régime général
 
@@ -3301,25 +3301,6 @@ premières d'origine française seront hors contingentement.
 	**Abrogé par**:
 
 	  - Loi n°77-620 du 16 juin 1977 - art. 34 () JORF 18 juin 1977
-
-
-###### Article 198
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°76-839 1976-08-24 art. 1 JORF 29 août 1976
 
 
 ###### Article 199
