@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1999-03-31
+Version Consolidée au 2000-09-21
 
 # Livre Ier : Régime général
 
@@ -2939,11 +2939,10 @@ Les travaux de recherches ou d'exploitation d'une mine doivent respecter les con
 sécurité et la santé du personnel, à la sécurité et la salubrité publiques, aux caractéristiques essentielles du milieu
 environnant, terrestre ou maritime, à la solidité des édifices publics et privés, à la conservation des voies de
 communication, de la mine et des autres mines, et plus généralement aux intérêts de l'archéologie et aux intérêts énumérés
-par les dispositions de l'article 1er de la loi du 31 décembre 1913 sur les monuments historiques, de l'article 4 de la loi
-du 2 mai 1930 ayant pour objet de réorganiser la protection des monuments naturels et des sites de caractère artistique,
-historique, scientifique, légendaire ou pittoresque, de l'article 1er de la loi n° 76-629 du 10 juillet 1976 relative à la
-protection de la nature, et de l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau ainsi qu'aux intérêts agricoles des
-sites et des lieux affectés par les travaux et par les installations afférents à l'exploitation.
+par les dispositions de l'article 1er de la loi du 31 décembre 1913 sur les monuments historiques, de l'article L. 341-1 du
+code de l'environnement, de l'article 1er de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, et de
+l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau ainsi qu'aux intérêts agricoles des sites et des lieux affectés par
+les travaux et par les installations afférents à l'exploitation.
 
 Lorsque les intérêts mentionnés à l'alinéa précédent sont menacés par ces travaux, l'autorité administrative peut prescrire à
 l'explorateur ou à l'exploitant de mines toute mesure destinée à assurer la protection de ces intérêts, dans un délai
@@ -2961,13 +2960,13 @@ de besoin d'office à l'exécution des mesures prescrites, aux frais de l'explor
 	**Cite**:
 
 	  - Loi n°1913-12-31 art. 1
-	  - Loi n°1930-05-02 art. 4
 	  - Loi n°76-629 du 10 juillet 1976 - art. 1, v. init.
 	  - Loi n°92-3 1992-01-03 art. 2
+	  - Code de l'environnement - art. L341-1 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 19 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
 
 	**Cité par**:
 
@@ -3844,9 +3843,9 @@ Les carrières sont laissées à la disposition du propriétaire du sol sous ré
 
 ###### Article 107
 
-L'exploitation des carrières qui ont fait l'objet d'une autorisation en vertu des articles 3 et 5 de la loi n° 76-663 du 19
-juillet 1976 relative aux installations classées pour la protection de l'environnement ou qui ont été régulièrement ouvertes
-au titre du code minier est soumise aux dispositions des articles 87 et 90, ainsi qu'aux dispositions suivantes :
+L'exploitation des carrières qui ont fait l'objet d'une autorisation en vertu des articles L. 512-1, L. 512-2 et L. 512-8 du
+code de l'environnement ou qui ont été régulièrement ouvertes au titre du code minier est soumise aux dispositions des
+articles 87 et 90, ainsi qu'aux dispositions suivantes :
 
 Si les travaux de recherche ou d'exploitation d'une carrière sont de nature à compromettre sa conservation ou celle d'un
 autre établissement d'extraction de minerais, ou la sécurité et l'hygiène du personnel, il y est pourvu par le représentant
@@ -3869,26 +3868,49 @@ celles-ci.
 Ils peuvent en outre exiger la communication de documents de toute nature ainsi que la remise de tout échantillon et matériel
 nécessaires à l'accomplissement de leur mission.
 
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+107 :
+
+a) Au deuxième alinéa les mots " par le représentant de l'Etat dans le département " ;
+
+b) Au troisième alinéa les mots " par le représentant de l'Etat dans le département " . (Fin de vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°56-838 1956-08-16
 
-	**Cite**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
-	  - Code minier 87, 90
-
-	**Modifié par**:
-
-	  - Loi n°94-588 du 15 juillet 1994 - art. 28 () JORF 16 juillet 1994
-
 	**Cité par**:
 
 	  - Décret n°99-116 du 12 février 1999 - art. 5 (V)
 	  - Code de l'environnement - art. R515-8 (Ab)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (V)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L342-2 (VT)
+	  - Code minier (nouveau) - art. L342-3 (VT)
+	  - Code minier (nouveau) - art. L342-4 (VT)
+	  - Code minier (nouveau) - art. L342-5 (VT)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-2
+	  - Code de l'environnement - art. L512-8
 
 
 ###### Article 107 bis
@@ -4085,8 +4107,7 @@ a) Cession ou amodiation non conforme aux règles du présent code ;
 b) Infraction grave aux prescriptions édictées par l'autorité administrative en application de l'article 107 ;
 
 c) Absence ou insuffisance prolongée d'exploitation manifestement contraires aux possibilités du gisement ou à l'intérêt des
-consommateurs et non justifiées par l'état du marché ou l'application de la loi n° 76-663 du 19 juillet 1976 relative aux
-installations classées pour la protection de l'environnement ;
+consommateurs et non justifiées par l'état du marché ou l'application du livre V (titre Ier) du code de l'environnement ;
 
 d) Exploitation effectuée dans des conditions telles qu'elle est de nature à compromettre sérieusement l'intérêt économique,
 la conservation et l'utilisation ultérieure du gisement.
@@ -4105,14 +4126,26 @@ L'article 119-2 est applicable au titulaire déchu.
 
 	  - Décret n°56-838 1956-08-16
 
+	**Modifié par**:
+
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L322-3 (V)
+	  - Code minier (nouveau) - art. L322-4 (V)
+	  - Code minier (nouveau) - art. L322-5 (V)
+	  - Code minier (nouveau) - art. L333-3 (V)
+	  - Code minier (nouveau) - art. L333-4 (V)
+
 	**Cite**:
 
-	  - Loi n°76-663 1976-07-19
-	  - Code minier 109, 107, 119-2
-
-	**Créé par**:
-
-	  - Loi n°94-588 du 15 juillet 1994 - art. 31 () JORF 16 juillet 1994
+	  - Code minier
 
 
 ###### Article 110
@@ -4152,7 +4185,7 @@ maximales respectives de trois ans et dix ans, mais peuvent faire l'objet de pro
 
 Dans les zones définies par les décrets prévus par l'article 109, l'exploitation, par les propriétaires du sol ou leurs
 ayants droit, de substances pour lesquelles ces zones ont été définies reste possible sous le régime de l'autorisation prévue
-par les articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée dans les conditions et limites fixées par les
+par les articles L. 512-1, L. 512-2 et L. 512-8 du code de l'environnement dans les conditions et limites fixées par les
 articles 112 et 113.
 
 **Liens relatifs à cet article**
@@ -4161,25 +4194,34 @@ articles 112 et 113.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Cite**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
-	  - Code minier 109, 112, 113
-
 	**Modifié par**:
 
-	  - Loi n°93-3 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
-	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L332-2 (V)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-2
+	  - Code de l'environnement - art. L512-8
 
 
 ###### Article 112
 
 A l'intérieur des zones définies en application de l'article 109, il ne peut être accordé ni autorisation de recherches ni
-permis exclusif de carrière sur des terrains qui, à la date de la demande d'autorisation ou de la demande de permis, sont
+permis exclusif de carrières sur des terrains qui, à la date de la demande d'autorisation ou de la demande de permis, sont
 régulièrement exploités par le propriétaire ou ses ayants droit ou qui, s'ils ne sont pas exploités à la même date, ont fait
-l'objet d'une demande encore en cours d'instruction présentée en application des articles 3 et 5 de la loi n° 76-663 du 19
-février 1976 précitée ou d'une autorisation d'exploiter datant de moins de deux ans.
+l'objet d'une demande encore en cours d'instruction présentée en application des articles L. 512-1, L. 512-2 et L. 512-8 du
+code de l'environnement ou d'une autorisation d'exploiter datant de moins de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -4187,42 +4229,64 @@ février 1976 précitée ou d'une autorisation d'exploiter datant de moins de de
 
 	  - Décret n°56-838 1956-08-16
 
-	**Cite**:
-
-	  - Code minier 109
-	  - Loi n°76-663 1976-02-19 art. 3, art. 5
-
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 32 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L322-2 (V)
+	  - Code minier (nouveau) - art. L332-3 (V)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-2
+	  - Code de l'environnement - art. L512-8
 
 
 ###### Article 113
 
 Les propriétaires du sol ou leurs ayants droit peuvent, à tout moment, déposer une demande d'autorisation d'exploiter, dans
-les conditions prévues par les articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée les terrains couverts par une
-autorisation ministérielle de recherche. Cette autorisation d'exploiter ne peut leur être accordée qu'à compter de
+les conditions prévues par les articles L. 512-1, L. 512-2 et L. 512-8 du code de l'environnement, les terrains couverts par
+une autorisation ministérielle de recherche. Cette autorisation d'exploiter ne peut leur être accordée qu'à compter de
 l'expiration de l'autorisation de recherches, et sous réserve que le titulaire de l'autorisation de recherches ne demande pas
 lui-même un permis exclusif de carrières.
 
 Sur les terrains couverts par une demande de permis d'occupation temporaire n'émanant pas du titulaire de l'autorisation de
 recherches, les propriétaires ou leurs ayants droit peuvent déposer une demande d'autorisation d'exploiter dans les
-conditions prévues aux articles 3 et 5 de la loi n° 76-663 du 19 juillet 1976 précitée.
+conditions prévues aux articles L. 512-1, L. 512-2 et L. 512-8 du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
-
-	**Cite**:
-
-	  - Loi n°76-663 du 19 juillet 1976 - art. 3 (M)
-	  - Loi n°76-663 du 19 juillet 1976 - art. 5 (M)
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 32 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L332-4 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L512-1
+	  - Code de l'environnement - art. L512-2
+	  - Code de l'environnement - art. L512-8
 
 
 ###### Article 114
@@ -4316,10 +4380,10 @@ et agrès antérieurement attachés à l'exploitation.
 
 ###### Article 118
 
-En fin de permis et après réalisation des travaux de sécurité et de remise en état, conformément aux dispositions du titre IV
-bis de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement, la
-carrière est laissée de plein droit et gratuitement à la disposition du propriétaire du sol avec les puits, galeries et,
-d'une manière générale, tous ouvrages établis à demeure pour son exploitation.
+En fin de permis et après réalisation des travaux de sécurité et de remise en état, conformément aux dispositions des
+articles L. 515-1 à L. 515-5 du code de l'environnement, la carrière est laissée de plein droit et gratuitement à la
+disposition du propriétaire du sol avec les puits, galeries et, d'une manière générale, tous ouvrages établis à demeure pour
+son exploitation.
 
 **Liens relatifs à cet article**
 
@@ -4327,13 +4391,22 @@ d'une manière générale, tous ouvrages établis à demeure pour son exploitati
 
 	  - Décret n°56-838 1956-08-16
 
-	**Cite**:
-
-	  - Loi n°76-663 1976-07-19
-
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 33 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L333-9 (V)
+
+	**Cite**:
+
+	  - Code de l'environnement
 
 
 ###### Article 119
@@ -4758,22 +4831,26 @@ dispositions du chapitre Ier du titre III du présent livre et portent les même
 résultant des dispositions du présent titre.
 
 Sauf demande contraire du bénéficiaire, la durée de ces concessions ne peut être inférieure à la durée de l'autorisation
-restant à courir au titre de la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de
-l'environnement.
+restant à courir au titre du livre V (titre Ier) du code de l'environnement.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
-
-	**Cite**:
-
-	  - Loi n°76-663 1976-07-19
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 36 () JORF 16 juillet 1994
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L312-5 (V)
 
 
 ###### Article 124
@@ -4963,9 +5040,8 @@ Jusqu'à ce qu'il ait été statué sur la demande de concession, elles seront m
 ###### Article 130
 
 Sous réserve des cas fixés par décret en Conseil d'Etat, l'exploitation, en vue de leur utilisation, des masses constituées
-par des haldes et terrils de mines et par les déchets d'exploitation de carrières est soumise aux dispositions de la loi n°
-76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement pour ce qui concerne les
-carrières.
+par des haldes et terrils de mines et par les déchets d'exploitation de carrières est soumise aux dispositions du livre V
+(titre Ier) du code de l'environnement pour ce qui concerne les carrières.
 
 Il en est de même pour les opérations de dragage des cours d'eau et les affouillements du sol portant sur une superficie ou
 une quantité de matériaux au moins égales à des seuils fixés par décret en Conseil d'Etat, lorsque les matériaux extraits
@@ -4983,13 +5059,10 @@ de digues.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Cite**:
-
-	  - Loi n°76-663 1976-07-19
-
 	**Modifié par**:
 
-	  - Loi n°95-101 du 2 février 1995 - art. 29 () JORF 3 février 1995
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 5 (V) JORF 21 septembre 2000
 
 
 ## Titre VIII : Des déclarations de fouilles et de levés géophysiques.
