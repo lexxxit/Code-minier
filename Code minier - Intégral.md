@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1994-07-16
+Version Consolidée au 1995-02-03
 
 # Livre Ier : Régime général
 
@@ -3879,6 +3879,12 @@ Il en est de même pour les opérations de dragage des cours d'eau et les affoui
 une quantité de matériaux au moins égales à des seuils fixés par décret en Conseil d'Etat, lorsque les matériaux extraits
 sont commercialisés ou utilisés à des fins autres que la réalisation de l'ouvrage sur l'emprise duquel ils ont été extraits.
 
+Pour les cours d'eau situés en zones de montagne, une évaluation des excédents de débit solide est effectuée, par bassin de
+rivière, par les services de l'Etat. Au vu de cette évaluation, le préfet accorde, après avis de la commission des carrières,
+des droits d'extraction temporaires lorsqu'il est constaté un encombrement du lit de nature à provoquer des inondations. Ces
+autorisations d'extraction sont notamment accordées pour la réalisation de travaux de consolidation des berges ou la création
+de digues.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -3891,8 +3897,7 @@ sont commercialisés ou utilisés à des fins autres que la réalisation de l'ou
 
 	**Modifié par**:
 
-	  - Loi n°93-3 du 4 janvier 1993 - art. 25 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
-	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°95-101 du 2 février 1995 - art. 29 () JORF 3 février 1995
 
 
 ## Titre VIII : Des déclarations de fouilles et de levés géophysiques.
