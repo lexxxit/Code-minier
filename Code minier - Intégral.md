@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1958-12-04
+Version Consolidée au 1959-09-05
 
 # Livre Ier : Régime général
 
@@ -1997,28 +1997,12 @@ d'exportation desdits combustibles minéraux.
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
 
-###### Article 150
+###### Article 152
 
-(texte abrogé).
+Les Charbonnages de France et les houillères de bassin se comportent, en matière de gestion financière et comptable, suivant
+les règles en usage dans les sociétés industrielles et commerciales.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
-
-
-###### Article 151
-
-(texte abrogé).
+Ils sont assujettis aux mêmes impôts que les entreprises industrielles et commerciales.
 
 **Liens relatifs à cet article**
 
@@ -2030,9 +2014,13 @@ d'exportation desdits combustibles minéraux.
 
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ###### Article 153
@@ -2092,25 +2080,6 @@ proposition du ministre de l'économie et des finances et du ministre chargé de
 	**Cite**:
 
 	  - Code minier
-
-
-###### Article 155
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
 
 
 ###### Article 156
@@ -2214,28 +2183,21 @@ dessus.
 	  - Code minier
 
 
-###### Article 159
+###### Article 162
 
-(texte abrogé).
+Les administrateurs sont civilement responsables de leur gestion dans les mêmes conditions que les administrateurs des
+sociétés anonymes.
 
-**Liens relatifs à cet article**
+Sont punis des peines portées à l'article 405 du code pénal, sans préjudice de l'application de cet article à tous les faits
+constitutifs du délit d'escroquerie, les administrateurs ou directeurs généraux qui :
 
-	**Codifié par**:
+1° Par simulation de faits faux ont obtenu ou tenté d'obtenir des souscriptions d'obligations ;
 
-	  - Décret n°56-838 1956-08-16
+2° Ont sciemment publié ou présenté à la commission de vérification des comptes un bilan en vue de dissimuler la véritable
+situation de l'établissement ;
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
-
-
-###### Article 160
-
-(texte abrogé).
+3° De mauvaise foi ont fait des biens ou du crédit de l'établissement ou des pouvoirs qu'ils possédaient un usage contraire à
+l'intérêt de celui-ci ou destiné à favoriser une société dans laquelle ils étaient intéressés directement ou indirectement.
 
 **Liens relatifs à cet article**
 
@@ -2247,85 +2209,13 @@ dessus.
 
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
-	**Abrogé par**:
+	**Modifié par**:
 
 	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
 
+	**Cite**:
 
-###### Article 161
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
-
-
-###### Article 163
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
-
-
-###### Article 164
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
-
-
-###### Article 165
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Abrogé par**:
-
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
+	  - Code pénal 405
 
 
 ###### Article 166
