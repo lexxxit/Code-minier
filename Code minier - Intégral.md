@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2002-09-10
+Version Consolidée au 2003-01-04
 
 # Livre Ier : Régime général
 
@@ -140,9 +140,12 @@ et le titre V aux gîtes à basse température.
 	  - Code minier
 
 
-###### Article 4
+###### Article 3-1
 
-Sont considérés comme carrières, les gîtes non mentionnés aux articles 2 et 3.
+Sont soumis aux dispositions du titre V bis la recherche, la création, les essais, l'aménagement et l'exploitation de cavités
+souterraines naturelles ou artificielles ou de formations souterraines naturelles présentant les qualités requises pour
+constituer des réservoirs étanches ou susceptibles d'être rendus tels, en vue du stockage de gaz naturel, d'hydrocarbures
+liquides, liquéfiés ou gazeux ou de produits chimiques à destination industrielle.
 
 **Liens relatifs à cet article**
 
@@ -152,16 +155,50 @@ Sont considérés comme carrières, les gîtes non mentionnés aux articles 2 et
 
 	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Cité par**:
+
+	  - Décret n°2005-1158 du 13 septembre 2005 - art. 1 (VT)
+	  - Code de l'environnement - art. L229-32 (V)
+	  - Code de l'environnement - art. L515-26 (V)
+	  - Code de l'environnement - art. R414-19 (V)
+	  - Code de l'environnement - art. R515-39 (V)
+	  - Code de l'urbanisme - art. R*425-24 (V)
+	  - Code du travail - art. L2411-1 (V)
+	  - Code du travail - art. L2413-1 (V)
+	  - Code du travail - art. L2414-1 (V)
+	  - Code du travail - art. L2421-4 (V)
+	  - Code du travail - art. L4526-1 (V)
+	  - Code du travail - art. R4524-1 (VD)
+	  - Code du travail - art. R4612-3 (VD)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L211-2 (V)
+
+
+###### Article 4
+
+Sont considérés comme carrières les gîtes ou formations souterraines non mentionnés aux articles 2, 3 et 3-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
 
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 3 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
-	  - Loi n°77-620 du 16 juin 1977 - art. 2 () JORF 18 juin 1977
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
 
 	**Cite**:
 
-	  - Code minier 2, 3
+	  - Code minier 2, 3, 3-1
 
 
 ###### Article 5
@@ -3939,6 +3976,330 @@ Les dispositions des articles 98 à 102 ne sont pas applicables lorsque les eaux
 	  - Code minier
 
 
+## Titre V bis : Du stockage souterrain.
+
+###### Article 104
+
+Les cavités ou formations mentionnées à l'article 3-1 sont considérées, pour l'application du présent titre, comme des
+gisements miniers et leur recherche est assimilée à la recherche de substances de mines.
+
+Pour l'application des articles du code minier mentionnés dans le présent titre, les mots : "concession" ou "concession de
+mines", "périmètre d'une concession", "travaux de recherche de mines" et "travaux d'exploitation de mines" sont, pour le
+stockage souterrain, respectivement assimilés aux mots : "concession de stockage souterrain", "périmètre de stockage",
+"travaux de recherche de stockage souterrain" et "travaux de création, d'essais, d'aménagement et d'exploitation de stockage
+souterrain". Par ailleurs, le périmètre de stockage et le périmètre fixé par la décision d'octroi d'un permis exclusif de
+recherches de stockage souterrain sont assimilés à des périmètres miniers.
+
+Les mots : "mines" et "gisements miniers" sont assimilés aux mots : "stockages souterrains".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L211-3 (V)
+
+	**Cité par**:
+
+	  - Code de l'environnement - art. R551-2 (V)
+	  - Code du travail - art. L4524-1 (V)
+	  - Code du travail - art. R4524-1 (VD)
+	  - Code du travail - art. R4612-3 (VD)
+
+
+###### Article 104-1
+
+Il est procédé aux recherches de stockages souterrains selon les dispositions des articles 7, 8 et 9 et du premier alinéa de
+l'article 10. La prolongation du permis exclusif de recherches est de droit lorsque le titulaire a satisfait à ses
+obligations.
+
+Si les formations souterraines recherchées sont déjà couvertes par des titres miniers, les recherches sont entreprises avec
+le consentement des détenteurs de ces titres miniers. A défaut, le différend est soumis à l'arbitrage du ministre chargé des
+mines, après avis du Conseil général des mines.
+
+Le titulaire d'une concession de stockage souterrain ou d'une concession de mines d'hydrocarbures liquides ou gazeux peut
+seul, dans le même périmètre, effectuer des recherches sans avoir à demander un permis exclusif de recherches de stockage
+souterrain.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Cite**:
+
+	  - Code minier 7, 8, 9, 10
+
+
+###### Article 104-2
+
+Les stockages souterrains mentionnés à l'article 3-1 ne peuvent être exploités qu'en vertu d'une concession. L'acte de
+concession détermine le périmètre de celle-ci et les formations géologiques auxquelles elle s'applique. La concession est
+accordée, après avis du Conseil général des mines et, le cas échéant, du Conseil supérieur d'hygiène publique de France, dans
+les conditions prévues aux articles 23, 24, 25, 26 et 27, aux I et II de l'article 29 et aux articles 36, 37, 43 et 45. Une
+concession de stockage souterrain peut être attribuée sans appel à la concurrence aux titulaires d'une concession antérieure
+de stockage souterrain ou d'une concession de mines d'hydrocarbures liquides ou gazeux, lorsque les formations géologiques
+faisant l'objet de la demande sont incluses dans les périmètres déjà autorisés.
+
+Le titulaire de la concession de stockage est dispensé de l'obtention préalable d'un titre minier lorsque les travaux de
+création, d'essais et d'aménagement du stockage nécessitent l'extraction d'une substance désignée à l'article 2 ; si l'une
+des substances mentionnées audit article fait l'objet d'un titre minier préexistant, le titulaire de ce dernier et le
+demandeur de la concession de stockage fixent leurs droits et obligations réciproques par accord amiable soumis à
+l'approbation du ministre chargé des mines ; à défaut d'accord, ces droits et obligations sont définis par le décret
+attribuant la concession de stockage souterrain.
+
+Les dépenses correspondant à l'exécution des analyses, expertises ou contrôles nécessaires pour l'application du présent
+article sont à la charge du demandeur ou du titulaire de la concession de stockage souterrain.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Cite**:
+
+	  - Code minier 2, 3-1, 23, 24, 25, 26, 27, 29, 36, 37, 43, 45
+
+
+###### Article 104-3
+
+I. - L'exécution de tous travaux, qui seraient de nature à compromettre la sécurité du réservoir souterrain ou à troubler son
+exploitation, est réglementée ou interdite par le préfet, même à l'égard du propriétaire des terrains, à l'intérieur du
+périmètre de stockage et d'un périmètre de protection institué par le décret accordant la concession. Ce décret fixe, pour
+chacun de ces périmètres, la profondeur qu'aucun travail ne peut dépasser sans une autorisation préalable du préfet.
+
+II. - Des servitudes d'utilité publique sont instituées autour des ouvrages nécessaires à l'exploitation d'un stockage
+souterrain dans les conditions prévues aux I, II et III de l'article L. 515-8, aux premier, deuxième et troisième alinéas de
+l'article L. 515-9 et aux articles L. 515-10 et L. 515-11 du code de l'environnement. Ces servitudes et leurs périmètres sont
+arrêtés par l'autorité administrative.
+
+III. - Les actes de mutation de propriété des biens fonciers et immobiliers mentionnent explicitement, le cas échéant, les
+servitudes instituées en application de l'article L. 421-8 du code de l'urbanisme et du II du présent article.
+
+**Nota:**
+
+NOTA : L'article 41 de l'ordonnance n° 2005-1527 énonce : "La présente ordonnance entrera en vigueur à des dates fixées par
+décret en Conseil d'Etat et au plus tard le 1er juillet 2007."
+
+Le décret n° 2007-18 du 5 janvier 2007, en son article 26 fixe cette date au 1er juillet 2007, sous les réserves énoncées
+dans ce même article 26.
+
+En dernier lieu, l'article 72 de la loi n° 2007-209 du 19 février 2007 reporte la date limite d'entrée en vigueur de
+l'ordonnance au 1er octobre 2007.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Cite**:
+
+	  - Code de l'urbanisme - art. L421-8 (M)
+	  - Code de l'environnement - art. L515-10 (V)
+	  - Code de l'environnement - art. L515-11 (V)
+	  - Code de l'environnement - art. L515-8 (M)
+	  - Code de l'environnement - art. L515-9 (V)
+
+
+###### Article 104-4
+
+Les titulaires des concessions de stockage sont assujettis au versement d'une redevance annuelle à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L231-9 (Ab)
+
+
+###### Article 104-5
+
+Les articles 69 à 76 sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L253-1 (V)
+	  - Code minier (nouveau) - art. L254-1 (V)
+	  - Code minier (nouveau) - art. L255-1 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 104-6
+
+La recherche, la création, les essais, l'aménagement et l'exploitation des stockages souterrains sont soumis à la
+surveillance de l'autorité administrative dans les conditions mentionnées à l'article 77.
+
+Les titres VI bis, VI ter et VIII et le titre X du livre Ier, à l'exception des 8°, 9° et 10° de l'article 141, sont
+applicables aux stockages souterrains.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L241-3 (V)
+	  - Code minier (nouveau) - art. L251-1 (V)
+	  - Code minier (nouveau) - art. L271-1 (M)
+	  - Code minier (nouveau) - art. L272-1 (V)
+	  - Code minier (nouveau) - art. L274-1 (V)
+	  - Code minier (nouveau) - art. L415-1 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 104-7
+
+L'exécution des travaux de recherches, de création, d'essais, d'aménagement ou d'exploitation de stockage souterrain et la
+police de ces travaux sont assurées conformément aux dispositions :
+
+- des articles 78, 79 et 79-1 ;
+
+- des articles 80, 81 et 83 ;
+
+- de l'article 85, sous réserve des mesures relatives à la sécurité et à l'hygiène du personnel prises en application du code
+du travail ;
+
+- de l'article 91.
+
+Pour la protection des intérêts visés à l'article 79, l'autorité administrative peut prescrire la réalisation des évaluations
+et la mise en oeuvre des remèdes que rendent nécessaires les conséquences d'un accident ou incident survenu au cours desdits
+travaux ou celles dues à l'inobservation des conditions imposées en application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L231-2 (V)
+	  - Code minier (nouveau) - art. L261-1 (M)
+	  - Code minier (nouveau) - art. L262-1 (V)
+	  - Code minier (nouveau) - art. L262-2 (V)
+	  - Code minier (nouveau) - art. L263-1 (V)
+	  - Code minier (nouveau) - art. L272-1 (V)
+	  - Code minier (nouveau) - art. L273-1 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 104-8
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L221-3 (V)
+	  - Code minier (nouveau) - art. L231-10 (V)
+	  - Code minier (nouveau) - art. L241-5 (V)
+	  - Code minier (nouveau) - art. L252-2 (V)
+	  - Code minier (nouveau) - art. L253-2 (V)
+	  - Code minier (nouveau) - art. L254-2 (V)
+	  - Code minier (nouveau) - art. L255-2 (V)
+	  - Code minier (nouveau) - art. L261-2 (V)
+	  - Code minier (nouveau) - art. L262-3 (V)
+	  - Code minier (nouveau) - art. L263-2 (V)
+	  - Code minier (nouveau) - art. L264-3 (V)
+	  - Code minier (nouveau) - art. L271-2 (V)
+	  - Code minier (nouveau) - art. L272-2 (V)
+	  - Code minier (nouveau) - art. L273-2 (V)
+	  - Code minier (nouveau) - art. L274-2 (V)
+	  - Code minier (nouveau) - art. L282-2 (V)
+
+
 ## Titre VI : Des carrières.
 
 ###### Article 105
@@ -4579,13 +4940,16 @@ b) Cession ou amodiation non conforme aux règles du code ;
 c) Infractions graves aux prescriptions de police, de sécurité ou d'hygiène ; inobservation des mesures imposées en
 application de l'article 79 ;
 
-d) Pour les permis ou les autorisations de recherches : inactivité persistante ou activité manifestement sans rapport avec
-l'effort financier souscrit et, plus généralement, inobservation des engagements souscrits visés dans l'acte institutif ;
+d) Pour les permis de mines ou les autorisations de recherche de mines : inactivité persistante ou activité manifestement
+sans rapport avec l'effort financier et, plus généralement, inobservation des engagements souscrits visés dans l'acte
+institutif ; pour les permis exclusifs de recherches de stockages souterrains : inactivité persistante ;
 
 e) Pour les titres ou les autorisations d'exploitation : absence ou insuffisance prolongée d'exploitation manifestement
-contraire aux possibilités du gisement ou à l'intérêt des consommateurs et non justifiée par l'état du marché, exploitation
+contraire aux possibilités du gisement ou à l'intérêt des consommateurs et non justifiées par l'état du marché, exploitation
 effectuée dans des conditions telles qu'elle est de nature à compromettre sérieusement l'intérêt économique, la conservation
-et l'utilisation ultérieure des gisements ;
+et l'utilisation ultérieure du gisement et, en matière de stockage souterrain du gaz naturel, l'accomplissement des missions
+de service public relatives à la sécurité d'approvisionnement, au maintien de l'équilibre des réseaux raccordés et à la
+continuité de fourniture du gaz naturel ;
 
 f) Inobservation des dispositions des deuxième et troisième alinéas de l'article 81 ;
 
@@ -4604,7 +4968,7 @@ articles 98 et 99, par arrêté ministériel dans les autres cas, selon les moda
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 11 () JORF 16 juillet 1994
+	  - Loi n°2003-8 du 3 janvier 2003 - art. 29 () JORF 4 janvier 2003
 
 	**Cité par**:
 
