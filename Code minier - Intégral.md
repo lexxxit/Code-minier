@@ -1,7 +1,50 @@
 # Code minier  
-Version Consolidée au 1993-12-31
+Version Consolidée au 1994-03-01
 
 # Livre Ier : Régime général
+
+###### Article 141
+
+Sera punie d'une amende de 60 000 F et d'un emprisonnement de trois mois ou de l'une de ces deux peines seulement :
+
+- toute infraction aux dispositions des articles 8, 21, 62, 78, 81 (troisième alinéa), 90 et 108 du présent code ainsi qu'aux
+décrets ou arrêtés pris pour leur application ;
+
+- toute opposition ou obstacle à l'application de l'article 132 ainsi que tout refus d'obtempérer aux réquisitions prévues
+par l'article 87 du présent code ;
+
+- toute infraction aux décrets et arrêtés pris en exécution des articles 83, 84, 85, 86 et 107 du présent code, lorsque cette
+infraction intéresse la sécurité et la salubrité publiques ou celles des personnes occupées dans les travaux de recherches et
+d'exploitation ;
+
+- toute infraction aux dispositions de ces mêmes décrets et arrêtés concernant la pénétration sur les carreaux clôturés des
+exploitations.
+
+En cas de récidive, l'amende sera portée à 120 000 F et un emprisonnement n'excédant pas cinq ans pourra en outre être
+prononcé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L1337-1-1 (VD)
+	  - Code minier - art. 141-1 (VT)
+	  - Code minier - art. 143 (VT)
+	  - Code minier - art. 144-1 (VT)
+	  - Code minier - art. 251-18 (VD)
+
+	**Cite**:
+
+	  - Code minier 8, 21, 62, 78, 81, 90, 108, 87, 132, 83, 84, 85, 86, 107
+
 
 ## Titre Ier : De la classification des gîtes de substances minérales.
 
@@ -3930,61 +3973,12 @@ Tout procès-verbal constatant une de ces infractions est adressé en original a
 	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
 
 
-###### Article 141
-
-Sera punie d'une amende de 10 000 à 60 000 F et d'un emprisonnement de onze jours à trois mois ou de l'une de ces deux peines
-seulement : 
-
-- toute infraction aux dispositions des articles 8, 21, 62, 78, 81 (troisième alinéa), 90 et 108 du présent code ainsi qu'aux
-décrets ou arrêtés pris pour leur application ;
-
-- toute opposition ou obstacle à l'application de l'article 132 ainsi que tout refus d'obtempérer aux réquisitions prévues
-par l'article 87 du présent code ;
-
-- toute infraction aux décrets et arrêtés pris en exécution des articles 83, 84, 85, 86 et 107 du présent code, lorsque cette
-infraction intéresse la sécurité et la salubrité publiques ou celles des personnes occupées dans les travaux de recherches et
-d'exploitation ;
-
-- toute infraction aux dispositions de ces mêmes décrets et arrêtés concernant la pénétration sur les carreaux clôturés des
-exploitations.
-
-En cas de récidive, l'amende sera portée au double et un emprisonnement de 11 jours et n'excédant pas cinq ans pourra en
-outre être prononcé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Loi n°70-1 du 2 janvier 1970 - art. 33 () JORF 4 janvier 1970 en vigueur le 1er octobre 1971
-	  - Loi n°77-620 du 16 juin 1977 - art. 33 () JORF 18 juin 1977
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L1337-1-1 (VD)
-	  - Code minier - art. 141-1 (VT)
-	  - Code minier - art. 143 (VT)
-	  - Code minier - art. 144-1 (VT)
-	  - Code minier - art. 251-18 (VD)
-
-	**Cite**:
-
-	  - Code minier 8, 21, 62, 78, 81, 90, 108, 87, 132, 83, 84, 85, 86, 107
-
-
 ###### Article 142
 
-Sera punie d'une amende de 5 000 à 20 000 F toute infraction aux dispositions des articles 7 (dernier alinéa), 9, 12, 22
-(premier alinéa), 69, 70, 109 (2°), 131, 133 et 136 du présent code.
+Sera punie d'une amende de 25 000 F toute infraction aux dispositions des articles 7 (dernier alinéa), 9, 12, 22 (premier
+alinéa), 69, 70, 109 (2°), 131, 133 et 136 du présent code.
 
-En cas de récidive, l'amende sera portée au double et un emprisonnement de six mois à deux ans pourra en outre être prononcé.
+En cas de récidive, l'amende sera de 50 000 F et un emprisonnement de deux ans pourra en outre être prononcé.
 
 **Liens relatifs à cet article**
 
@@ -3994,18 +3988,26 @@ En cas de récidive, l'amende sera portée au double et un emprisonnement de six
 
 	**Modifié par**:
 
-	  - Loi n°93-3 du 4 janvier 1993 - art. 26 () JORF 5 janvier 1993 en vigueur le 5 juillet 1993
-	  - Loi n°93-3 du 4 janvier 1993 - art. 31 (V) JORF 5 janvier 1993 en vigueur le 5 juillet 1993
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Cite**:
 
 	  - Code minier 7, 9, 12, 22, 69, 70, 109, 131, 133, 136
 
 
-###### Article 144
+###### Article 143
 
-Le tribunal pourra ordonner l'affichage du jugement aux portes des établissements intéressés et sa publication dans les
-journaux qu'il désignera, le tout aux frais du condamné.
+Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
+pénal des infractions prévues par les articles 141 et 142.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
@@ -4015,7 +4017,42 @@ journaux qu'il désignera, le tout aux frais du condamné.
 
 	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 198 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code minier 141, 142
+
+
+###### Article 144
+
+Le tribunal peut ordonner l'affichage ou la diffusion intégrale ou partielle de la décision prononcée dans les conditions
+prévues par l'article 131-35 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 199 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-7 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35
 
 
 # Livre II : Régimes particuliers
@@ -4328,8 +4365,8 @@ dessus.
 Les administrateurs sont civilement responsables de leur gestion dans les mêmes conditions que les administrateurs des
 sociétés anonymes.
 
-Sont punis des peines portées à l'article 405 du code pénal, sans préjudice de l'application de cet article à tous les faits
-constitutifs du délit d'escroquerie, les administrateurs ou directeurs généraux qui :
+Sont punis des peines portées aux articles 313-1, 313-7 et 313-8 du code pénal, sans préjudice de l'application de cet
+article à tous les faits constitutifs du délit d'escroquerie, les administrateurs ou directeurs généraux qui :
 
 1° Par simulation de faits faux ont obtenu ou tenté d'obtenir des souscriptions d'obligations ;
 
@@ -4343,19 +4380,22 @@ l'intérêt de celui-ci ou destiné à favoriser une société dans laquelle ils
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Décret n°59-1036 du 4 septembre 1959 - art. 50 (Ab) JORF 5 septembre 1959 rectificatifs JORF 22 septembre 1959, 13 octobre 1959
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 335 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 18 (V)
 
 	**Cite**:
 
-	  - Code pénal 405
+	  - Code pénal - art. 313-1
+	  - Code pénal - art. 313-7
+	  - Code pénal - art. 313-8
 
 
 ###### Article 166
@@ -4415,8 +4455,8 @@ A défaut d'accord, il est procédé à un arbitrage dans des conditions fixées
 
 ###### Article 168
 
-Sont punies de six mois à cinq ans de prison et d'une amende de 15 000 à 150 000 F ou de l'une de ces deux peines seulement,
-sans préjudice de dommages-intérêts éventuels :
+Sont punis de cinq ans de prison et d'une amende de 150 000 F ou de l'une de ces deux peines seulement, sans préjudice de
+dommages-intérêts éventuels :
 
 1° Ceux qui, en contravention des dispositions du présent titre, cèdent, détériorent, altèrent, endommagent, détournent ou
 dissimulent des biens meubles ou immeubles, des archives, projets, études, comptabilité et autres documents de toute nature
@@ -4439,9 +4479,9 @@ des installations ou services transférés aux Charbonnages de France et aux hou
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 
 ###### Article 169
