@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1998-04-22
+Version Consolidée au 1998-12-31
 
 # Livre Ier : Régime général
 
@@ -998,6 +998,31 @@ détermination de la valeur des produits extraits.
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L132-16 (V)
+
+
+###### Article 31-1
+
+Pour la zone économique exclusive française en mer au large de Saint-Pierre-et-Miquelon, une redevance spécifique, due par
+les titulaires de concessions de mines hydrocarbures liquides ou gazeux, est établie au bénéfice de la collectivité
+territoriale de Saint-Pierre-et-Miquelon.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-1266 1998-12-30 art. 53 I Finances pour 1999 JORF 31 décembre 1998
+
+	**Cité par**:
+
+	  - Loi - art. 53 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ###### Article 35
