@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1993-07-05
+Version Consolidée au 1993-12-31
 
 # Livre Ier : Régime général
 
@@ -850,29 +850,193 @@ redevance à taux progressif et calculée sur la production. Cette redevance est
 vente des hydrocarbures extraits à l'intérieur du périmètre qui délimite la concession. Le quart du produit de cette
 redevance est versé à la caisse autonome nationale de sécurité sociale dans les mines.
 
+Cette redevance ne s'applique pas aux gisements en mer.
+
 Le barème de la redevance est, à compter du 1er janvier 1981, fixé comme suit :
 
-Nature des produits, productions anciennes et nouvelles en pourcentage de la valeur de la production départ champ).
+<table>
+  <tbody>
+    <tr>
+      <td width="269">
 
-Huile brute :
+NATURE DES PRODUITS
 
-Par tranche de production annuelle (en tonnes) :
+</td>
+      <td width="168">
 
-inférieur à 50 000 : 8, 0.
+PRODUCTIONS
 
-de 50 000 à 100 000 : 14, 6.
+anciennes
 
-de 100 000 à 300 000 : 17, 9.
+</td>
+      <td width="168">
 
-supérieure à 300 000 : 20, 12.
+PRODUCTIONS
 
-Gaz :
+nouvelles
 
-Par tranche de production annuelle (en millions de mètres cubes) :
+</td>
+    </tr>
+    <tr>
+      <td width="269">
 
-inférieur à 300 : 0, 0.
+</td>
+      <td colspan="2" width="336">
 
-supérieure à 300 : 20, 5.
+(En pourcentage de la valeur
+
+de la production départ champ)
+
+</td>
+    </tr>
+    <tr>
+      <td width="269">
+
+Huile brute
+
+</td>
+      <td width="168">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+    <tr>
+      <td width="269">
+
+Par tranche de production annuelle :
+
+</td>
+      <td width="168">
+
+</td>
+      <td width="168">
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Inférieur à 50 000 tonnes
+
+</td>
+      <td width="168" valign="top">
+
+8
+
+</td>
+      <td valign="top" width="168">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+De 50 000 à 100 000 tonnes
+
+</td>
+      <td width="168" valign="top">
+
+14
+
+</td>
+      <td width="168" valign="top">
+
+6
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+De 100 000 à 300 000 tonnes
+
+</td>
+      <td width="168" valign="top">
+
+17
+
+</td>
+      <td valign="top" width="168">
+
+9
+
+</td>
+    </tr>
+    <tr>
+      <td width="269" valign="top">
+
+Supérieure à 300 000 tonnes
+
+</td>
+      <td width="168" valign="top">
+
+20
+
+</td>
+      <td valign="top" width="168">
+
+12
+
+</td>
+    </tr>
+    <tr>
+      <td width="269">
+
+Gaz
+
+</td>
+      <td valign="top" width="168">
+      </td><td valign="top" width="168">
+    </td></tr>
+    <tr>
+      <td width="269" valign="top">
+
+Par tranche de production annuelle :
+
+</td>
+      <td width="168" valign="top">
+      </td><td valign="top" width="168">
+    </td></tr>
+    <tr>
+      <td valign="top" width="269">
+
+Inférieur à 300 millions de mètres cubes
+
+</td>
+      <td width="168">
+
+0
+
+</td>
+      <td width="168">
+
+0
+
+</td>
+    </tr>
+    <tr>
+      <td valign="top" width="269">
+
+Supérieure à 300 millions de mètres cubes
+
+</td>
+      <td width="168">
+
+20
+
+</td>
+      <td width="168">
+
+5
+
+</td>
+    </tr>
+  </tbody>
+</table>
 
 Les productions anciennes s'entendent des quantités extraites, selon des techniques classiques, de puits mis en service avant
 le 1er janvier 1980. Les autres quantités extraites constituent des productions nouvelles.
@@ -887,14 +1051,17 @@ détermination de la valeur des produits extraits.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatif JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 8 () JORF 18 juin 1977
-	  - Décret n°81-372 1981-04-15 art. 2 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
+	  - Loi n°93-1352 du 30 décembre 1993 - art. 27 () JORF 31 décembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L132-16 (V)
 
 
 ###### Article 35
