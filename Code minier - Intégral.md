@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1998-04-22
 
 # Livre Ier : Régime général
 
@@ -285,6 +285,9 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 Le permis exclusif de recherches de substances concessibles, autres que les combustibles minéraux solides et les sels de
 potassium, est accordé par l'autorité administrative, après mise en concurrence, pour une durée de cinq ans au plus.
 
+Dans le département de la Guyane, pour les substances autres que les hydrocarbures liquides ou gazeux, la demande de permis
+n'est pas soumise à concurrence si la superficie sollicitée est inférieure à un seuil fixé par décret en Conseil d'Etat.
+
 Ce permis confère à son titulaire l'exclusivité du droit d'effectuer tous travaux de recherches dans le périmètre dudit
 permis et de disposer librement des produits extraits à l'occasion des recherches et des essais qu'elles peuvent comporter.
 
@@ -301,7 +304,7 @@ procédure d'instruction des demandes de permis.
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 1 () JORF 16 juillet 1994
+	  - Loi n°98-297 du 21 avril 1998 - art. 2 () JORF 22 avril 1998
 
 	**Cité par**:
 
@@ -448,19 +451,32 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 Sous réserve des dispositions de l'article 22, les mines ne peuvent être exploitées qu'en vertu d'une concession ou par
 l'Etat.
 
+Dans les départements d'outre-mer, à l'exception des hydrocarbures liquides ou gazeux, les mines peuvent également être
+exploitées en vertu d'une autorisation d'exploitation ou d'un permis d'exploitation accordés dans les conditions prévues au
+chapitre IV du présent titre.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 4 () JORF 16 juillet 1994
+	  - Loi n°98-297 du 21 avril 1998 - art. 3 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L131-1 (V)
+	  - Code minier (nouveau) - art. L611-1 (V)
 
 	**Cite**:
 
-	  - Code minier 22
+	  - Code minier
 
 
 ###### Article 22
@@ -1473,6 +1489,651 @@ trois fonctionnaires et de trois représentants des inventeurs.
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L136-3 (V)
+
+
+###### Article 67
+
+Les organismes administratifs chargés de la gestion des mines exploitées par l'Etat sont assujettis aux mêmes droits et
+obligations que les concessionnaires privés.
+
+Les charges des travaux d'établissement sont inscrites dans leurs comptes annuels ; en aucun cas, le délai d'amortissement
+des emprunts contractés par ces organismes ne peut être supérieur à cinquante ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 4 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L136-4 (V)
+
+	**Anciens textes**:
+
+	  - Code minier 68
+
+
+### Chapitre IV : Dispositions particulières aux départements d'outre-mer
+
+#### Section 1 : Des autorisations d'exploitation.
+
+###### Article 68
+
+L'autorisation d'exploitation est délivrée par l'autorité administrative pour une durée de quatre ans au plus et sur une
+superficie maximale de 1 kilomètre carré. Elle peut être renouvelée une fois, pour quatre ans au plus, ou prorogée dans les
+conditions prévues par l'article 68-8.
+
+Nul ne peut obtenir une autorisation d'exploitation s'il ne possède les capacités techniques et financières pour mener à bien
+les travaux d'exploitation dans les conditions prévues par les articles 68-2 et 68-20.
+
+L'autorisation d'exploitation ne peut être accordée qu'à une seule personne physique ou une seule société commerciale.
+
+Nul ne peut obtenir dans un même département d'outre-mer, sur une période de quatre ans, plus de trois autorisations
+d'exploitation.
+
+Il ne peut être accordé d'autorisation d'exploitation sur les fonds marins.
+
+Un décret en Conseil d'Etat définit les critères d'appréciation des capacités techniques et financières, les conditions
+d'attribution des autorisations et la procédure d'instruction des demandes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Cité par**:
+
+	  - Décret n°2001-204 du 6 mars 2001 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-10 (V)
+	  - Code minier (nouveau) - art. L611-12 (V)
+	  - Code minier (nouveau) - art. L611-6 (V)
+	  - Code minier (nouveau) - art. L611-7 (V)
+	  - Code minier (nouveau) - art. L611-8 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-1
+
+L'acte octroyant l'autorisation d'exploitation confère à son détenteur, à l'intérieur des limites qu'il fixe, l'exclusivité
+du droit de faire tous travaux de recherches et d'exploitation des substances qu'il mentionne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-3 (V)
+
+
+###### Article 68-2
+
+L'autorisation d'exploitation, qui peut à cet égard être complétée à tout moment, fixe les conditions particulières dans
+lesquelles les travaux sont entrepris, exécutés et arrêtés dans le respect des intérêts mentionnés aux articles 79 et 79-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Cité par**:
+
+	  - Décret n°2010-1389 du 12 novembre 2010 - art. 2 (V)
+
+	**Cite**:
+
+	  - Code minier 79, 79-1
+
+
+###### Article 68-3
+
+L'autorisation d'exploitation peut, sur demande du détenteur, être étendue à d'autres substances. De même, sa superficie peut
+être étendue à de nouvelles zones, sans pouvoir excéder la limite fixée par application de l'article 68.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-11 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-4
+
+L'autorisation d'exploitation ne peut donner lieu à cession, amodiation ou location ; elle n'est pas susceptible
+d'hypothèque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-4 (V)
+	  - Code minier (nouveau) - art. L611-5 (V)
+
+
+###### Article 68-5
+
+La renonciation totale ou partielle à une autorisation d'exploitation ne devient définitive qu'après acceptation par
+l'autorité administrative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-13 (V)
+
+
+###### Article 68-6
+
+L'autorisation d'exploitation peut, après mise en demeure, être retirée à son détenteur, dans les cas prévus à l'article
+119-1 et en cas de non-respect des dispositions des articles 68-4 et 68-20.
+
+La décision de retrait est prononcée par l'autorité administrative selon des modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-15 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-7
+
+Les dispositions des titres IV (sauf ses articles 71 à 74, 78, 83 et 84), VI bis (sauf son article 119-4), VIII, IX et X du
+présent livre sont applicables à l'autorisation d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Cite**:
+
+	  - Code minier 71 à 74, 78, 83, 84
+
+
+###### Article 68-8
+
+I. - Sous réserve de l'accord du détenteur d'un permis exclusif de recherches, d'un permis d'exploitation ou d'une
+concession, une autorisation d'exploitation peut être délivrée à un tiers sur une zone située à l'intérieur du périmètre de
+ce titre pour une durée égale au plus à la durée de validité restante du titre et sous réserve des dispositions de l'article
+68.
+
+En cas de demande de prolongation d'un permis exclusif de recherches ou de transformation d'un permis exclusif de recherches
+en permis d'exploitation ou en concession, la durée de l'autorisation d'exploitation est prorogée à la demande du titulaire
+de l'autorisation d'exploitation jusqu'à l'intervention d'une décision concernant cette demande. Toutefois, la durée totale
+de validité de l'autorisation d'exploitation ne peut en ce cas excéder six années.
+
+Les droits et obligations du détenteur du permis ou de la concession sont suspendus à l'intérieur du périmètre de
+l'autorisation d'exploitation pendant la durée de validité de celle-ci.
+
+Au terme de cette validité et sur demande du détenteur, le permis ou la concession est rétabli pour la durée restant
+normalement à courir.
+
+II. - Lorsqu'une autorisation d'exploitation portant sur une zone enclavée à l'intérieur d'un permis exclusif de recherches
+ou d'un titre d'exploitation institué postérieurement vient à expiration, le détenteur de ce permis exclusif de recherches ou
+de ce titre d'exploitation peut solliciter l'extension de son titre à cette zone selon une procédure simplifiée fixée par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-9 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+#### Section 2 : Des permis d'exploitation.
+
+###### Article 68-9
+
+Le permis d'exploitation est accordé par l'autorité administrative, après enquête publique et, sauf dans les cas prévus par
+l'article 68-10, mise en concurrence, et sous réserve de l'engagement de respecter des conditions générales. Ce titre peut
+être accordé conjointement à plusieurs personnes, physiques ou sociétés commerciales. Les modalités d'application du présent
+alinéa sont définies par décret en Conseil d'Etat.
+
+Nul ne peut obtenir un permis d'exploitation s'il ne possède les capacités techniques et financières nécessaires pour mener à
+bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 79 et 79-1. Un décret en Conseil
+d'Etat définit les critères d'appréciation de ces capacités, les conditions d'attribution des titres ainsi que la procédure
+d'instruction des demandes de permis d'exploitation.
+
+Lorsqu'un inventeur n'obtient pas le permis d'exploitation d'une mine, la décision d'octroi de ce permis fixe l'indemnité qui
+lui est due par le détenteur. Dans ce cas, l'inventeur est préalablement appelé à présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Cite**:
+
+	  - Code minier 68-10, 79, 79-1
+
+
+###### Article 68-10
+
+Pendant la durée de validité d'un permis exclusif de recherches, son détenteur peut seul obtenir un permis d'exploitation
+portant, à l'intérieur du périmètre de son titre, sur des substances mentionnées par celui-ci.
+
+Le détenteur d'un permis exclusif de recherches a droit, s'il en fait la demande avant l'expiration de ce permis, à l'octroi
+de permis d'exploitation sur les gisements exploitables découverts à l'intérieur du périmètre de ce permis pendant la
+validité de celui-ci.
+
+Si un permis exclusif de recherches vient normalement à expiration définitive avant qu'il soit statué sur une demande de
+permis d'exploitation introduite par son détenteur, la validité de ce permis est prorogée de droit sans formalité jusqu'à
+l'intervention d'une décision concernant cette demande.
+
+Cette prorogation n'est valable qu'à l'intérieur du périmètre défini par la demande et pour les substances mentionnées par
+celle-ci.
+
+L'institution du permis d'exploitation entraîne l'annulation du permis exclusif de recherches pour les substances mentionnées
+et à l'intérieur du périmètre institué par ce titre d'exploitation, mais le laisse subsister à l'extérieur de ce périmètre.
+Le droit exclusif du détenteur d'effectuer tous travaux de recherches à l'intérieur du périmètre de ce permis d'exploitation
+est maintenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-19 (V)
+
+
+###### Article 68-11
+
+L'étendue d'un permis d'exploitation est déterminée par l'acte accordant le permis. Elle est limitée par la surface engendrée
+par les verticales indéfiniment prolongées en profondeur et s'appuyant sur un périmètre défini en surface.
+
+Toutefois, la responsabilité de l'exploitant à raison de ses travaux miniers n'est pas limitée aux seuls dégâts causés à
+l'intérieur du périmètre définissant la concession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+
+###### Article 68-12
+
+La durée du permis d'exploitation est de cinq ans au plus. Elle peut faire l'objet de deux prolongations de cinq ans au
+maximum chacune, selon les mêmes formes que celles requises pour l'octroi du titre, à l'exception de l'enquête publique et de
+la mise en concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-24 (V)
+
+
+###### Article 68-13
+
+Le permis d'exploitation confère le droit exclusif d'exploitation indivisible sur les substances mentionnées dans la décision
+d'octroi. Il crée un droit immobilier non susceptible d'hypothèque.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-17 (V)
+
+
+###### Article 68-14
+
+Le permis d'exploitation peut, après mise en demeure, être retiré à son détenteur, dans les cas prévus à l'article 119-1 et
+en cas de non-respect des dispositions de l'article 68-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-28 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-15
+
+Les dispositions des articles 28 et 43, ainsi que celles des titres IV (sous réserve des adaptations prévues par l'article
+68-16), VI bis, VI ter, VIII, IX et X du présent livre, sont applicables au permis d'exploitation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Cite**:
+
+	  - Code minier 28, 43, 68-16
+
+
+###### Article 68-16
+
+Les conditions d'application de l'article 83 aux travaux faits dans le cadre du permis d'exploitation sont fixées par décret
+en Conseil d'Etat. Ce décret précise notamment les cas où l'enquête publique à laquelle a été soumise la demande de permis
+d'exploitation peut tenir lieu d'enquête pour l'ouverture des travaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-26 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-17
+
+Le titulaire d'un permis d'exploitation a le droit de disposer, pour les besoins de son exploitation, des substances non
+mentionnées dans le permis dont ses travaux entraînent nécessairement l'abattage. Le propriétaire du sol peut réclamer la
+disposition de celles de ces substances qui ne seraient pas utilisées dans les conditions précitées, moyennant paiement à
+l'exploitant de la mine d'une indemnité correspondant aux frais normaux qu'aurait entraînés l'extraction directe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-18 (V)
+
+
+###### Article 68-18
+
+Si un permis d'exploitation vient à expiration définitive avant la fin des travaux d'exploitation, ceux-ci ne peuvent être
+poursuivis que sous le régime de la concession. Toutefois, la validité du permis d'exploitation est prorogée de droit sans
+formalité jusqu'à ce qu'il soit statué sur la demande de concession, pour la zone située à l'intérieur du périmètre de ce
+permis et faisant l'objet de la demande. Cette dernière n'est pas soumise à concurrence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-27 (V)
+
+
+#### Section 3 : Dispositions diverses.
+
+###### Article 68-19
+
+Il est créé, en tant que de besoin, dans chaque département d'outre-mer, une commission départementale des mines. Cette
+commission, présidée par le représentant de l'Etat, est composée à parts égales :
+
+1° De représentants élus des collectivités territoriales ;
+
+2° De représentants des administrations publiques concernées ;
+
+3° De représentants des exploitants de mines ;
+
+4° De représentants des associations de protection de l'environnement et d'une personnalité qualifiée. (1) 
+
+La commission des mines émet un avis sur les demandes relatives aux titres miniers.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+(1) Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne l'article
+68-19 4°. (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+
+###### Article 68-20
+
+Dans chaque département d'outre-mer, en tant que de besoin, les conditions générales d'exécution et d'arrêt des travaux sont
+déterminées par le représentant de l'Etat dans le département.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+68-20 les mots " par le représentant de l'Etat dans le département " (Fin de vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-35 (V)
 
 
 ## Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines
@@ -4217,8 +4878,8 @@ préfet.
 
 Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 200 000 F le fait :
 
-1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir une concession ou une autorisation telles
-qu'elles sont respectivement prévues aux articles 21 et 22 ;
+1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation
+tels qu'ils sont respectivement prévus aux articles 21, 22, 68 et 68-9 ;
 
 2° De procéder à des travaux de recherches ou d'exploitation d'une mine sans se conformer aux mesures prescrites par
 l'autorité administrative dans les conditions prévues par le deuxième alinéa de l'article 79 pour assurer la protection des
@@ -4247,7 +4908,12 @@ environnant ;
 10° De procéder à des travaux de recherches ou d'exploitation d'une carrière sans se conformer aux mesures prescrites par
 l'autorité administrative dans les conditions prévues par les deuxième et quatrième alinéas de l'article 107 pour assurer la
 conservation de la carrière ou d'un établissement voisin de mine ou de carrière ou la sécurité et la santé du personnel de la
-carrière ou d'un établissement voisin de mine ou de carrière.
+carrière ou d'un établissement voisin de mine ou de carrière ;
+
+11° Dans les départements d'outre-mer, de ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par
+l'autorisation d'exploitation ;
+
+12° De céder, d'amodier ou de louer une autorisation d'exploitation.
 
 **Liens relatifs à cet article**
 
@@ -4257,7 +4923,8 @@ carrière ou d'un établissement voisin de mine ou de carrière.
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 41 () JORF 16 juillet 1994
+	  - Loi n°98-297 1998-04-21 art. 6 I, II JORF 22 avril 1998
+	  - Loi n°98-297 du 21 avril 1998 - art. 6 () JORF 22 avril 1998
 
 	**Cité par**:
 
@@ -4269,7 +4936,7 @@ carrière ou d'un établissement voisin de mine ou de carrière.
 
 	**Cite**:
 
-	  - Code minier 21, 22, 79, 79-1, 81, 83, 84, 85, 86, 87, 90, 107
+	  - Code minier 21, 22, 68, 68-9, 79, 79-1, 81, 83, 84, 85, 86, 87, 90, 107
 
 
 ###### Article 142
@@ -4285,8 +4952,9 @@ demeure du propriétaire,
 
 - ou sans disposer d'un permis exclusif de recherches ;
 
-2° De rechercher une substance de mine à l'intérieur du périmètre d'une concession ou d'une exploitation d'Etat portant sur
-cette substance, sans détenir le titred'exploitation ;
+2° De rechercher une substance de mine à l'intérieur du périmètre d'un titre minier ou d'une exploitation d'Etat portant sur
+cette substance, sans détenir le titre d'exploitation ou, s'il s'agit d'une autorisation d'exploitation, sans l'accord de son
+détenteur ;
 
 3° De disposer des produits extraits du fait de ses recherches sans l'autorisation prévue par l'article 8 ou sans le permis
 prévu par l'article 9 ;
@@ -4327,7 +4995,7 @@ minière dont la validité a expiré, dans les conditions fixées par l'article 
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 42 () JORF 16 juillet 1994
+	  - Loi n°98-297 du 21 avril 1998 - art. 7 () JORF 22 avril 1998
 
 	**Cite**:
 
@@ -5057,12 +5725,113 @@ premières d'origine française seront hors contingentement.
 
 ## Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine.
 
-###### Article 208
+###### Article 207
 
-Le titre VI du livre Ier, ainsi que les titres VI bis et X en tant qu'ils sont relatifs aux carrières, sont seuls applicables
-dans les départements d'outre-mer.
+Le présent code abroge les dispositions des lois, ordonnances et décrets qui suivent :
+
+Loi du 21 avril 1810.
+
+Décret du 3 janvier 1813.
+
+Loi du 27 avril 1838.
+
+Loi du 3 mai 1841.
+
+Décret du 23 octobre 1852.
+
+Loi du 13 juillet 1911.
+
+Loi du 9 septembre 1919.
+
+Loi du 28 juin 1927.
+
+Loi du 9 février 1930.
+
+Décret du 30 octobre 1935.
+
+Loi du 23 janvier 1937.
+
+Loi du 29 juillet 1939.
+
+Loi du 26 septembre 1939.
+
+Loi du 18 juillet 1941 (sur hydrocarbures).
+
+Loi du 22 mai 1944, n° 204.
+
+Ordonnance du 23 janvier 1945 (n° 45-122).
+
+Ordonnance du 12 octobre 1945 (n° 45-2324).
+
+Loi du 17 mai 1946, n° 46-1072.
+
+Loi du 6 janvier 1948, n° 48-24.
+
+Loi du 23 août 1948, n° 48-1305.
+
+Loi du 19 mars 1950, n° 50-347.
+
+Loi du 11 juillet 1953, n° 53-611.
+
+Loi du 5 août 1953, n° 53-675.
+
+Décret n° 55-152 du 2 février 1955.
+
+Décret n° 55-588 du 20 mai 1955.
+
+Décret n° 55-589 du 20 mai 1955.
+
+Décret n° 55-590 du 20 mai 1955.
+
+Décret n° 55-591 du 20 mai 1955.
+
+Décret n° 55-592 du 20 mai 1955.
+
+Décret n° 55-593 du 20 mai 1955.
+
+Toutefois les concessions accordées sous le régime institué par la loi du 9 septembre 1919 et maintenues sous ce régime
+restent soumises aux conditions du cahier des charges annexé à leur acte institutif ;
+
+Les périmètres d'exploitation d'hydrocarbures liquides ou gazeux institués en application de la loi du 18 juillet 1941
+relative à la recherche et à l'exploitation des hydrocarbures en Aquitaine restent soumis aux conditions auxquelles ils ont
+été institués. A compter du 1er janvier 1981, les titulaires de ces concessions et l'exploitant du périmètre d'exploitation
+de Lacq sont tenus de payer annuellement à l'Etat la redevance prévue à l'article 31 du présent code.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code minier 31
+	  - Décret n°1813-01-03
+	  - Décret n°1852-10-23
+	  - Décret n°1935-10-30
+	  - Décret n°55-152 1955-02-02
+	  - Décret n°55-588 1955-05-20
+	  - Décret n°55-589 1955-05-20
+	  - Décret n°55-590 1955-05-20
+	  - Décret n°55-591 1955-05-20
+	  - Décret n°55-592 1955-05-20
+	  - Décret n°55-593 1955-05-20
+	  - Loi n°1810-04-21
+	  - Loi n°1838-04-27
+	  - Loi n°1841-05-03
+	  - Loi n°1911-07-13
+	  - Loi n°1919-09-09
+	  - Loi n°1927-06-28
+	  - Loi n°1930-02-09
+	  - Loi n°1937-01-23
+	  - Loi n°1939-07-29
+	  - Loi n°1939-09-26
+	  - Loi n°1941-07-18
+	  - Loi n°44-204 1944-05-22
+	  - Loi n°50-347 1950-03-19
+	  - Ordonnance 45-122 1945-01-23
+	  - Ordonnance 45-2324 1945-10-12
+	  - Loi n°46-1072 1946-05-17
+	  - Loi n°48-24 1948-01-06
+	  - Loi n°48-1305 1948-08-23
+	  - Loi n°53-611 1953-07-11
+	  - Loi n°53-675 1953-08-05
 
 	**Codifié par**:
 
@@ -5070,16 +5839,13 @@ dans les départements d'outre-mer.
 
 	**Créé par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 45 () JORF 16 juillet 1994
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatif JORF 11 septembre 1956, 15 septembre 1956
 
-	**Abrogé par**:
+	**Modifié par**:
 
+	  - Loi n°63-254 1963-03-15 art. 52 II JORF 17 mars 1963 rectificatif JORF 24 mars 1963, 18 mai 1963
+	  - Loi n°77-620 du 16 juin 1977 - art. 35 () JORF 18 juin 1977
+	  - Décret n°81-372 1981-04-15 art. 4 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
 	  - Loi n°98-297 du 21 avril 1998 - art. 10 (V) JORF 22 avril 1998
-
-	**Cité par**:
-
-	  - Loi n°98-297 du 21 avril 1998 - art. 10 (V)
-	  - Code minier - art. 209 (VT)
-	  - Code minier - art. 256 (VD)
 
 
