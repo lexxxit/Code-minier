@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2004-08-11
+Version Consolidée au 2004-08-17
 
 # Livre Ier : Régime général
 
@@ -3650,27 +3650,34 @@ de suivi des risques miniers du déroulement et des résultats de la surveillanc
 
 ###### Article 94
 
-L'Etat élabore et met en oeuvre des plans de prévention des risques miniers, dans les conditions prévues aux articles 40-1 à
-40-7 de la loi n° 87-565 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt
-contre l'incendie et à la prévention des risques majeurs, relatifs aux plans de prévention des risques naturels prévisibles.
-Ces plans emportent les mêmes effets que les plans de prévention des risques naturels prévisibles. Toutefois, les
-dispositions de l'article 13 de la loi n° 95-101 du 2 février 1995 relative au renforcement de la protection de
-l'environnement ne leur sont pas applicables.
+L'Etat élabore et met en oeuvre des plans de prévention des risques miniers, dans les conditions prévues aux articles L.
+562-1 à L. 562-7 du code de l'environnement, relatifs aux plans de prévention des risques naturels prévisibles. Ces plans
+emportent les mêmes effets que les plans de prévention des risques naturels prévisibles. Toutefois, les dispositions de
+l'article 13 de la loi n° 95-101 du 2 février 1995 relative au renforcement de la protection de l'environnement ne leur sont
+pas applicables.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Cite**:
 
-	  - Loi n°87-565 1987-07-22 art. 40-1 à 40-7
-	  - Loi n°95-101 du 2 février 1995 - art. 13 (M)
+	  - Loi n°95-101 du 2 février 1995 - art. 13
+	  - Code de l'environnement
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°99-245 du 30 mars 1999 - art. 5 (VT) JORF 31 mars 1999
+	  - Loi n°2004-811 du 13 août 2004 - art. 102 () JORF 17 août 2004
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L174-5 (V)
 
 	**Cité par**:
 
