@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1970-11-01
+Version Consolidée au 1971-09-24
 
 # Livre Ier : Régime général
 
@@ -2446,6 +2446,29 @@ prononcé.
 	**Cite**:
 
 	  - Code minier 7, 9, 12, 22, 69, 70, 106, 109, 131, 133, 136
+
+
+###### Article 143
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°71-791 1971-09-20 art. 1, art. 2 JORF 24 septembre 1971
+
+	**Abrogé par**:
+
+	  - Décret n°79-432 du 25 mai 1979 - art. 3 (V) JORF 2 juin 1979
 
 
 ###### Article 144
