@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-07-31
 
 # Livre Ier : Régime général
 
@@ -4125,6 +4125,35 @@ l'ordonnance au 1er octobre 2007.
 	  - Code de l'environnement - art. L515-11 (V)
 	  - Code de l'environnement - art. L515-8 (M)
 	  - Code de l'environnement - art. L515-9 (V)
+
+
+###### Article 104-3-1
+
+Les dispositions des articles L. 515-15 à L. 515-25 du code de l'environnement sont applicables aux stockages définis à
+l'article 3-1 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2003-699 du 30 juillet 2003 - art. 22 () JORF 31 juillet 2003
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L264-2 (M)
+
+	**Cite**:
+
+	  - Code minier
+	  - Code de l'environnement
 
 
 ###### Article 104-4
