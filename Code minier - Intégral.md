@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1979-06-02
+Version Consolidée au 1981-04-18
 
 # Livre Ier : Régime général
 
@@ -766,6 +766,53 @@ des travaux éventuellement prescrits en vertu de l'article 83 ci-dessous.
 	  - Code minier 83
 
 
+###### Article 30
+
+I. - Le cahier des charges de la concession fixe les conditions générales de cette concession, conformément au cahier des
+charges type relatif à la substance ou à la ressource concédée.
+
+Les cahiers des charges types sont approuvés par décrets pris en Conseil d'Etat. Ils fixent les conditions dans lesquelles
+les terrains, bâtiments, ouvrages, machines, appareils et engins de toute nature servant à l'exploitation de la mine et en
+constituant les dépendances immobilières sont remis gratuitement ou cédés à l'Etat en fin de concession lorsque le gisement
+demeure exploitable. En cas de contestation sur le caractère exploitable du gisement, il est statué sur avis conforme du
+conseil général des mines.
+
+II. - Le cahier des charges de la concession peut fixer les conditions particulières comprenant notamment :
+
+Des obligations relatives à la continuation de l'exploration de la concession ;
+
+Des obligations relatives à la protection des intérêts mentionnés à l'article 84 ;
+
+Des obligations concernant éventuellement les relations entre titulaires conjoints et solidaires ;
+
+Des obligations concernant le contrôle de la société ou des sociétés titulaires de la concession ;
+
+Des obligations concernant la disposition des produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 7 () JORF 18 juin 1977
+	  - Décret n°81-372 1981-04-15 art. 1 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
+
+	**Abrogé par**:
+
+	  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
+
+	**Cite**:
+
+	  - Code minier 84
+
+
 ###### Article 30 bis
 
 Les concessionnaires de mines, les titulaires de permis d'exploitation de mines sont tenus, à compter du 1er janvier 1957, de
@@ -794,6 +841,60 @@ tarif de la redevance fixe des mines et préciseront les conditions de l'exonér
 
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 18 (V)
+
+
+###### Article 31
+
+Les titulaires de concessions de mines hydrocarbures liquides ou gazeux sont tenus de payer annuellement à l'Etat une
+redevance à taux progressif et calculée sur la production. Cette redevance est due rétroactivement au jour de la première
+vente des hydrocarbures extraits à l'intérieur du périmètre qui délimite la concession. Le quart du produit de cette
+redevance est versé à la caisse autonome nationale de sécurité sociale dans les mines.
+
+Le barème de la redevance est, à compter du 1er janvier 1981, fixé comme suit :
+
+Nature des produits, productions anciennes et nouvelles en pourcentage de la valeur de la production départ champ).
+
+Huile brute :
+
+Par tranche de production annuelle (en tonnes) :
+
+inférieur à 50 000 : 8, 0.
+
+de 50 000 à 100 000 : 14, 6.
+
+de 100 000 à 300 000 : 17, 9.
+
+supérieure à 300 000 : 20, 12.
+
+Gaz :
+
+Par tranche de production annuelle (en millions de mètres cubes) :
+
+inférieur à 300 : 0, 0.
+
+supérieure à 300 : 20, 5.
+
+Les productions anciennes s'entendent des quantités extraites, selon des techniques classiques, de puits mis en service avant
+le 1er janvier 1980. Les autres quantités extraites constituent des productions nouvelles.
+
+Un décret en Conseil d'Etat contresigné par les ministres chargés des hydrocarbures et du budget précise les modalités
+d'application du présent article et notamment la définition des productions anciennes et nouvelles ainsi que le mode de
+détermination de la valeur des produits extraits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatif JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Loi n°77-620 du 16 juin 1977 - art. 8 () JORF 18 juin 1977
+	  - Décret n°81-372 1981-04-15 art. 2 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
 
 
 ###### Article 35
@@ -1123,6 +1224,31 @@ du permis pour la partie dudit permis concernée par la demande de concession.
 	**Modifié par**:
 
 	  - Loi n°70-1 du 2 janvier 1970 - art. 16 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+
+
+###### Article 60
+
+A compter du 1er janvier 1981, les titulaires de permis d'exploitation de gisements d'hydrocarbures liquides ou gazeux sont
+tenus de payer annuellement à l'Etat la redevance prévue à l'article 31 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatif JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°70-987 1970-10-29 art. 1 JORF 30 octobre 1970 en vigueur le 1er novembre 1970
+	  - Décret n°81-372 1981-04-15 art. 3 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
+
+	**Cite**:
+
+	  - Code minier 31
 
 
 ###### Article 62
