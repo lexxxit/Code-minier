@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 1956-12-30
+Version Consolidée au 1958-12-04
 
 # Livre Ier : Régime général
 
@@ -1740,6 +1740,40 @@ façon à assurer le secret des teneurs, tonnages et destinataires de ces substa
 
 	  - Code minier (nouveau) - art. L412-4 (V)
 	  - Code minier (nouveau) - art. L413-2 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 136
+
+Sous réserve de l'application de l'article 134, lorsque la validité d'un titre de recherches minières cesse, sur tout ou
+partie de la surface qu'il concerne, le titulaire est tenu de céder les renseignements d'ordre géologique et géophysique
+portant sur cette surface au nouveau titulaire d'un permis la concernant. A défaut d'accord amiable sur les conditions de la
+cession, l'indemnité à verser au précédent titulaire sera fixée à dire d'experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+
+	**Modifié par**:
+
+	  - Décret n°58-1158 1958-11-28 art. 2 JORF 4 décembre 1958
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L413-3 (V)
 
 	**Cite**:
 
