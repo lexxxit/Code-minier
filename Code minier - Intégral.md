@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2000-09-21
+Version Consolidée au 2000-12-14
 
 # Livre Ier : Régime général
 
@@ -2176,6 +2176,133 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L611-35 (V)
+
+
+#### Section 4 : De la recherche et de l'exploitation en mer.
+
+###### Article 68-21
+
+Lorsqu'elles concernent les titres miniers en mer, et à l'exclusion de ceux relatifs aux minerais ou produits utiles à
+l'énergie atomique, les décisions individuelles mentionnées aux articles 9, 10, 18-1, 25, 68-9, 119-1, 119-4 et 119-5 sont
+prises par la région, qui se prononce après avis du Conseil général des mines.
+
+Lorsqu'elle ne suit pas l'avis du Conseil général des mines, la décision de la région doit être motivée.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+68-21 au premier alinéa, les mots " qui se prononce après avis du conseil général des mines " et le second alinéa (Fin de
+vigueur : date indéterminée).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-31 (V)
+	  - Code minier (nouveau) - art. L611-32 (V)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L4141-2 (VT)
+	  - Code général des collectivités territoriales - art. L4433-17 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-22
+
+Pour l'application en mer, dans les régions d'outre-mer, des dispositions de l'article 8, la compétence dévolue au préfet est
+exercée par la région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 1956-08-16
+
+	**Créé par**:
+
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Cité par**:
+
+	  - Code général des collectivités territoriales - art. L4141-2 (VD)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-23
+
+Pour l'application en mer, dans les régions d'outre-mer, des dispositions des articles 29 (III) et 75-1, la région est
+substituée à l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-34 (V)
+
+	**Cite**:
+
+	  - Code minier
+
+
+###### Article 68-24
+
+Un décret en Conseil d'Etat précise les modalités d'application de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°56-838 du 16 août 1956 portant code minier
+
+	**Créé par**:
+
+	  - Loi n°2000-1207 du 13 décembre 2000 - art. 48
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-31 (V)
+	  - Code minier (nouveau) - art. L611-33 (V)
+	  - Code minier (nouveau) - art. L611-34 (V)
 
 
 ## Titre IV : De l'exécution des travaux de recherche et d'exploitation de mines
