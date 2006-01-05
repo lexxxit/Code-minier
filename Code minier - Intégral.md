@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2004-08-17
+Version Consolidée au 2006-01-06
 
 # Livre Ier : Régime général
 
@@ -4058,11 +4058,11 @@ souterrain.
 
 Les stockages souterrains mentionnés à l'article 3-1 ne peuvent être exploités qu'en vertu d'une concession. L'acte de
 concession détermine le périmètre de celle-ci et les formations géologiques auxquelles elle s'applique. La concession est
-accordée, après avis du Conseil général des mines et, le cas échéant, du Haut Conseil de la santé publique, dans les
-conditions prévues aux articles 23, 24, 25, 26 et 27, aux I et II de l'article 29 et aux articles 36, 37, 43 et 45. Une
-concession de stockage souterrain peut être attribuée sans appel à la concurrence aux titulaires d'une concession antérieure
-de stockage souterrain ou d'une concession de mines d'hydrocarbures liquides ou gazeux, lorsque les formations géologiques
-faisant l'objet de la demande sont incluses dans les périmètres déjà autorisés.
+accordée, après avis du Conseil général des mines, dans les conditions prévues aux articles 23, 24, 25, 26 et 27, aux I et II
+de l'article 29 et aux articles 36, 37, 43 et 45. Une concession de stockage souterrain peut être attribuée sans appel à la
+concurrence aux titulaires d'une concession antérieure de stockage souterrain ou d'une concession de mines d'hydrocarbures
+liquides ou gazeux, lorsque les formations géologiques faisant l'objet de la demande sont incluses dans les périmètres déjà
+autorisés.
 
 Le titulaire de la concession de stockage est dispensé de l'obtention préalable d'un titre minier lorsque les travaux de
 création, d'essais et d'aménagement du stockage nécessitent l'extraction d'une substance désignée à l'article 2 ; si l'une
@@ -4074,19 +4074,46 @@ attribuant la concession de stockage souterrain.
 Les dépenses correspondant à l'exécution des analyses, expertises ou contrôles nécessaires pour l'application du présent
 article sont à la charge du demandeur ou du titulaire de la concession de stockage souterrain.
 
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+104-2 :
+
+a) Au premier alinéa, les mots " après avis du conseil général des mines " ;
+
+b) Au deuxième alinéa, les mots " du ministre chargé des mines "  (Fin de vigueur : date indéterminée).
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2006-11 2006-01-05
 
 	**Modifié par**:
 
-	  - Loi n°2004-806 du 9 août 2004 - art. 4 () JORF 11 août 2004
+	  - Loi n°2006-11 du 5 janvier 2006 - art. 70 (V) JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L231-1 (V)
+	  - Code minier (nouveau) - art. L231-2 (V)
+	  - Code minier (nouveau) - art. L231-3 (V)
+	  - Code minier (nouveau) - art. L231-4 (V)
+	  - Code minier (nouveau) - art. L231-5 (V)
+	  - Code minier (nouveau) - art. L231-6 (V)
+	  - Code minier (nouveau) - art. L231-7 (V)
+	  - Code minier (nouveau) - art. L231-8 (V)
+	  - Code minier (nouveau) - art. L241-2 (V)
+	  - Code minier (nouveau) - art. L282-1 (V)
 
 	**Cite**:
 
-	  - Code minier 2, 3-1, 23, 24, 25, 26, 27, 29, 36, 37, 43, 45
+	  - Code minier
 
 
 ###### Article 104-3
