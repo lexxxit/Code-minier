@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2006-01-06
+Version Consolidée au 2006-03-07
 
 # Livre Ier : Régime général
 
@@ -6296,9 +6296,9 @@ prévues au livre Ier du présent code.
 ###### Article 149
 
 Un décret en Conseil d'Etat, pris sur la proposition du ministre de l'économie et des finances, du ministre des affaires
-étrangères et du ministre chargé des mines, le commissaire au plan et les Charbonnages de France entendus, détermine les
-conditions dans lesquelles le commerce de l'importation et de l'exportation des combustibles minéraux solides autres que la
-tourbe est réglementé et contrôlé par l'Etat.
+étrangères et du ministre chargé des mines, le directeur général du Centre d'analyse stratégique et les Charbonnages de
+France entendus, détermine les conditions dans lesquelles le commerce de l'importation et de l'exportation des combustibles
+minéraux solides autres que la tourbe est réglementé et contrôlé par l'Etat.
 
 Les Charbonnages de France sont habilités à faire toutes propositions et à donner un avis sur les programmes d'importation et
 d'exportation desdits combustibles minéraux.
@@ -6309,9 +6309,14 @@ d'exportation desdits combustibles minéraux.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Décret n°2006-260 du 6 mars 2006 - art. 6 (Ab) JORF 7 mars 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 18 (V)
 
 
 ###### Article 150
