@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2006-03-07
+Version Consolidée au 2006-04-07
 
 # Livre Ier : Régime général
 
@@ -44,8 +44,10 @@ Sont considérés comme mines les gîtes connus pour contenir :
 - de la houille, du lignite, ou d'autres combustibles fossiles, la tourbe exceptée, des bitumes, des hydrocarbures liquides
 ou gazeux, du graphite, du diamant ;
 
-- des sels de sodium et de potassium à l'état solide ou en dissolution, de l'alun, des sulfates autres que les sulfates
-alcalino-terreux ;
+- des sels de sodium et de potassium à l'état solide ou en dissolution, à l'exception de ceux contenus dans les eaux salées
+utilisées à des fins thérapeutiques ou de loisirs ;
+
+- de l'alun, des sulfates autres que les sulfates alcalino-terreux ;.
 
 - de la bauxite, de la fluorine ;
 
@@ -82,10 +84,6 @@ d'utilisation dans l'économie.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Cité par**:
 
 	  - Décret n°2004-1466 du 23 décembre 2004 - art. 1 (V)
@@ -93,6 +91,19 @@ d'utilisation dans l'économie.
 	  - Ordonnance n°2011-91 du 20 janvier 2011 (V)
 	  - Code de l'environnement - art. R414-19 (V)
 	  - Code de l'urbanisme - art. *R111-14 (VT)
+
+	**Modifié par**:
+
+	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 1 () JORF 7 avril 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L111-1 (V)
+	  - Code minier (nouveau) - art. L111-2 (V)
 
 
 ###### Article 3
@@ -319,8 +330,8 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 
 ###### Article 9
 
-Le permis exclusif de recherches de substances concessibles, autres que les combustibles minéraux solides et les sels de
-potassium, est accordé par l'autorité administrative, après mise en concurrence, pour une durée de cinq ans au plus.
+Le permis exclusif de recherches de substances concessibles est accordé par l'autorité administrative, après mise en
+concurrence, pour une durée de cinq ans au plus.
 
 Dans le département de la Guyane, pour les substances autres que les hydrocarbures liquides ou gazeux, la demande de permis
 n'est pas soumise à concurrence si la superficie sollicitée est inférieure à un seuil fixé par décret en Conseil d'Etat.
@@ -337,11 +348,22 @@ procédure d'instruction des demandes de permis.
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Modifié par**:
 
-	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
+	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L122-1 (V)
+	  - Code minier (nouveau) - art. L122-2 (V)
+	  - Code minier (nouveau) - art. L122-3 (V)
+	  - Code minier (nouveau) - art. L621-11 (V)
 
 	**Cité par**:
 
@@ -349,7 +371,7 @@ procédure d'instruction des demandes de permis.
 
 	**Cite**:
 
-	  - Code minier 79, 91
+	  - Code minier
 
 
 ###### Article 10
@@ -5197,9 +5219,7 @@ l'ouverture de la succession, soit par les ayants droit, soit par la personne ph
 dans l'intervalle en vertu d'un acte qui aura été passé sous la condition suspensive de cette autorisation.
 
 L'absence de dépôt de la demande en autorisation dans les délais prescrits peut donner lieu au retrait du titre. Le rejet de
-la demande entraîne le retrait du titre. S'il s'agit d'une concession de mines, les dispositions de l'article 119-3 sont
-applicables à la diligence des ayants droit du concessionnaire décédé ou, le cas échéant, des autres titulaires de la
-concession.
+la demande entraîne le retrait du titre.
 
 **Liens relatifs à cet article**
 
@@ -5207,13 +5227,17 @@ concession.
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 30 () JORF 18 juin 1977
+	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 3 () JORF 7 avril 2006
 
-	**Cite**:
+	**Abrogé par**:
 
-	  - Code minier 119-3
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L143-5 (V)
 
 
 ###### Article 119-8
@@ -6731,91 +6755,6 @@ combustibles.
 	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
-## Titre II : Des mines domaniales de potasse d'Alsace et de l'organisation de l'industrie de la potasse.
-
-###### Article 172
-
-L'exploitation des mines de sels de potassium et sels connexes qui n'ont pas été concédées avant le 23 janvier 1937 est
-réservée à l'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
-
-
-###### Article 183
-
-Il est constitué un comptoir de vente en commun, auquel devront adhérer, avec les mines domaniales de potasse d'Alsace, tous
-autres exploitants actuels ou futurs de mines de potasse en France, et dans les territoires de la France d'outre-mer.
-
-Ce comptoir a l'exclusivité de la vente en France et en dehors de la France de tous les produits de mines dont la liste sera
-établie par un décret en Conseil d'Etat ; il a seul le droit d'exporter ces produits.
-
-Néanmoins, les programmes d'exportation des produits visés à l'alinéa précédent ne pourront porter, pour chaque campagne, que
-sur les produits et tonnages restant disponibles après fixation du programme des livraisons à effectuer sur le marché
-métropolitain pour satisfaire aux besoins nationaux dans toutes les catégories.
-
-Les contrats passés par le comptoir de vente en commun concernant la vente de produits d'extraction ou de produits raffinés
-des mines aux industries transformant ces produits en tous autres sels, combinaisons ou mélanges, destinés aux usages
-agricoles, devront, sur décision ministérielle, subordonner l'exportation desdits produits de transformation à l'acceptation
-par les transformateurs de conditions particulières de prix et à la justification de l'emploi des fournitures de comptoir.
-
-Sous réserve d'autorisations qui pourront être données par le ministre de l'agriculture, il aura seul le droit d'exporter
-tous autres sels, combinaisons ou mélanges renfermant de la potasse destinés aux emplois agricoles.
-
-Sous réserve d'autorisations qui pourront être données à cet effet par les ministres chargés des mines et du commerce et par
-les ministres de l'agriculture et de l'économie et des finances, en ce qui concerne la France et par le ministre chargé des
-mines et le ministre chargé des territoires d'outre-mer en ce qui concerne les territoires de la France d'outre-mer, il aura
-seul le droit d'importer en France, et dans les territoires de la France d'outre-mer tous sels, combinaisons ou mélanges
-renfermant de la potasse.
-
-Les dispositions de l'alinéa précédent ne sont pas applicables aux produits ci-après :
-
-1° Carbonate de potasse raffiné, qualité dite 70/80 d'origine végétale ou animale, ou potasse de suint lorsque ces produits
-ne sont pas mélangés à d'autres produits et sont destinés aux industries de la savonnerie, de la verrerie ou du peignage des
-laines ;
-
-2° Guanos naturels, salins et vinasses de mélasses ou provenant du traitement de la betterave, à l'état naturel ou mélangés à
-des matières asséchantes exemptes de potasse minérale.
-
-Toutefois, le ministre chargé des mines pourra fixer annuellement la qualité maxima des produits mentionnés ci-dessus sous
-les 1° et 2° qui pourra être importée, sous réserve que les producteurs nationaux puissent fournir en qualité et quantité le
-complément nécessaire à l'industrie nationale ; ceux de ces produits qui proviennent du raffinage à l'étranger de matières
-premières d'origine française seront hors contingentement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
-	**Modifié par**:
-
-	  - Décret n°67-796 du 20 septembre 1967 - art. 5 () JORF 22 septembre 1967 en vigueur le 16 octobre 1967
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 2 () JORF 7 avril 2006
-
-
 ## Titre IV : Du bureau de recherches géologiques, géophysiques et minières de la France métropolitaine.
 
 ###### Article 207
@@ -6886,59 +6825,39 @@ Toutefois les concessions accordées sous le régime institué par la loi du 9 s
 restent soumises aux conditions du cahier des charges annexé à leur acte institutif ;
 
 Les périmètres d'exploitation d'hydrocarbures liquides ou gazeux institués en application de la loi du 18 juillet 1941
-relative à la recherche et à l'exploitation des hydrocarbures en Aquitaine restent soumis aux conditions auxquelles ils ont
-été institués. A compter du 1er janvier 1981, les titulaires de ces concessions et l'exploitant du périmètre d'exploitation
-de Lacq sont tenus de payer annuellement à l'Etat la redevance prévue à l'article 31 du présent code.
+relative à la recherche et à l'exploitation des hydrocarbures en Aquitaine sont soumis aux dispositions du livre Ier du
+présent code relatives aux concessions de mines d'hydrocarbures liquides ou gazeux. Les actes qui les ont institués valent
+concession au titre du présent code sans changement de leur durée de validité.
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Code minier 31
-	  - Décret n°1813-01-03
-	  - Décret n°1852-10-23
 	  - Décret n°1935-10-30
-	  - Décret n°55-152 1955-02-02
-	  - Décret n°55-588 1955-05-20
-	  - Décret n°55-589 1955-05-20
-	  - Décret n°55-590 1955-05-20
-	  - Décret n°55-591 1955-05-20
-	  - Décret n°55-592 1955-05-20
-	  - Décret n°55-593 1955-05-20
-	  - Loi n°1810-04-21
-	  - Loi n°1838-04-27
-	  - Loi n°1841-05-03
-	  - Loi n°1911-07-13
-	  - Loi n°1919-09-09
-	  - Loi n°1927-06-28
-	  - Loi n°1930-02-09
-	  - Loi n°1937-01-23
-	  - Loi n°1939-07-29
-	  - Loi n°1939-09-26
-	  - Loi n°1941-07-18
-	  - Loi n°44-204 1944-05-22
-	  - Loi n°50-347 1950-03-19
-	  - Ordonnance 45-122 1945-01-23
-	  - Ordonnance 45-2324 1945-10-12
-	  - Loi n°46-1072 1946-05-17
-	  - Loi n°48-24 1948-01-06
-	  - Loi n°48-1305 1948-08-23
-	  - Loi n°53-611 1953-07-11
-	  - Loi n°53-675 1953-08-05
+	  - Ordonnance n°45-122 du 23 janvier 1945
+	  - Ordonnance n°45-2324 du 12 octobre 1945
+	  - Loi n°46-1072 du 17 mai 1946
+	  - Loi n°48-24 du 6 janvier 1948
+	  - Loi n°48-1305 du 23 août 1948
+	  - Loi n°53-611 du 11 juillet 1953
+	  - Loi n°53-675 du 5 août 1953
+	  - Décret n°55-152 du 2 février 1955
+	  - Code minier
 
 	**Codifié par**:
 
 	  - Décret n°56-838 1956-08-16
 
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatif JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°63-254 1963-03-15 art. 52 II JORF 17 mars 1963 rectificatif JORF 24 mars 1963, 18 mai 1963
-	  - Loi n°77-620 du 16 juin 1977 - art. 35 () JORF 18 juin 1977
-	  - Décret n°81-372 1981-04-15 art. 4 JORF 18 avril 1981 rectificatif JONC 25 juin 1981
-	  - Loi n°98-297 du 21 avril 1998 - art. 10 (V) JORF 22 avril 1998
+	  - Ordonnance n°2006-407 du 6 avril 2006 - art. 4 () JORF 7 avril 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L132-17 (V)
 
 
