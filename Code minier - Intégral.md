@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2006-04-07
+Version Consolidée au 2006-04-15
 
 # Livre Ier : Régime général
 
@@ -3125,10 +3125,10 @@ Les travaux de recherches ou d'exploitation d'une mine doivent respecter les con
 sécurité et la santé du personnel, à la sécurité et la salubrité publiques, aux caractéristiques essentielles du milieu
 environnant, terrestre ou maritime, à la solidité des édifices publics et privés, à la conservation des voies de
 communication, de la mine et des autres mines, et plus généralement aux intérêts de l'archéologie et aux intérêts énumérés
-par les dispositions de l'article 1er de la loi du 31 décembre 1913 sur les monuments historiques, de l'article L. 341-1 du
-code de l'environnement, de l'article 1er de la loi n° 76-629 du 10 juillet 1976 relative à la protection de la nature, et de
-l'article 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau ainsi qu'aux intérêts agricoles des sites et des lieux affectés par
-les travaux et par les installations afférents à l'exploitation.
+par les dispositions des articles L. 621-1 (1), L. 621-2 et L. 621-7 du code du patrimoine, des articles L. 211-1, L. 331-1,
+L. 332-1 et L. 341-1 du code de l'environnement, de l'article 1er de la loi n° 76-629 du 10 juillet 1976 relative à la
+protection de la nature, ainsi qu'aux intérêts agricoles des sites et des lieux affectés par les travaux et par les
+installations afférents à l'exploitation.
 
 Lorsque les intérêts mentionnés à l'alinéa précédent sont menacés par ces travaux, l'autorité administrative peut prescrire à
 l'explorateur ou à l'exploitant de mines toute mesure destinée à assurer la protection de ces intérêts, dans un délai
@@ -3137,22 +3137,31 @@ déterminé.
 En cas de manquement à ces obligations à l'expiration du délai imparti, l'autorité administrative fait procéder en tant que
 de besoin d'office à l'exécution des mesures prescrites, aux frais de l'explorateur ou de l'exploitant.
 
+**Nota:**
+
+(1) : L'article L621-2 du code du patrimoine a été renuméroté en L621-30-1 par l'ordonnance n° 2005-1128 du 8 septembre 2005.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Décret n°56-838 du 16 août 1956 portant code minier
 
 	**Cite**:
 
-	  - Loi n°1913-12-31 art. 1
-	  - Loi n°76-629 du 10 juillet 1976 - art. 1, v. init.
-	  - Loi n°92-3 1992-01-03 art. 2
-	  - Code de l'environnement - art. L341-1 (M)
+	  - Loi n°76-629 du 10 juillet 1976 - art. 1
+	  - Code de l'environnement - art. L211-1
+	  - Code de l'environnement - art. L331-1
+	  - Code de l'environnement - art. L332-1
+	  - Code de l'environnement - art. L341-1
+	  - Code du patrimoine - art. L621-1
+	  - Code du patrimoine - art. L621-2
+	  - Code du patrimoine - art. L621-30-1
+	  - Code du patrimoine - art. L621-7
 
 	**Modifié par**:
 
-	  - Ordonnance n°2000-914 du 18 septembre 2000 - art. 2 (V) JORF 21 septembre 2000
+	  - Loi n°2006-436 du 14 avril 2006 - art. 25 () JORF 15 avril 2006
 
 	**Cité par**:
 
@@ -3162,6 +3171,15 @@ de besoin d'office à l'exécution des mesures prescrites, aux frais de l'explor
 	  - Code de l'environnement - art. L229-35 (V)
 	  - Code de l'environnement - art. R515-41 (V)
 	  - Code minier - art. 91 (VT)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L161-1 (V)
+	  - Code minier (nouveau) - art. L173-2 (V)
 
 
 ###### Article 79-1
