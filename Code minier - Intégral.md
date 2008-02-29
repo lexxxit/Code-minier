@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2007-10-01
+Version Consolidée au 2008-03-01
 
 # Livre Ier : Régime général
 
