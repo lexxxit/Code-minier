@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2008-05-01
+Version Consolidée au 2009-05-14
 
 # Livre Ier : Régime général
 
@@ -11038,30 +11038,31 @@ temps que la partie réglementaire du code du travail et au plus tard le 1er mar
 
 Toute entrave apportée soit à la libre désignation des délégués mineurs, soit à l'exercice régulier de leurs fonctions,
 notamment par la méconnaissance des dispositions des articles 219, 224 et 244, sera punie d'un emprisonnement d'un an et
-d'une amende de 3 750 Euros ou de l'une de ces deux peines seulement.
-
-En cas de récidive, l'emprisonnement pourra être porté à deux ans et l'amende à 7 500 Euros.
+d'une amende de 3 750 euros ou de l'une de ces deux peines seulement.
 
 **Nota:**
 
-NOTA : Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même
-temps que la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 7 () JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-11 (V)
 
 	**Cite**:
 
-	  - Code minier - art. 219 (VD)
-	  - Code minier - art. 224 (VD)
-	  - Code minier - art. 244 (VD)
+	  - Code minier - art. 219
+	  - Code minier - art. 224
+	  - Code minier - art. 244
 
 
 ###### Article 255
@@ -11069,24 +11070,21 @@ temps que la partie réglementaire du code du travail et au plus tard le 1er mar
 Ceux qui, soit par voies de fait, violences, menaces, dons ou promesses, soit en faisant craindre à un électeur de perdre son
 emploi, d'être privé de son travail ou d'exposer à un dommage sa personne, sa famille ou sa fortune, ont influencé le vote
 dans les élections de délégués à la sécurité des ouvriers mineurs, sont punis d'un emprisonnement d'un an et d'une amende de
-3 750 Euros.
-
-En cas de récidive, l'emprisonnement peut être porté à deux ans et l'amende à 7 500 Euros.
+3 750 euros.
 
 **Nota:**
 
-NOTA : Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même
-temps que la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
+
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2009-526 du 12 mai 2009 - art. 122
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 7 () JORF 13 mars 2007 en vigueur au plus tard le 1er mars 2008
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 
 ###### Article 256
