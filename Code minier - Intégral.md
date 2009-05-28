@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2009-05-14
+Version Consolidée au 2009-05-29
 
 # Livre Ier : Régime général
 
@@ -2235,6 +2235,58 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 	**Nouveaux textes**:
 
 	  - Code minier (nouveau) - art. L611-35 (V)
+
+
+###### Article 68-20-1
+
+Dans le département de la Guyane, le schéma départemental d'orientation minière de la Guyane définit les conditions générales
+applicables à la prospection minière, ainsi que les modalités de l'implantation et de l'exploitation des sites miniers
+terrestres.A ce titre, il définit, notamment par un zonage, la compatibilité des différents espaces du territoire de la
+Guyane avec les activités minières, en prenant en compte la nécessité de protéger les milieux naturels sensibles, les
+paysages, les sites et les populations et de gérer de manière équilibrée l'espace et les ressources naturelles. Le schéma
+tient compte de l'intérêt économique de la Guyane et de la valorisation durable de ses ressources minières. Au sein des
+secteurs qu'il identifie comme compatibles avec une activité d'exploitation, il fixe les contraintes environnementales et les
+objectifs à atteindre en matière de remise en état des sites miniers. 
+
+Le schéma départemental d'orientation minière de la Guyane est élaboré ou mis à jour par le représentant de l'Etat dans le
+département. Le schéma ou sa mise à jour sont soumis à une évaluation environnementale en application de l'article L. 122-6
+du code de l'environnement
+. Il est mis à la disposition du public pendant une durée d'un mois. Le public est avisé des modalités de consultation au
+moins huit jours à l'avance. 
+
+Le schéma, éventuellement modifié pour tenir compte des observations et des propositions recueillies, est ensuite transmis
+pour avis au conseil régional, au conseil général de la Guyane, aux communes concernées et aux chambres consulaires. Ces avis
+sont réputés favorables s'ils n'interviennent pas dans un délai de deux mois. 
+
+Le schéma, éventuellement modifié pour tenir compte de ces avis, est approuvé par décret en Conseil d'Etat. 
+
+Le schéma ou sa mise à jour étant approuvés, le représentant de l'Etat dans le département en informe le public et met à sa
+disposition le schéma ainsi que les informations mentionnées au 2° du I de l'article L. 122-10 du code de l'environnement
+. 
+
+Dans le cadre défini par ce schéma, le représentant de l'Etat dans le département peut lancer des appels à candidature pour
+la recherche et l'exploitation aurifères sur la base d'un cahier des charges définissant, notamment, les contraintes
+d'exploitation et environnementales propres à chaque zone. 
+
+Les titres miniers délivrés en application du présent code doivent être compatibles avec ce schéma. 
+
+Le schéma d'aménagement régional de la Guyane et le schéma directeur d'aménagement et de gestion des eaux prennent en compte
+le schéma départemental d'orientation minière. Les documents d'urbanisme prennent en compte ou sont modifiés pour prendre en
+compte, dans un délai d'un an, le schéma départemental d'orientation minière. 
+
+Les titres miniers délivrés antérieurement à l'entrée en vigueur du schéma minier prévu au présent article continuent à
+produire leurs effets jusqu'à la date d'expiration de leur validité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 60
+
+	**Cite**:
+
+	  - Code de l'environnement - art. L122-10
+	  - Code de l'environnement - art. L122-6
 
 
 #### Section 4 : De la recherche et de l'exploitation en mer.
@@ -6075,6 +6127,158 @@ l'autorisation d'exploitation ;
 	  - Code minier 21, 22, 68, 68-9, 79, 79-1, 81, 83, 85, 86, 87, 90, 91, 107
 
 
+###### Article 141-1
+
+L'infraction définie au 1° de l'article 141 est punie de cinq ans d'emprisonnement et de 75 000 € d'amende lorsqu'elle
+s'accompagne d'atteintes à l'environnement caractérisées : 
+
+1° Soit par le fait de jeter, déverser ou laisser s'écouler dans les eaux superficielles ou souterraines, directement ou
+indirectement, une ou des substances quelconques dont l'action ou les réactions entraînent, même provisoirement, des effets
+sur la santé ou des dommages à la flore ou à la faune ; 
+
+2° Soit par l'émission de substances constitutive d'une pollution atmosphérique, telle que définie à l'article L. 220-2 du
+code de l'environnement ; 
+
+3° Soit par la coupe de toute nature des bois et forêts ; 
+
+4° Soit par la production ou la détention de déchets dans des conditions de nature à polluer le sol, l'air ou les eaux, à
+entraîner des dommages sur la flore et la faune, à dégrader les sites ou les paysages, à engendrer des bruits ou des odeurs
+et, d'une façon générale, à porter atteinte à la santé de l'homme et à l'environnement. 
+
+La peine mentionnée au premier alinéa est portée à dix ans d'emprisonnement et à 150 000 € d'amende lorsque l'infraction est
+commise en bande organisée. 
+
+Le tribunal peut également imposer au condamné de procéder à la restauration du milieu aquatique dans le délai qu'il fixe et
+assortir l'injonction d'une astreinte dont il fixe le taux et la durée maximale. Son montant est de 15 € à 3 000 € par jour
+de retard dans l'exécution des mesures imposées. 
+
+Lorsque la prescription a été exécutée avec retard, le tribunal liquide, s'il y a lieu, l'astreinte. Lorsqu'il y a eu
+inexécution, le tribunal liquide, s'il y a lieu, l'astreinte et peut ordonner que l'exécution de ces prescriptions soit
+poursuivie d'office aux frais du condamné. Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou le
+retard dans l'exécution des prescriptions en tenant compte, s'il y a lieu, de la survenance d'événements qui ne sont pas
+imputables à la personne condamnée.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-2 (V)
+
+	**Cite**:
+
+	  - Code minier - art. 141
+	  - Code de l'environnement - art. L220-2
+
+	**Cité par**:
+
+	  - Code minier - art. 141-2 (VT)
+	  - Code minier - art. 141-3 (VT)
+	  - Code minier - art. 141-4 (VT)
+
+
+###### Article 141-2
+
+Les personnes physiques coupables de l'infraction prévue à l'article 141-1 encourent également les peines complémentaires
+suivantes : 
+
+1° L'interdiction, suivant les modalités prévues par l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou
+sociale dans l'exercice ou à l'occasion de l'exercice de laquelle l'infraction a été commise ; 
+
+2° L'interdiction de détenir ou de porter, pour une durée de cinq ans au plus, une arme soumise à autorisation ; 
+
+3° L'interdiction, suivant les modalités prévues par l'article 131-26 du code pénal, des droits civiques, civils et de
+famille ; 
+
+4° L'interdiction, suivant les modalités prévues par l'article 131-27 du même code, d'exercer une fonction publique ; 
+
+5° L'interdiction de séjour, suivant les modalités prévues par l'article 131-31 du même code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-3 (V)
+
+	**Cite**:
+
+	  - Code pénal - art. 131-26
+	  - Code pénal - art. 131-27
+	  - Code pénal - art. 131-31
+	  - Code minier - art. 141-1
+
+
+###### Article 141-3
+
+Dans les cas prévus à l'article 141-1, doit être prononcée la confiscation des installations, matériels et de tout bien ayant
+servi, directement ou indirectement, à la commission de l'infraction, ainsi que de tout produit provenant de celle-ci, à
+quelque personne qu'ils appartiennent et en quelque lieu qu'ils se trouvent, dès lors que leurs propriétaires ne pouvaient en
+ignorer l'origine ou l'utilisation frauduleuse.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-4 (V)
+
+	**Cite**:
+
+	  - Code minier - art. 141-1
+
+
+###### Article 141-4
+
+Lorsque l'infraction mentionnée à l'article 141-1 est commise en Guyane et que le transfert des personnes interpellées dans
+le délai légal de la garde à vue soulève des difficultés matérielles insurmontables, le point de départ de la garde à vue
+peut exceptionnellement être retardé à l'arrivée dans les locaux du siège où cette mesure doit se dérouler et pour une durée
+ne pouvant excéder vingt heures. 
+
+Ce report est autorisé par le procureur de la République ou la juridiction d'instruction. 
+
+Mention des circonstances particulières justifiant la mesure est portée au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L621-8 (V)
+
+	**Cite**:
+
+	  - Code minier - art. 141-1
+
+
 ###### Article 142
 
 Est puni d'une peine d'emprisonnement d'un an et d'une amende de 15 000 euros le fait :
@@ -6156,34 +6360,33 @@ indéterminée).
 
 ###### Article 143
 
-Les personnes morales peuvent être déclarées responsables pénalement dans les conditions prévues par l'article 121-2 du code
-pénal des infractions prévues par les articles 141 et 142.
-
-Les peines encourues par les personnes morales sont :
-
-1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
-
-2° Les peines mentionnées aux 2°, 3°, 4°, 5°, 6°, 8° et 9° de l'article 131-39 du même code.
+Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des
+infractions définies aux articles 141, 141-1 et 142 du présent code encourent, outre l'amende suivant les modalités prévues
+par l'article 131-38 du code pénal, les peines prévues par les 2° à 6°, 8° et 9° de l'article 131-39 du même code.
 
 L'interdiction mentionnée au 2° de l'article 131-39 du même code porte sur l'activité dans l'exercice ou à l'occasion de
 l'exercice de laquelle l'infraction a été commise.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 198 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-6 (V)
 
 	**Cite**:
 
-	  - Code pénal - art. 121-2 (M)
-	  - Code pénal - art. 131-38 (M)
-	  - Code pénal - art. 131-39 (MMN)
-	  - Code minier 141, 142
+	  - Code pénal - art. 121-2
+	  - Code pénal - art. 131-38
+	  - Code pénal - art. 131-39
+	  - Code minier - art. 141
 
 
 ###### Article 144
@@ -6216,46 +6419,50 @@ prévues par l'article 131-35 du code pénal.
 
 ###### Article 144-1
 
-En cas de poursuite pour infraction aux dispositions des articles 141 et 142 du code minier, le tribunal peut ajourner le
-prononcé de la peine et enjoindre la personne physique ou morale déclarée coupable de se conformer aux prescriptions
-auxquelles il a été contrevenu.
+En cas de poursuite pour infraction aux dispositions des articles 141, 141-1 et 142 du code minier, le tribunal peut ajourner
+le prononcé de la peine et enjoindre la personne physique ou morale déclarée coupable de se conformer aux prescriptions
+auxquelles il a été contrevenu. 
 
 Le tribunal impartit un délai pour l'exécution de ces prescriptions. Il peut assortir l'injonction d'une astreinte dont il
 fixe le taux et la durée maximum. Son montant est de 15 à 3 000 euros par jour de retard dans l'exécution des mesures
 imposées.
 
 L'ajournement ne peut intervenir qu'une fois. Il peut être ordonné même si la personne physique coupable ou le représentant
-de la personne morale coupable n'est pas présent.
+de la personne morale coupable n'est pas présent. 
 
 La décision peut être assortie de l'exécution provisoire.
 
 A l'audience de renvoi, le tribunal peut soit dispenser le prévenu de peine, soit prononcer les peines prévues. La décision
-sur la peine intervient au plus tard un an après la décision d'ajournement.
+sur la peine intervient au plus tard un an après la décision d'ajournement. 
 
 Lorsque les prescriptions ont été exécutées avec retard, le tribunal liquide, s'il y a lieu, l'astreinte et prononce les
-peines prévues.
+peines prévues. 
 
 Lorsqu'il y a eu inexécution des prescriptions, le tribunal liquide, s'il y a lieu, l'astreinte, prononce les peines et peut
-ensuite ordonner que l'exécution de ces prescriptions soit poursuivie d'office aux frais du condamné.
+ensuite ordonner que l'exécution de ces prescriptions soit poursuivie d'office aux frais du condamné. 
 
-Le taux d'astreinte tel qu'il a été fixé par la décision d'ajournement ne peut être modifié.
+Le taux d'astreinte tel qu'il a été fixé par la décision d'ajournement ne peut être modifié. 
 
 Pour la liquidation de l'astreinte, la juridiction apprécie l'inexécution ou le retard dans l'exécution des prescriptions, en
 tenant compte, s'il y a lieu, de la survenance d'événements qui ne sont pas imputables au coupable.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2009-594 du 27 mai 2009 - art. 59
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L512-10 (V)
 
 	**Cite**:
 
-	  - Code minier 141, 142
+	  - Code minier - art. 141
 
 
 # Livre II : Régimes particuliers
