@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2009-05-29
+Version Consolidée au 2010-03-11
 
 # Livre Ier : Régime général
 
@@ -235,25 +235,37 @@ une date déterminée dans la classe des mines de substances antérieurement cla
 ###### Article 6
 
 Des décrets en Conseil d'Etat définissent, après avis du conseil général des mines et du comité de l'énergie atomique, celles
-des substances visées aux articles précédents qui sont utiles à l'énergie atomique.
+des substances visées aux articles précédents qui sont utiles à l'énergie atomique. 
 
-Le commissariat à l'énergie atomique, institué en vertu de l'ordonnance du 18 octobre 1945, organise et contrôle, d'accord
-avec les départements ministériels intéressés, la prospection et l'exploitation des gisements des matières premières
-nécessaires.
+Le     Commissariat à l'énergie atomique et aux énergies alternatives, institué en vertu de l'ordonnance du 18 octobre 1945,
+organise et contrôle, d'accord avec les départements ministériels intéressés, la prospection et l'exploitation des gisements
+des matières premières nécessaires.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne à l'article
+6 les mots " après avis du conseil général des mines et du Comité de l'énergie atomique " (Fin de vigueur : date
+indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
-	  - Ordonnance 45-2563 1945-10-18
+	  - Ordonnance n°45-2563 du 18 octobre 1945
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L111-3 (V)
+	  - Code minier (nouveau) - art. L311-2 (V)
 
 
 ## Titre II : Des recherches de mines.
@@ -3297,26 +3309,30 @@ application pourront être interdits par arrêté du préfet.
 
 Tout concessionnaire, tout titulaire de permis exclusif de recherches ou tout bénéficiaire des autorisations visées aux
 articles 8 et 22 ci-dessus doit, sous peine des sanctions prévues à l'article 141 ci-dessous, mettre à la disposition du
-commissariat à l'énergie atomique, sur sa demande et moyennant juste rémunération, les substances utiles à l'énergie atomique
-telles que définies par un des décrets prévus à l'article 6 ci-dessus, sur lesquelles porte sa concession, son permis ou son
-autorisation ou qui sont, dans un même gisement, connexes de celles sur lesquelles porte ce titre minier. Toutefois, il n'est
-pas tenu de le faire si la séparation des substances utiles à l'énergie atomique entraîne la destruction des produits
-principaux en vue desquels le gisement est exploité.
+Commissariat à l'énergie atomique et aux énergies alternatives, sur sa demande et moyennant juste rémunération, les
+substances utiles à l'énergie atomique telles que définies par un des décrets prévus à l'article 6 ci-dessus, sur lesquelles
+porte sa concession, son permis ou son autorisation ou qui sont, dans un même gisement, connexes de celles sur lesquelles
+porte ce titre minier. Toutefois, il n'est pas tenu de le faire si la séparation des substances utiles à l'énergie atomique
+entraîne la destruction des produits principaux en vue desquels le gisement est exploité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 12 () JORF 16 juillet 1994
-	  - Loi n°94-588 du 15 juillet 1994 - art. 46 () JORF 16 juillet 1994
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L121-4 (V)
+	  - Code minier (nouveau) - art. L131-5 (V)
 
 	**Cite**:
 
-	  - Code minier 8, 22, 141, 6
+	  - Code minier
 
 
 ###### Article 83
@@ -6065,54 +6081,50 @@ définitivement le renouvellement de cette ou de ces infractions.
 
 ###### Article 141
 
-Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait :
+Est puni d'une peine d'emprisonnement de deux ans et d'une amende de 30 000 euros le fait : 
 
 1° D'exploiter une mine ou de disposer d'une substance concessible sans détenir un titre d'exploitation ou une autorisation
-tels qu'ils sont respectivement prévus aux articles 21, 22, 68 et 68-9 ;
+tels qu'ils sont respectivement prévus aux articles 21, 22, 68 et 68-9 ; 
 
 2° De procéder à des travaux de recherches ou d'exploitation d'une mine sans se conformer aux mesures prescrites par
 l'autorité administrative dans les conditions prévues par le deuxième alinéa de l'article 79 pour assurer la protection des
-intérêts mentionnés au premier alinéa de cet article ;
+intérêts mentionnés au premier alinéa de cet article ; 
 
 3° D'exploiter des gisements sans se conformer aux mesures prescrites par l'autorité administrative par application de
-l'article 79-1 ;
+l'article 79-1 ; 
 
-4° De ne pas mettre à la disposition du Commissariat à l'énergie atomique les substances utiles à l'énergie atomique dans les
-conditions prévues par l'article 81 ;
+4° De ne pas mettre à la disposition du     Commissariat à l'énergie atomique et aux énergies alternatives les substances
+utiles à l'énergie atomique dans les conditions prévues par l'article 81 ; 
 
 5° De réaliser des travaux de recherches ou d'exploitation de mines ou de gîtes géothermiques sans l'autorisation prévue à
-l'article 83 ;
+l'article 83 ; 
 
 6° De ne pas avoir régulièrement déclaré, au terme de la validité du titre minier, l'arrêt définitif de tous les travaux ou
-de toutes les installations, dans les conditions prévues par l'article 91 ;
+de toutes les installations, dans les conditions prévues par l'article 91 ; 
 
 7° D'enfreindre celles des obligations prévues par les décrets pris en exécution de l'article 85, qui ont pour objet de
 protéger la sécurité ou l'hygiène du personnel occupé dans les mines, la sécurité et la salubrité publiques ou le milieu
-environnant ;
+environnant ; 
 
-8° De s'opposer à la réalisation des mesures prescrites par le préfet par application de l'article 86 ;
+8° De s'opposer à la réalisation des mesures prescrites par le préfet par application de l'article 86 ; 
 
-9° De refuser d'obtempérer aux réquisitions prévues par les articles 87 ou 90 ;
+9° De refuser d'obtempérer aux réquisitions prévues par les articles 87 ou 90 ; 
 
 10° De procéder à des travaux de recherches ou d'exploitation d'une carrière sans se conformer aux mesures prescrites par
 l'autorité administrative dans les conditions prévues par les deuxième et quatrième alinéas de l'article 107 pour assurer la
 conservation de la carrière ou d'un établissement voisin de mine ou de carrière ou la sécurité et la santé du personnel de la
-carrière ou d'un établissement voisin de mine ou de carrière ;
+carrière ou d'un établissement voisin de mine ou de carrière ; 
 
 11° Dans les départements d'outre-mer, de ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par
-l'autorisation d'exploitation ;
+l'autorisation d'exploitation ; 
 
 12° De céder, d'amodier ou de louer une autorisation d'exploitation.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
 	**Modifié par**:
 
-	  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+	  - Loi n°2010-237 du 9 mars 2010 - art. 9
 
 	**Cité par**:
 
@@ -6124,7 +6136,7 @@ l'autorisation d'exploitation ;
 
 	**Cite**:
 
-	  - Code minier 21, 22, 68, 68-9, 79, 79-1, 81, 83, 85, 86, 87, 90, 91, 107
+	  - Code minier
 
 
 ###### Article 141-1
