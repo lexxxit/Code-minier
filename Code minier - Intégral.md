@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2010-05-08
+Version Consolidée au 2010-07-14
 
 # Livre Ier : Régime général
 
@@ -193,43 +193,60 @@ liquides, liquéfiés ou gazeux ou de produits chimiques à destination industri
 	  - Code minier (nouveau) - art. L211-2 (V)
 
 
-###### Article 4
+###### Article 3-2
 
-Sont considérés comme carrières les gîtes ou formations souterraines non mentionnés aux articles 2, 3 et 3-1.
+Est soumise à la section 5 du chapitre IX du titre II du livre II du code de l'environnement la recherche de formations
+souterraines aptes au stockage géologique de dioxyde de carbone.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 80 (V)
+
+
+###### Article 4
+
+Sont considérés comme carrières les gîtes ou formations souterraines non mentionnés aux articles 2, 3, 3-1 et 3-2.
+
+**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2003-8 du 3 janvier 2003 - art. 28 () JORF 4 janvier 2003
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 80 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 	**Cite**:
 
-	  - Code minier 2, 3, 3-1
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L311-1 (M)
 
 
 ###### Article 5
 
-A toute époque, un décret en Conseil d'Etat, pris après enquête publique d'une durée de deux mois, peut décider le passage à
-une date déterminée dans la classe des mines de substances antérieurement classées sous la qualification de carrières.
+A toute époque, un décret en Conseil d'Etat, pris après enquête publique réalisée conformément au chapitre III du titre II du
+livre Ier du code de l'environnement, peut décider le passage à une date déterminée dans la classe des mines de substances
+antérieurement classées sous la qualification de carrières.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Décret n°56-838 1956-08-16 JORF 21 août 1956 rectificatifs JORF 11 septembre 1956, 15 septembre 1956
-
 	**Modifié par**:
 
-	  - Loi n°70-1 du 2 janvier 1970 - art. 4 () JORF 4 janvier 1970 en vigueur le 1er novembre 1970
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L312-1 (V)
 
 
 ###### Article 6
@@ -654,11 +671,11 @@ Sont meubles aussi les matières extraites, les approvisionnements et autres obj
 
 ###### Article 25
 
-La concession est accordée par décret en Conseil d'Etat après enquête publique et mise en concurrence sous réserve de
-l'application des dispositions de l'article 26 et de l'engagement à respecter des conditions générales. Le cas échéant, ces
-conditions générales sont complétées par des conditions spécifiques faisant l'objet d'un cahier des charges. Les conditions
-générales et spécifiques sont définies par décret en Conseil d'Etat et préalablement portées à la connaissance des
-pétitionnaires.
+La concession est accordée par décret en Conseil d'Etat après enquête publique réalisée conformément au chapitre III du titre
+II du livre Ier du code de l'environnement et mise en concurrence sous réserve de l'application des dispositions de l'article
+26 et de l'engagement à respecter des conditions générales. Le cas échéant, ces conditions générales sont complétées par des
+conditions spécifiques faisant l'objet d'un cahier des charges. Les conditions générales et spécifiques sont définies par
+décret en Conseil d'Etat et préalablement portées à la connaissance des pétitionnaires.
 
 Nul ne peut obtenir une concession de mines s'il ne possède les capacités techniques et financières nécessaires pour mener à
 bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 79, 79-1 et 91. Un décret en
@@ -670,23 +687,31 @@ concessionnaire. Dans ce cas, l'inventeur est préalablement appelé à présent
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
-	**Modifié par**:
-
-	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
-
 	**Cité par**:
 
 	  - Décret n°2006-648 du 2 juin 2006 - art. 24 (V)
 	  - Décret n°2006-798 du 6 juillet 2006 - art. 3 (V)
 	  - Code de l'environnement - art. L229-44 (V)
 
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
 	**Cite**:
 
-	  - Code minier 26, 79, 79-1, 91
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L132-1 (V)
+	  - Code minier (nouveau) - art. L132-2 (V)
+	  - Code minier (nouveau) - art. L132-3 (V)
+	  - Code minier (nouveau) - art. L132-4 (V)
+	  - Code minier (nouveau) - art. L132-7 (V)
 
 
 ###### Article 26
@@ -1259,9 +1284,9 @@ antérieurement à cette date.
 
 ###### Article 51
 
-Les permis d'exploitation de mines sont accordés par arrêté du ministre chargé des mines, après enquête publique, sur avis
-conforme du Conseil général des mines et, s'il s'agit de substances utiles à l'énergie atomique, sur avis du Comité de
-l'énergie atomique.
+Les permis d'exploitation de mines sont accordés par arrêté du ministre chargé des mines, après enquête publique réalisée
+conformément au chapitre III du titre II du livre Ier du code de l'environnement, sur avis conforme du Conseil général des
+mines et, s'il s'agit de substances utiles à l'énergie atomique, sur avis du Comité de l'énergie atomique.
 
 A l'arrêté institutif peuvent être annexées des conditions particulières comprenant notamment :
 
@@ -1273,19 +1298,17 @@ Des obligations concernant le contrôle de la société ou des sociétés titula
 
 Des obligations concernant la disposition des produits.
 
+**Nota:**
+
+Ces dispositions s'appliquent aux projets, plans, programmes ou autres documents de planification pour lesquels l'arrêté
+d'ouverture et d'organisation de l'enquête publique est publié à compter du premier jour du sixième mois après la publication
+du décret en Conseil d'Etat prévu à l'article L. 123-19 du code de l'environnement.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
 
 	**Modifié par**:
 
-	  - Loi n°99-245 du 30 mars 1999 - art. 8 () JORF 31 mars 1999
-
-	**Cite**:
-
-	  - Code minier 91
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
 
 ###### Article 52
@@ -1698,23 +1721,30 @@ du droit de faire tous travaux de recherches et d'exploitation des substances qu
 L'autorisation d'exploitation, qui peut à cet égard être complétée à tout moment, fixe les conditions particulières dans
 lesquelles les travaux sont entrepris, exécutés et arrêtés dans le respect des intérêts mentionnés aux articles 79 et 79-1.
 
+L'autorisation définit, pour les mines mentionnées à l'article 83-1, le montant et les modalités de constitution des
+garanties financières ainsi que les modalités d'actualisation de ce montant.
+
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
-
-	**Créé par**:
-
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 171
 
 	**Cité par**:
 
 	  - Décret n°2010-1389 du 12 novembre 2010 - art. 2 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-14 (V)
+
 	**Cite**:
 
-	  - Code minier 79, 79-1
+	  - Code minier
 
 
 ###### Article 68-3
@@ -1902,10 +1932,11 @@ décret en Conseil d'Etat.
 
 ###### Article 68-9
 
-Le permis d'exploitation est accordé par l'autorité administrative, après enquête publique et, sauf dans les cas prévus par
-l'article 68-10, mise en concurrence, et sous réserve de l'engagement de respecter des conditions générales. Ce titre peut
-être accordé conjointement à plusieurs personnes, physiques ou sociétés commerciales. Les modalités d'application du présent
-alinéa sont définies par décret en Conseil d'Etat.
+Le permis d'exploitation est accordé par l'autorité administrative, après enquête publique réalisée conformément au chapitre
+III du titre II du livre Ier du code de l'environnement et, sauf dans les cas prévus par l'article 68-10, mise en
+concurrence, et sous réserve de l'engagement de respecter des conditions générales. Ce titre peut être accordé conjointement
+à plusieurs personnes, physiques ou sociétés commerciales. Les modalités d'application du présent alinéa sont définies par
+décret en Conseil d'Etat.
 
 Nul ne peut obtenir un permis d'exploitation s'il ne possède les capacités techniques et financières nécessaires pour mener à
 bien les travaux d'exploitation et pour répondre aux obligations mentionnées aux articles 79 et 79-1. Un décret en Conseil
@@ -1917,17 +1948,24 @@ lui est due par le détenteur. Dans ce cas, l'inventeur est préalablement appel
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L611-20 (V)
+	  - Code minier (nouveau) - art. L611-21 (V)
+	  - Code minier (nouveau) - art. L611-22 (V)
+	  - Code minier (nouveau) - art. L611-25 (V)
 
 	**Cite**:
 
-	  - Code minier 68-10, 79, 79-1
+	  - Code minier
 
 
 ###### Article 68-10
@@ -2253,7 +2291,7 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 
 Dans le département de la Guyane, le schéma départemental d'orientation minière de la Guyane définit les conditions générales
 applicables à la prospection minière, ainsi que les modalités de l'implantation et de l'exploitation des sites miniers
-terrestres.A ce titre, il définit, notamment par un zonage, la compatibilité des différents espaces du territoire de la
+terrestres. A ce titre, il définit, notamment par un zonage, la compatibilité des différents espaces du territoire de la
 Guyane avec les activités minières, en prenant en compte la nécessité de protéger les milieux naturels sensibles, les
 paysages, les sites et les populations et de gérer de manière équilibrée l'espace et les ressources naturelles. Le schéma
 tient compte de l'intérêt économique de la Guyane et de la valorisation durable de ses ressources minières. Au sein des
@@ -2262,38 +2300,65 @@ objectifs à atteindre en matière de remise en état des sites miniers.
 
 Le schéma départemental d'orientation minière de la Guyane est élaboré ou mis à jour par le représentant de l'Etat dans le
 département. Le schéma ou sa mise à jour sont soumis à une évaluation environnementale en application de l'article L. 122-6
-du code de l'environnement
-. Il est mis à la disposition du public pendant une durée d'un mois. Le public est avisé des modalités de consultation au
-moins huit jours à l'avance. 
+du code de l'environnement. Il est mis à la disposition du public pendant une durée de deux mois. Le public est avisé des
+modalités de consultation au moins quinze jours à l'avance. 
 
 Le schéma, éventuellement modifié pour tenir compte des observations et des propositions recueillies, est ensuite transmis
-pour avis au conseil régional, au conseil général de la Guyane, aux communes concernées et aux chambres consulaires. Ces avis
-sont réputés favorables s'ils n'interviennent pas dans un délai de deux mois. 
+pour avis au conseil régional, au conseil général de la Guyane, aux communes concernées, à la commission départementale des
+mines et aux chambres consulaires. Ces avis sont réputés favorables s'ils n'interviennent pas dans un délai de trois mois. 
 
 Le schéma, éventuellement modifié pour tenir compte de ces avis, est approuvé par décret en Conseil d'Etat. 
 
 Le schéma ou sa mise à jour étant approuvés, le représentant de l'Etat dans le département en informe le public et met à sa
-disposition le schéma ainsi que les informations mentionnées au 2° du I de l'article L. 122-10 du code de l'environnement
-. 
+disposition le schéma ainsi que les informations mentionnées au 2° du I de l'article L. 122-10 du code de l'environnement. 
 
-Dans le cadre défini par ce schéma, le représentant de l'Etat dans le département peut lancer des appels à candidature pour
-la recherche et l'exploitation aurifères sur la base d'un cahier des charges définissant, notamment, les contraintes
-d'exploitation et environnementales propres à chaque zone. 
+Dans le cadre défini par ce schéma, le représentant de l'Etat dans le département peut lancer, après consultation des
+collectivités territoriales mentionnées au troisième alinéa, des appels à candidature pour la recherche et l'exploitation
+aurifères sur la base d'un cahier des charges définissant, notamment, les contraintes d'exploitation et environnementales
+propres à chaque zone. 
 
-Les titres miniers délivrés en application du présent code doivent être compatibles avec ce schéma. 
+Les titres et autorisations miniers délivrés en application du présent code doivent être compatibles avec ce schéma. Aucun
+permis de recherche ne peut être délivré dans des zones interdites à toute exploitation minière. 
 
 Le schéma d'aménagement régional de la Guyane et le schéma directeur d'aménagement et de gestion des eaux prennent en compte
 le schéma départemental d'orientation minière. Les documents d'urbanisme prennent en compte ou sont modifiés pour prendre en
 compte, dans un délai d'un an, le schéma départemental d'orientation minière. 
 
-Les titres miniers délivrés antérieurement à l'entrée en vigueur du schéma minier prévu au présent article continuent à
-produire leurs effets jusqu'à la date d'expiration de leur validité.
+Les titres et autorisations miniers délivrés antérieurement à l'entrée en vigueur du schéma minier prévu au présent article
+continuent à produire leurs effets jusqu'à la date d'expiration de leur validité. 
+
+Toutefois, dans les zones interdites à toute exploitation minière et dans les zones où l'exploitation minière est interdite,
+sauf exploitation souterraine et recherches aériennes, dans le schéma départemental d'orientation minière, la durée des
+titres de recherche et des concessions en cours de validité ne peut être prolongée. La durée des autres titres d'exploitation
+en cours de validité ne peut être prolongée qu'une fois. Dans les mêmes zones, les titulaires d'un permis exclusif de
+recherche peuvent obtenir un titre d'exploitation. La durée de ce titre ne peut toutefois être prolongée.
+
+**Nota:**
+
+Ordonnance n° 2011-91 du 20 janvier 2011 article 19 : L'abrogation des dispositions mentionnées au I de l'article 17 ne
+prendra effet qu'à compter de la publication des dispositions réglementaires du code minier pour ce qui concerne au deuxième
+alinéa de l'article 68-20-1 les mots " par le représentant de l'Etat dans le département " et les mots " après avis de la
+commission départementale des mines " (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2009-594 du 27 mai 2009 - art. 60
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 172
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L621-1 (V)
+	  - Code minier (nouveau) - art. L621-2 (V)
+	  - Code minier (nouveau) - art. L621-3 (V)
+	  - Code minier (nouveau) - art. L621-4 (V)
+	  - Code minier (nouveau) - art. L621-5 (V)
+	  - Code minier (nouveau) - art. L621-6 (V)
+	  - Code minier (nouveau) - art. L621-7 (V)
 
 	**Cite**:
 
@@ -3338,7 +3403,8 @@ entraîne la destruction des produits principaux en vue desquels le gisement est
 ###### Article 83
 
 L'ouverture de travaux de recherches et d'exploitation de mines est subordonnée à une autorisation administrative, accordée,
-après enquête publique et consultation des communes intéressées, dans les conditions prévues par décret en Conseil d'Etat.
+après enquête publique réalisée conformément au chapitre III du titre II du livre Ier du code de l'environnement et
+consultation des communes intéressées, dans les conditions prévues par décret en Conseil d'Etat.
 
 Ce décret détermine les critères et les seuils au-dessous desquels les travaux de recherches et d'exploitation de mines sont
 dispensés d'enquête publique ou soumis à déclaration.
@@ -3346,15 +3412,18 @@ dispensés d'enquête publique ou soumis à déclaration.
 L'autorisation, qui peut être complétée ultérieurement, fixe les conditions particulières dans lesquelles les travaux de
 recherches et d'exploitation sont réalisés, dans le respect des intérêts mentionnés aux articles 79 et 79-1.
 
+L'autorisation définit, pour les mines mentionnées à l'article 83-1, le montant et les modalités de constitution des
+garanties financières ainsi que les modalités d'actualisation de ce montant.
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
 
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 21 () JORF 16 juillet 1994
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 171
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 	**Cité par**:
 
@@ -3365,7 +3434,58 @@ recherches et d'exploitation sont réalisés, dans le respect des intérêts men
 
 	**Cite**:
 
-	  - Code minier 79, 79-1
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L162-1 (V)
+	  - Code minier (nouveau) - art. L162-12 (V)
+	  - Code minier (nouveau) - art. L162-4 (V)
+	  - Code minier (nouveau) - art. L162-5 (V)
+
+
+###### Article 83-1
+
+L'ouverture de travaux de recherches ou d'exploitation de mines est soumise à la constitution de garanties financières pour
+les mines comportant des installations de gestion de déchets lorsqu'une défaillance de fonctionnement ou d'exploitation,
+telle que l'effondrement d'un terril ou la rupture d'une digue, pourrait causer un accident majeur, sur la base d'une
+évaluation du risque prenant en compte des facteurs tels que la taille actuelle ou future, la localisation et l'incidence de
+l'installation sur l'environnement. 
+
+Ces garanties sont destinées à assurer, suivant la nature des dangers ou inconvénients de chaque catégorie d'installations,
+la surveillance du site et le maintien en sécurité de l'installation, les interventions éventuelles en cas d'accident avant
+ou après la fermeture et la remise en état après fermeture. Elles ne couvrent pas les indemnisations dues par l'exploitant
+aux tiers qui pourraient subir un préjudice par fait de pollution ou d'accident causé par l'installation. 
+
+Un décret en Conseil d'Etat détermine la nature des garanties et les règles de fixation de leur montant. 
+
+Les exploitations de mines existantes à la date de publication de la loi n° 2010-788 du 12 juillet 2010 portant engagement
+national pour l'environnement sont mises en conformité avec l'obligation de constitution de garanties financières au plus
+tard le 1er mai 2014.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°2010-788 du 12 juillet 2010
+
+	**Modifié par**:
+
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 171
+
+	**Cité par**:
+
+	  - Décret n°2010-1389 du 12 novembre 2010 - art. 1 (V)
+	  - Décret n°2010-1389 du 12 novembre 2010 - art. 3 (V)
+	  - Décret n°2010-1389 du 12 novembre 2010 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L162-2 (V)
 
 
 ###### Article 84-1
@@ -3895,7 +4015,8 @@ Un décret en Conseil d'Etat précise les modalités d'application du présent c
 ###### Article 98
 
 Nul ne peut entreprendre un forage en vue de la recherche de gîtes géothermiques à basse température sans une autorisation de
-recherches accordée par arrêté préfectoral après enquête publique.
+recherches accordée par arrêté préfectoral après enquête publique réalisée conformément au chapitre III du titre II du livre
+Ier du code de l'environnement.
 
 L'autorisation détermine soit l'emplacement du ou des forages à entreprendre, soit le tracé d'un périmètre à l'intérieur
 duquel ces forages peuvent être exécutés. Le titulaire de l'autorisation de recherches est seul habilité, dans le périmètre
@@ -3904,13 +4025,18 @@ peut excéder trois ans.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°56-838 1956-08-16
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°77-620 du 16 juin 1977 - art. 23 () JORF 18 juin 1977
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L124-4 (V)
+	  - Code minier (nouveau) - art. L124-6 (M)
 
 
 ###### Article 99
@@ -4660,8 +4786,8 @@ Lorsque la mise en valeur des gîtes d'une substance appartenant à la classe de
 l'insuffisance des ressources connues et accessibles de cette substance, prendre ou maintenir le développement nécessaire
 pour satisfaire les besoins des consommateurs, l'intérêt économique national ou celui de la région, des décrets en Conseil
 d'Etat peuvent, au vu d'une évaluation de l'impact sur l'environnement des activités envisagées et après consultation de la
-ou des commissions départementales des carrières concernées et enquête publique de deux mois, définir les zones où sont
-accordés :
+ou des commissions départementales des carrières concernées et enquête publique réalisée conformément au III du titre II du
+livre Ier du code de l'environnement, définir les zones où sont accordés :
 
 1° Des autorisations de recherches à défaut du consentement du propriétaire du sol, le titulaire d'une telle autorisation
 bénéficiant des dispositions des articles 71 à 71-6 du présent code ;
@@ -4678,13 +4804,13 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°56-838 1956-08-16
-
 	**Modifié par**:
 
-	  - Loi n°94-588 du 15 juillet 1994 - art. 30 () JORF 16 juillet 1994
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 240
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
 
 	**Cité par**:
 
@@ -4697,7 +4823,14 @@ Un décret en Conseil d'Etat fixe les conditions d'application du présent artic
 
 	**Cite**:
 
-	  - Code minier 71 à 71-6, 71 à 73
+	  - Code minier
+
+	**Nouveaux textes**:
+
+	  - Code minier (nouveau) - art. L321-1 (V)
+	  - Code minier (nouveau) - art. L322-1 (V)
+	  - Code minier (nouveau) - art. L333-1 (V)
+	  - Code minier (nouveau) - art. L333-2 (V)
 
 
 ###### Article 109-1
@@ -6121,13 +6254,16 @@ carrière ou d'un établissement voisin de mine ou de carrière ;
 11° Dans les départements d'outre-mer, de ne pas respecter les prescriptions relatives à l'arrêt des travaux prévues par
 l'autorisation d'exploitation ; 
 
-12° De céder, d'amodier ou de louer une autorisation d'exploitation.
+12° De céder, d'amodier ou de louer une autorisation d'exploitation ;
+
+13° D'exploiter une mine soumise à une obligation de constitution de garanties financières sans avoir constitué ou communiqué
+au représentant de l'Etat dans le département les garanties financières requises.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°2010-237 du 9 mars 2010 - art. 9
+	  - Loi n°2010-788 du 12 juillet 2010 - art. 171
 
 	**Cité par**:
 
@@ -6137,9 +6273,11 @@ l'autorisation d'exploitation ;
 	  - Code minier - art. 144-1 (VT)
 	  - Code minier - art. 251-18 (VD)
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code minier
+	  - Code minier (nouveau) - art. L512-1 (M)
+	  - Code minier (nouveau) - art. L615-1 (V)
+	  - Code minier (nouveau) - art. L615-2 (V)
 
 
 ###### Article 141-1
