@@ -1,5 +1,5 @@
 # Code minier  
-Version Consolidée au 2011-03-01
+Version Consolidée au 2017-03-02
 
 # Livre Ier : Régime général
 
@@ -512,8 +512,8 @@ indéterminée).
 
 ###### Article 68-19
 
-Il est créé, en tant que de besoin, dans chaque département d'outre-mer, une commission départementale des mines. Cette
-commission, présidée par le représentant de l'Etat, est composée à parts égales :
+Il est créé, en tant que de besoin, dans chaque collectivité territoriale régie par l'article 73 de la Constitution, une
+commission départementale des mines. Cette commission, présidée par le représentant de l'Etat, est composée à parts égales :
 
 1° De représentants élus des collectivités territoriales ;
 
@@ -521,7 +521,13 @@ commission, présidée par le représentant de l'Etat, est composée à parts é
 
 3° De représentants des exploitants de mines ;
 
-4° De représentants des associations de protection de l'environnement et d'une personnalité qualifiée. (1) 
+4° De représentants des associations de protection de l'environnement et d'une personnalité qualifiée ; (1)
+
+5° De représentants des secteurs économiques concernés ;
+
+6° De représentants des organismes représentatifs des communautés locales concernées.
+
+Les membres mentionnés aux 5° et 6° n'ont droit à aucun remboursement de leurs frais de déplacement.
 
 La commission des mines émet un avis sur les demandes relatives aux titres miniers.
 
@@ -539,13 +545,9 @@ prendra effet qu'à compter de la publication des dispositions réglementaires d
 
 	  - Décret n°56-838 du 16 août 1956 portant code minier
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°98-297 du 21 avril 1998 - art. 5 () JORF 22 avril 1998
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2011-91 du 20 janvier 2011 - art. 17 (VD)
+	  - Loi n°2017-256 du 28 février 2017 - art. 81
 
 
 ###### Article 68-20
